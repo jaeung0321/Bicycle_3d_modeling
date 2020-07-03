@@ -1,0 +1,30 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2020 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 2608
+!	Application: Creo_Parametric
+!	Start date&time: 2020/07/03  12:05:15
+!	language: korean
+!	machine type: i486_nt
+!	datecode: M100
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: D:\project\team\prt\traceback.log
+!end Exit Logger data.
+< 0 1.216000 1756 0 0 1026 1920 0 0 1080 13
+!mem_use INCREASE Blocks 651728, AppSize 62682528, SysSize 75195960
+< 0 0.995556 1625 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1511 0 0 840 1920 0 0 1080 13
+!%CIPTC Creo Parametric 3.0에 오신 것을 환영합니다.
+< 0 0.992000 1511 0 0 837 1920 0 0 1080 13
+~ Sync LearnConn_Startup
+~ Activate `transient_balloon` `no`
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+!mem_use INCREASE Blocks 683675, AppSize 88943218, SysSize 102780856
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `network`
