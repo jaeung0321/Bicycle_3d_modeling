@@ -1,0 +1,448 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2020 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 8056
+!	Application: Creo_Parametric
+!	Start date&time: 2020/07/02  02:20:21
+!	language: korean
+!	machine type: i486_nt
+!	datecode: M100
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: D:\project\team\prt\traceback.log
+!end Exit Logger data.
+< 0 1.216000 1756 0 0 1026 1920 0 0 1080 13
+!mem_use INCREASE Blocks 651734, AppSize 62682720, SysSize 75195960
+< 0 0.995556 1625 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1511 0 0 840 1920 0 0 1080 13
+!%CIPTC Creo Parametric 3.0에 오신 것을 환영합니다.
+< 0 0.992000 1511 0 0 837 1920 0 0 1080 13
+~ Sync LearnConn_Startup
+~ Activate `transient_balloon` `no`
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+!mem_use INCREASE Blocks 683686, AppSize 88884250, SysSize 102719744
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `Current Dir`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:main_sketch.asm`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Select `file_open` `Ph_list.Filelist` 1 `Frame`
+~ Activate `file_open` `Ph_list.Filelist` 1 `Frame`
+~ Select `file_open` `Ph_list.Filelist` 1 `frame.asm`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!02-Jul-20 02:20:35  Start D:\project\team\prt\Frame\frame.asm.53
+!02-Jul-20 02:20:35  Start D:\project\team\prt\Frame\frame.prt.21
+!02-Jul-20 02:20:35  End   D:\project\team\prt\Frame\frame.prt.21
+!%CE모델 FORK을 읽어들일수 없습니다.
+!%CE모델 FORK_STACK을 읽어들일수 없습니다.
+!%CE모델 FORK_STACK_UP을 읽어들일수 없습니다.
+!%CE모델 BIBI을 읽어들일수 없습니다.
+!%CE모델 CRANK을 읽어들일수 없습니다.
+!%CE모델 FEDAL_TOTAL을 읽어들일수 없습니다.
+!%CE모델 WHEEL을 읽어들일수 없습니다.
+!%CE모델 BREAK_LOW_RIGHT을 읽어들일수 없습니다.
+!%CE모델 BREAK_LOW_RIGHT을 읽어들일수 없습니다.
+!%CE모델 CRANK_GEAR_RIGHT을 읽어들일수 없습니다.
+!%CE모델 FEDAL_TOTAL을 읽어들일수 없습니다.
+!%CE모델 SP_SMALL을 읽어들일수 없습니다.
+!%CE모델 TIRE_을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_INNER을 읽어들일수 없습니다.
+!%CE모델 CHAINLINK_OUTER_LAST을 읽어들일수 없습니다.
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-02 at 02:20:36
+!ProgressBarDlg: Regen Started
+!%CE모델 FORK을 읽어들일수 없습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE모델 BIBI을 읽어들일수 없습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE모델 WHEEL을 읽어들일수 없습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE모델 SP_SMALL을 읽어들일수 없습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-02 at 02:20:36
+!%CE모델 TIRE_을 읽어들일수 없습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CE피쳐 재생성에 실패했습니다.
+!%CI다음 비표준 피쳐 또는 컴포넌트 상태로 FRAME 재생성이 완료되었습니다. 실패: 5개 실패한 자 피쳐: 106개 
+!ProgressBarDlg: Regen Completed
+!02-Jul-20 02:20:36  End   D:\project\team\prt\Frame\frame.asm.53
+< 0 0.986074 1511 0 0 832 1920 0 0 1080 13
+!mem_use INCREASE Blocks 810119, AppSize 133734768, SysSize 154996072
+~ MButtonArm `main_dlg_cur` `proe_win` 9 672 384 0 2 1511 832 1920 1080 18439
+~ Move `main_dlg_cur` `proe_win` 9 671 384 0 514 1511 832 1920 1080 18498
+~ Move `main_dlg_cur` `proe_win` 9 670 384 0 514 1511 832 1920 1080 18523
+~ Move `main_dlg_cur` `proe_win` 9 670 383 0 1026 1511 832 1920 1080 18529
+~ Move `main_dlg_cur` `proe_win` 9 669 383 0 514 1511 832 1920 1080 18533
+~ Move `main_dlg_cur` `proe_win` 9 668 383 0 514 1511 832 1920 1080 18538
+~ Move `main_dlg_cur` `proe_win` 9 667 383 0 514 1511 832 1920 1080 18548
+~ Move `main_dlg_cur` `proe_win` 9 666 383 0 514 1511 832 1920 1080 18558
+~ Move `main_dlg_cur` `proe_win` 9 666 382 0 1026 1511 832 1920 1080 18562
+~ Move `main_dlg_cur` `proe_win` 9 665 382 0 514 1511 832 1920 1080 18567
+~ Move `main_dlg_cur` `proe_win` 9 665 381 0 1026 1511 832 1920 1080 18573
+~ Move `main_dlg_cur` `proe_win` 9 664 381 0 514 1511 832 1920 1080 18575
+~ Move `main_dlg_cur` `proe_win` 9 663 381 0 514 1511 832 1920 1080 18579
+~ Move `main_dlg_cur` `proe_win` 9 662 381 0 514 1511 832 1920 1080 18586
+~ Move `main_dlg_cur` `proe_win` 9 662 380 0 1026 1511 832 1920 1080 18592
+~ Move `main_dlg_cur` `proe_win` 9 661 380 0 514 1511 832 1920 1080 18593
+~ Move `main_dlg_cur` `proe_win` 9 660 380 0 514 1511 832 1920 1080 18599
+~ Move `main_dlg_cur` `proe_win` 9 659 380 0 514 1511 832 1920 1080 18601
+~ Move `main_dlg_cur` `proe_win` 9 659 379 0 1026 1511 832 1920 1080 18603
+~ Move `main_dlg_cur` `proe_win` 9 658 379 0 514 1511 832 1920 1080 18607
+~ Move `main_dlg_cur` `proe_win` 9 657 379 0 514 1511 832 1920 1080 18612
+~ Move `main_dlg_cur` `proe_win` 9 657 378 0 1026 1511 832 1920 1080 18618
+~ Move `main_dlg_cur` `proe_win` 9 656 378 0 514 1511 832 1920 1080 18620
+~ Move `main_dlg_cur` `proe_win` 9 655 378 0 514 1511 832 1920 1080 18622
+~ Move `main_dlg_cur` `proe_win` 9 655 377 0 1026 1511 832 1920 1080 18624
+~ Move `main_dlg_cur` `proe_win` 9 654 377 0 514 1511 832 1920 1080 18631
+~ Move `main_dlg_cur` `proe_win` 9 653 377 0 514 1511 832 1920 1080 18640
+~ Move `main_dlg_cur` `proe_win` 9 653 376 0 1026 1511 832 1920 1080 18642
+~ Move `main_dlg_cur` `proe_win` 9 652 376 0 514 1511 832 1920 1080 18656
+~ Move `main_dlg_cur` `proe_win` 9 651 376 0 514 1511 832 1920 1080 18663
+~ Move `main_dlg_cur` `proe_win` 9 651 375 0 1026 1511 832 1920 1080 18665
+~ Move `main_dlg_cur` `proe_win` 9 650 375 0 514 1511 832 1920 1080 18680
+~ Move `main_dlg_cur` `proe_win` 9 649 375 0 514 1511 832 1920 1080 18697
+~ Move `main_dlg_cur` `proe_win` 9 649 374 0 1026 1511 832 1920 1080 18699
+~ Move `main_dlg_cur` `proe_win` 9 649 373 0 1026 1511 832 1920 1080 18706
+~ Move `main_dlg_cur` `proe_win` 9 648 373 0 514 1511 832 1920 1080 18710
+~ Move `main_dlg_cur` `proe_win` 9 647 373 0 514 1511 832 1920 1080 18715
+~ Move `main_dlg_cur` `proe_win` 9 647 372 0 1026 1511 832 1920 1080 18720
+~ Move `main_dlg_cur` `proe_win` 9 646 372 0 514 1511 832 1920 1080 18724
+~ Move `main_dlg_cur` `proe_win` 9 646 371 0 1026 1511 832 1920 1080 18736
+~ Move `main_dlg_cur` `proe_win` 9 645 371 0 514 1511 832 1920 1080 18738
+~ Move `main_dlg_cur` `proe_win` 9 645 370 0 1026 1511 832 1920 1080 18746
+~ Move `main_dlg_cur` `proe_win` 9 644 370 0 514 1511 832 1920 1080 18760
+~ Move `main_dlg_cur` `proe_win` 9 644 369 0 1026 1511 832 1920 1080 18762
+~ Move `main_dlg_cur` `proe_win` 9 643 369 0 514 1511 832 1920 1080 18768
+~ Move `main_dlg_cur` `proe_win` 9 643 368 0 1026 1511 832 1920 1080 18784
+~ Move `main_dlg_cur` `proe_win` 9 642 368 0 514 1511 832 1920 1080 18787
+~ Move `main_dlg_cur` `proe_win` 9 642 367 0 1026 1511 832 1920 1080 18802
+~ Move `main_dlg_cur` `proe_win` 9 641 367 0 514 1511 832 1920 1080 18808
+~ Move `main_dlg_cur` `proe_win` 9 641 366 0 1026 1511 832 1920 1080 18819
+~ Move `main_dlg_cur` `proe_win` 9 640 366 0 514 1511 832 1920 1080 18834
+~ Move `main_dlg_cur` `proe_win` 9 640 365 0 1026 1511 832 1920 1080 18839
+~ Move `main_dlg_cur` `proe_win` 9 639 365 0 514 1511 832 1920 1080 18844
+~ Move `main_dlg_cur` `proe_win` 9 639 364 0 1026 1511 832 1920 1080 18855
+~ Move `main_dlg_cur` `proe_win` 9 639 363 0 1026 1511 832 1920 1080 18869
+~ Move `main_dlg_cur` `proe_win` 9 638 363 0 514 1511 832 1920 1080 18879
+~ Move `main_dlg_cur` `proe_win` 9 638 362 0 1026 1511 832 1920 1080 18884
+~ Move `main_dlg_cur` `proe_win` 9 638 361 0 1026 1511 832 1920 1080 18897
+~ Move `main_dlg_cur` `proe_win` 9 638 360 0 1026 1511 832 1920 1080 18903
+~ Move `main_dlg_cur` `proe_win` 9 637 360 0 514 1511 832 1920 1080 18905
+~ Move `main_dlg_cur` `proe_win` 9 637 359 0 1026 1511 832 1920 1080 18921
+~ Move `main_dlg_cur` `proe_win` 9 638 359 0 514 1511 832 1920 1080 19212
+~ Move `main_dlg_cur` `proe_win` 9 638 360 0 1026 1511 832 1920 1080 19216
+~ Move `main_dlg_cur` `proe_win` 9 638 361 0 1026 1511 832 1920 1080 19221
+~ Move `main_dlg_cur` `proe_win` 9 638 362 0 1026 1511 832 1920 1080 19232
+~ Move `main_dlg_cur` `proe_win` 9 638 363 0 1026 1511 832 1920 1080 19240
+~ Move `main_dlg_cur` `proe_win` 9 638 364 0 1026 1511 832 1920 1080 19248
+~ Move `main_dlg_cur` `proe_win` 9 638 365 0 1026 1511 832 1920 1080 19251
+~ Move `main_dlg_cur` `proe_win` 9 638 366 0 1026 1511 832 1920 1080 19257
+~ Move `main_dlg_cur` `proe_win` 9 638 367 0 1026 1511 832 1920 1080 19264
+~ Move `main_dlg_cur` `proe_win` 9 638 368 0 1026 1511 832 1920 1080 19270
+~ Move `main_dlg_cur` `proe_win` 9 638 369 0 1026 1511 832 1920 1080 19276
+~ Move `main_dlg_cur` `proe_win` 9 638 370 0 1026 1511 832 1920 1080 19278
+~ Move `main_dlg_cur` `proe_win` 9 638 371 0 1026 1511 832 1920 1080 19285
+~ Move `main_dlg_cur` `proe_win` 9 638 372 0 1026 1511 832 1920 1080 19292
+~ Move `main_dlg_cur` `proe_win` 9 638 373 0 1026 1511 832 1920 1080 19300
+~ Move `main_dlg_cur` `proe_win` 9 638 374 0 1026 1511 832 1920 1080 19303
+~ Move `main_dlg_cur` `proe_win` 9 638 375 0 1026 1511 832 1920 1080 19310
+~ Move `main_dlg_cur` `proe_win` 9 638 376 0 1026 1511 832 1920 1080 19317
+~ Move `main_dlg_cur` `proe_win` 9 638 377 0 1026 1511 832 1920 1080 19323
+~ Move `main_dlg_cur` `proe_win` 9 638 378 0 1026 1511 832 1920 1080 19326
+~ Move `main_dlg_cur` `proe_win` 9 639 380 0 1538 1511 832 1920 1080 19338
+~ Move `main_dlg_cur` `proe_win` 9 639 381 0 1026 1511 832 1920 1080 19340
+~ Move `main_dlg_cur` `proe_win` 9 639 382 0 1026 1511 832 1920 1080 19342
+~ Move `main_dlg_cur` `proe_win` 9 640 382 0 514 1511 832 1920 1080 19344
+~ Move `main_dlg_cur` `proe_win` 9 640 383 0 1026 1511 832 1920 1080 19346
+~ Move `main_dlg_cur` `proe_win` 9 640 384 0 1026 1511 832 1920 1080 19349
+~ Move `main_dlg_cur` `proe_win` 9 641 384 0 514 1511 832 1920 1080 19351
+~ Move `main_dlg_cur` `proe_win` 9 641 385 0 1026 1511 832 1920 1080 19353
+~ Move `main_dlg_cur` `proe_win` 9 641 386 0 1026 1511 832 1920 1080 19354
+~ Move `main_dlg_cur` `proe_win` 9 641 387 0 1026 1511 832 1920 1080 19359
+~ Move `main_dlg_cur` `proe_win` 9 642 387 0 514 1511 832 1920 1080 19362
+~ Move `main_dlg_cur` `proe_win` 9 642 388 0 1026 1511 832 1920 1080 19364
+~ Move `main_dlg_cur` `proe_win` 9 642 389 0 1026 1511 832 1920 1080 19366
+~ Move `main_dlg_cur` `proe_win` 9 642 390 0 1026 1511 832 1920 1080 19368
+~ Move `main_dlg_cur` `proe_win` 9 642 391 0 1026 1511 832 1920 1080 19371
+~ Move `main_dlg_cur` `proe_win` 9 643 391 0 514 1511 832 1920 1080 19374
+~ Move `main_dlg_cur` `proe_win` 9 643 392 0 1026 1511 832 1920 1080 19376
+~ Move `main_dlg_cur` `proe_win` 9 643 393 0 1026 1511 832 1920 1080 19379
+~ Move `main_dlg_cur` `proe_win` 9 643 394 0 1026 1511 832 1920 1080 19381
+~ Move `main_dlg_cur` `proe_win` 9 643 395 0 1026 1511 832 1920 1080 19386
+~ Move `main_dlg_cur` `proe_win` 9 644 395 0 514 1511 832 1920 1080 19388
+~ Move `main_dlg_cur` `proe_win` 9 644 396 0 1026 1511 832 1920 1080 19391
+~ Move `main_dlg_cur` `proe_win` 9 644 397 0 1026 1511 832 1920 1080 19395
+~ Move `main_dlg_cur` `proe_win` 9 644 398 0 1026 1511 832 1920 1080 19399
+~ Move `main_dlg_cur` `proe_win` 9 644 399 0 1026 1511 832 1920 1080 19405
+~ Move `main_dlg_cur` `proe_win` 9 644 400 0 1026 1511 832 1920 1080 19412
+~ Move `main_dlg_cur` `proe_win` 9 645 400 0 514 1511 832 1920 1080 19417
+~ Move `main_dlg_cur` `proe_win` 9 645 401 0 1026 1511 832 1920 1080 19420
+~ Move `main_dlg_cur` `proe_win` 9 645 402 0 1026 1511 832 1920 1080 19427
+~ Move `main_dlg_cur` `proe_win` 9 645 403 0 1026 1511 832 1920 1080 19430
+~ Move `main_dlg_cur` `proe_win` 9 646 403 0 514 1511 832 1920 1080 19436
+~ Move `main_dlg_cur` `proe_win` 9 646 404 0 1026 1511 832 1920 1080 19438
+~ Move `main_dlg_cur` `proe_win` 9 646 405 0 1026 1511 832 1920 1080 19444
+~ Move `main_dlg_cur` `proe_win` 9 646 406 0 1026 1511 832 1920 1080 19452
+~ Move `main_dlg_cur` `proe_win` 9 647 406 0 514 1511 832 1920 1080 19455
+~ Move `main_dlg_cur` `proe_win` 9 647 407 0 1026 1511 832 1920 1080 19457
+~ Move `main_dlg_cur` `proe_win` 9 647 408 0 1026 1511 832 1920 1080 19466
+~ Move `main_dlg_cur` `proe_win` 9 648 408 0 514 1511 832 1920 1080 19470
+~ Move `main_dlg_cur` `proe_win` 9 648 409 0 1026 1511 832 1920 1080 19481
+~ Move `main_dlg_cur` `proe_win` 9 648 410 0 1026 1511 832 1920 1080 19510
+~ Move `main_dlg_cur` `proe_win` 9 649 410 0 514 1511 832 1920 1080 19514
+~ Move `main_dlg_cur` `proe_win` 9 649 411 0 1026 1511 832 1920 1080 19520
+~ Move `main_dlg_cur` `proe_win` 9 650 411 0 514 1511 832 1920 1080 19528
+~ Move `main_dlg_cur` `proe_win` 9 650 412 0 1026 1511 832 1920 1080 19535
+~ Move `main_dlg_cur` `proe_win` 9 651 413 0 1538 1511 832 1920 1080 19546
+~ Move `main_dlg_cur` `proe_win` 9 652 413 0 514 1511 832 1920 1080 19555
+~ Move `main_dlg_cur` `proe_win` 9 652 414 0 1026 1511 832 1920 1080 19557
+~ Move `main_dlg_cur` `proe_win` 9 652 415 0 1026 1511 832 1920 1080 19562
+~ Move `main_dlg_cur` `proe_win` 9 652 416 0 1026 1511 832 1920 1080 19570
+~ Move `main_dlg_cur` `proe_win` 9 653 416 0 514 1511 832 1920 1080 19572
+~ Move `main_dlg_cur` `proe_win` 9 653 417 0 1026 1511 832 1920 1080 19579
+~ Move `main_dlg_cur` `proe_win` 9 654 417 0 514 1511 832 1920 1080 19583
+~ Move `main_dlg_cur` `proe_win` 9 654 418 0 1026 1511 832 1920 1080 19588
+~ Move `main_dlg_cur` `proe_win` 9 654 419 0 1026 1511 832 1920 1080 19591
+~ Move `main_dlg_cur` `proe_win` 9 655 419 0 514 1511 832 1920 1080 19597
+~ Move `main_dlg_cur` `proe_win` 9 655 420 0 1026 1511 832 1920 1080 19600
+~ Move `main_dlg_cur` `proe_win` 9 656 420 0 514 1511 832 1920 1080 19605
+~ Move `main_dlg_cur` `proe_win` 9 656 421 0 1026 1511 832 1920 1080 19610
+~ Move `main_dlg_cur` `proe_win` 9 656 422 0 1026 1511 832 1920 1080 19624
+~ Move `main_dlg_cur` `proe_win` 9 657 422 0 514 1511 832 1920 1080 19626
+~ Move `main_dlg_cur` `proe_win` 9 657 423 0 1026 1511 832 1920 1080 19629
+~ Move `main_dlg_cur` `proe_win` 9 658 423 0 514 1511 832 1920 1080 19650
+~ Move `main_dlg_cur` `proe_win` 9 658 424 0 1026 1511 832 1920 1080 19654
+~ Move `main_dlg_cur` `proe_win` 9 658 425 0 1026 1511 832 1920 1080 19682
+~ Move `main_dlg_cur` `proe_win` 9 658 426 0 1026 1511 832 1920 1080 19706
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 658 426 0 0 1511 832 1920 1080 19709
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Activate `file_saveas` `Cancel`
+!%CE아무런 객체도 복사되지 않았습니다.
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CI기준 창은 닫을 수 없습니다.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : PTC Creo Parametric이(가) 종료되며 저장되지 않은 작업 내용은 모두 손실됩니다.
+!               : 종료하시겠습니까?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

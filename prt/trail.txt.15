@@ -1,0 +1,42 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2020 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 11460
+!	Application: Creo_Parametric
+!	Start date&time: 2020/07/02  01:43:16
+!	language: korean
+!	machine type: i486_nt
+!	datecode: M100
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: D:\project\team\prt\traceback.log
+!end Exit Logger data.
+< 0 1.216000 1756 0 0 1026 1920 0 0 1080 13
+!mem_use INCREASE Blocks 651732, AppSize 62682688, SysSize 75195960
+< 0 0.995556 1625 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1511 0 0 840 1920 0 0 1080 13
+!%CIPTC Creo Parametric 3.0에 오신 것을 환영합니다.
+< 0 0.992000 1511 0 0 837 1920 0 0 1080 13
+~ Move `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN` 2 10.561631 1.972196
+~ Sync LearnConn_Startup
+~ Activate `transient_balloon` `no`
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1145 356 0 1 1511 837 1920 1080 95813
+** 0.892641 0.573477 0 1 1
+0.892641 0.483871 L 0 0.992000000 0
+~ Move `main_dlg_cur` `proe_win` 9 1145 357 0 1025 1511 837 1920 1080 95916
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1145 357 0 0 1511 837 1920 1080 95917
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Move `main_dlg_cur` `main_dlg_cur` 2 1.167748 0.311399
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : PTC Creo Parametric이(가) 종료되며 저장되지 않은 작업 내용은 모두 손실됩니다.
+!               : 종료하시겠습니까?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
