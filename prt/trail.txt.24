@@ -1,0 +1,3228 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2020 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 10440
+!	Application: Creo_Parametric
+!	Start date&time: 2020/07/03  15:30:32
+!	language: korean
+!	machine type: i486_nt
+!	datecode: M100
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: D:\project\team\prt\traceback.log
+!end Exit Logger data.
+< 0 1.216000 1756 0 0 1026 1920 0 0 1080 13
+!mem_use INCREASE Blocks 651732, AppSize 62682592, SysSize 75195960
+< 0 0.995556 1625 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1511 0 0 840 1920 0 0 1080 13
+!%CIPTC Creo Parametric 3.0에 오신 것을 환영합니다.
+~ Activate `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+< 0 0.992000 1511 0 0 837 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+!mem_use INCREASE Blocks 684413, AppSize 89054950, SysSize 103111008
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:week2.prt`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Activate `file_open` `Current Dir`
+~ Select `file_open` `Ph_list.Filelist` 1 `component`
+~ Activate `file_open` `Ph_list.Filelist` 1 `component`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:crank_gear_right.asm`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:fedal_total.asm`
+~ Select `file_open` `Ph_list.Filelist` 1 `fedal_total.asm`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!03-Jul-20 15:30:59  Start D:\project\team\prt\component\fedal_total.asm.5
+!03-Jul-20 15:30:59  Start D:\project\team\prt\component\fedal.prt.1
+!03-Jul-20 15:30:59  End   D:\project\team\prt\component\fedal.prt.1
+!03-Jul-20 15:30:59  Start D:\project\team\prt\component\fedal_axis.prt.2
+!03-Jul-20 15:30:59  End   D:\project\team\prt\component\fedal_axis.prt.2
+!03-Jul-20 15:30:59  Start D:\project\team\prt\component\fedal_comp_01.prt.5
+!03-Jul-20 15:30:59  End   D:\project\team\prt\component\fedal_comp_01.prt.5
+!03-Jul-20 15:30:59  Start D:\project\team\prt\component\fedal_comp_02.prt.1
+!03-Jul-20 15:30:59  End   D:\project\team\prt\component\fedal_comp_02.prt.1
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:30:59
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:30:59
+!03-Jul-20 15:30:59  End   D:\project\team\prt\component\fedal_total.asm.5
+< 0 0.986074 1511 0 0 832 1920 0 0 1080 13
+!mem_use INCREASE Blocks 774414, AppSize 139866123, SysSize 160223360
+~ Activate `main_dlg_cur` `page_Applications_control_btn` 1
+~ Command `ProCmdUtilAppAnim`  1
+!Design Animation Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:31:03
+< 0 0.743111 1511 0 0 627 1920 0 0 1080 13
+~ Activate `warningbox` `cancel_btn`
+< 0 0.986074 1511 0 0 832 1920 0 0 1080 13
+~ Command `ProCmdUtilAppAsm`  `Standard`
+~ Command `ProCmdWinActivate` 
+~ Command `ProCmdUtilAppMech`  1
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:31:07
+~ Command `PMechCmdRedefineBody` 
+!%CP부품을 선택하십시오.
+~ Activate `review_body` `CancelButton`
+~ Command `ProCmdUtilAppAsmExit` 
+~ Command `ProCmdExplodeToggle`  1
+!Design Animation Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:31:20
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!%CI프레임을 타임 0.0000에 프로세싱합니다
+!%CI프레임을 타임 0.1667에 프로세싱합니다
+!%CI프레임을 타임 0.3333에 프로세싱합니다
+!%CI프레임을 타임 0.5000에 프로세싱합니다
+!%CI프레임을 타임 0.6667에 프로세싱합니다
+!%CI프레임을 타임 0.8333에 프로세싱합니다
+!%CI프레임을 타임 1.0000에 프로세싱합니다
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+!%CI어셈블리 컴포넌트들이 성공적으로 분해되었습니다.
+~ Command `ProCmdExplodeToggle`  0
+!Design Animation Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:31:24
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 0.000000 0 0 
+!%CI어셈블리 컴포넌트들의 분해가 성공적으로 취소되었습니다.
+~ Activate `main_dlg_cur` `page_Applications_control_btn` 1
+~ Command `ProCmdUtilAppAnim`  1
+!Design Animation Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:31:28
+< 0 0.743111 1511 0 0 627 1920 0 0 1080 13
+~ Activate `warningbox` `accept_btn`
+!Current Animation initialiazed : Animation3 (Asynchronic Snapshot)
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ Command `AnimCmdBodyDef` 
+~ Activate `body_finder` `one_per_btn`
+!%CI이전 명령으로 인해 애니메이션 실행 취소/다시 실행 스택이 지워집니다.
+!%CW바디 재정의 결과로 일부 연결이 억제되었습니다.
+!Current Animation initialiazed : Animation3 (Asynchronic Snapshot)
+~ Activate `body_finder` `close_btn`
+!%CI애니메이션 실행 취소/다시 실행 스택이 지워졌습니다.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1171 184 0 1 1511 644 1920 1080 67840
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1171 184 0 0 1511 644 1920 1080 67918
+@ sel view 0
+ 6.494265 0.388546 0.483276 -0.127992 5.814764 -2.955018
+ -0.606747 2.932158 5.796060 644.349109 424.190955 -1811.157818 1.000000 0.000000 0
+~ Command `AnimCmdViewAtTime` 
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `1073741828`
+~ Activate `anim_view` `apply`
+!%CI보기가 현재 애니메이션에 추가되었습니다.
+~ Activate `anim_view` `close`
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Activate `visual_dlg0` `PropertiesBtn`
+~ Activate `visual_dlg0` `PropertiesBtn`
+~ Select `visual_dlg0` `RadioSelApplMgr` 1 `layer state`
+~ Select `visual_dlg0` `RadioSelApplMgr` 1 `orientation`
+~ Select `visual_dlg0` `RadioSelApplMgr` 1 `display style`
+~ Close `visual_dlg0` `visual_dlg0`
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Arm `visual_dlg0` `Table` 2 `default` `name_column`
+~ Select `visual_dlg0` `Table` 2 `default` `name_column`
+~ Activate `visual_dlg0` `ZoneNmCreate`
+~ FocusIn `visual_dlg0` `Table`
+~ Arm `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ Select `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ FocusIn `visual_dlg0` `Table`
+~ Arm `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ Select `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ FocusIn `visual_dlg0` `Table`
+~ Arm `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ Select `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ FocusIn `visual_dlg0` `Table`
+~ Arm `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ Select `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ FocusIn `visual_dlg0` `Table`
+~ Arm `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ Select `visual_dlg0` `Table` 2 `style0001` `name_column`
+~ Activate `visual_dlg0` `Table_INPUT`
+!%CI숨기기할 컴포넌트를 선택하십시오.
+~ Select `compseledit` `SelActionDrop` 1 `Show`
+!%CI와이어프레임 표시할 컴포넌트를 선택하십시오.
+~ Select `compseledit` `SelActionDrop` 1 `Blank`
+!%CI숨기기할 컴포넌트를 선택하십시오.
+~ Select `compseledit` `SelActionDrop` 1 `Subst`
+!%CIsub vis 모드를 사용하기 위해 서브어셈블리를 선택합니다.
+~ Select `compseledit` `SelActionDrop` 1 `Show`
+!%CI와이어프레임 표시할 컴포넌트를 선택하십시오.
+~ Select `compseledit` `SelActionDrop` 1 `Blank`
+!%CI숨기기할 컴포넌트를 선택하십시오.
+~ Activate `compseledit` `DispModeBtn` 1
+!%CI숨기기할 컴포넌트를 선택하십시오.
+~ Activate `compseledit` `CancelBtn`
+~ Activate `0_std_confirm` `OK`
+~ Activate `visual_dlg0` `CloseBtn`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1266 228 0 1 1511 644 1920 1080 142715
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1266 228 0 0 1511 644 1920 1080 142802
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ RButtonArm `main_dlg_cur` `AnimationAssyTree` `node0:Anim_id_5`
+~ PopupOver `main_dlg_cur` `PM_AnimationAssyTree` 1 `AnimationAssyTree`
+~ Open `main_dlg_cur` `PM_AnimationAssyTree`
+~ Close `main_dlg_cur` `PM_AnimationAssyTree`
+~ Activate `main_dlg_cur` `AnimDelete`
+!Command AnimCmdDummy was pushed from the software.
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_3`
+!Animation2 [비동기-스냅샷]
+~ RButtonArm `main_dlg_cur` `AnimationAssyTree` `node0:Anim_id_3`
+~ PopupOver `main_dlg_cur` `PM_AnimationAssyTree` 1 `AnimationAssyTree`
+~ Open `main_dlg_cur` `PM_AnimationAssyTree`
+~ Close `main_dlg_cur` `PM_AnimationAssyTree`
+~ Activate `main_dlg_cur` `AnimDelete`
+!Command AnimCmdDummy was pushed from the software.
+!%CW바디 재정의 결과로 일부 연결이 억제되었습니다.
+!Current Animation initialiazed : Animation2 (Asynchronic Snapshot)
+!Current Animation initialiazed : Animation2 (Asynchronic Snapshot)
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 580 238 0 1 1511 644 1920 1080 155880
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 580 238 0 0 1511 644 1920 1080 155932
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 385 184 0 1 1511 644 1920 1080 156257
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 385 184 0 0 1511 644 1920 1080 156334
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node0`
+!FEDAL_TOTAL.ASM
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 338 86 0 1 1511 644 1920 1080 157968
+~ Move `main_dlg_cur` `proe_win` 9 339 86 0 513 1511 644 1920 1080 157979
+~ Move `main_dlg_cur` `proe_win` 9 340 86 0 513 1511 644 1920 1080 157993
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 340 86 0 0 1511 644 1920 1080 158051
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Activate `main_dlg_cur` `page_Model_control_btn` 1
+~ Activate `main_dlg_cur` `page_Animation_adv_exp_control_btn` 1
+~ Command `ProCmdUtilAppAsmExit` 
+< 0 0.986074 1511 0 0 832 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `page_Applications_control_btn` 1
+~ Command `ProCmdUtilAppAnim`  1
+!Design Animation Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:33:17
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+~ Activate `main_dlg_cur` `page_Animation_adv_exp|group_Assy_Anim_Ops55013416_inh161747821_inh308105973\
+|_cb_overflow` 1
+~ Command `AnimCmdNewSnapAnim` 
+~ Activate `anim_def` `okBtn`
+~ Activate `warningbox` `accept_btn`
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!Current Animation initialiazed : Animation2 (Asynchronic Snapshot)
+~ Command `AnimCmdBodyDef` 
+~ Activate `body_finder` `one_per_btn`
+!%CI이전 명령으로 인해 애니메이션 실행 취소/다시 실행 스택이 지워집니다.
+!%CW바디 재정의 결과로 일부 연결이 억제되었습니다.
+!Current Animation initialiazed : Animation2 (Asynchronic Snapshot)
+~ Activate `body_finder` `close_btn`
+!%CI애니메이션 실행 취소/다시 실행 스택이 지워졌습니다.
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Select `visual_dlg0` `RadioSelApplMgr` 1 `layer state`
+~ Select `visual_dlg0` `RadioSelApplMgr` 1 `orientation`
+~ Select `visual_dlg0` `RadioSelApplMgr` 1 `display style`
+~ Activate `visual_dlg0` `CloseBtn`
+~ Command `AnimCmdNewSnapAnim` 
+~ Activate `anim_def` `okBtn`
+!Current Animation initialiazed : Animation3 (Asynchronic Snapshot)
+~ Command `AnimCmdKeyframeSeq` 
+~ Wheel `main_dlg_cur` `proe_win` 9 1135 315 393216 0 1511 644 1920 1080 204619
+~ Wheel `main_dlg_cur` `proe_win` 9 1136 315 393216 0 1511 644 1920 1080 204667
+~ Wheel `main_dlg_cur` `proe_win` 9 1153 308 393216 0 1511 644 1920 1080 205743
+~ Wheel `main_dlg_cur` `proe_win` 9 1153 308 393216 0 1511 644 1920 1080 205805
+~ Wheel `main_dlg_cur` `proe_win` 9 1178 292 458752 0 1511 644 1920 1080 206434
+~ Wheel `main_dlg_cur` `proe_win` 9 1179 292 458752 0 1511 644 1920 1080 206478
+~ Wheel `main_dlg_cur` `proe_win` 9 1179 292 458752 0 1511 644 1920 1080 206522
+~ Wheel `main_dlg_cur` `proe_win` 9 1179 292 458752 0 1511 644 1920 1080 206587
+~ Select `kfs` `Tab1` 1 `bodies_layo`
+~ Select `kfs` `Tab1` 1 `kfs_layo`
+~ Close `kfs` `kfs`
+!%CE키 프레임 시퀀스: Kfs2은(는) 스냅샷이 없으므로 삭제합니다.
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Activate `visual_dlg0` `CloseBtn`
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Activate `visual_dlg0` `CloseBtn`
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Close `visual_dlg0` `visual_dlg0`
+~ RButtonArm `main_dlg_cur` `AnimationAssyTree` `node0:Anim_id_4`
+~ PopupOver `main_dlg_cur` `PM_AnimationAssyTree` 1 `AnimationAssyTree`
+~ Open `main_dlg_cur` `PM_AnimationAssyTree`
+~ Close `main_dlg_cur` `PM_AnimationAssyTree`
+~ Activate `main_dlg_cur` `AnimEdit`
+!Command AnimCmdDummy was pushed from the software.
+~ Activate `anim_def` `okBtn`
+!%CI이전 명령으로 인해 애니메이션 실행 취소/다시 실행 스택이 지워집니다.
+!%CI애니메이션 실행 취소/다시 실행 스택이 지워졌습니다.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1039 93 0 1 1511 644 1920 1080 325314
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Move `main_dlg_cur` `proe_win` 9 1039 93 0 1 1511 644 1920 1080 325322
+~ Move `main_dlg_cur` `proe_win` 9 1039 93 0 1 1511 644 1920 1080 325347
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1039 93 0 0 1511 644 1920 1080 325372
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Activate `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win|.mcs29658718_mp|select_a\
+ll_check` 0
+!%CI축들이 표시되지 않습니다.
+!%CI기준점들이 표시되지 않습니다.
+!%CI좌표계가 표시되지 않습니다.
+!%CI기준면들이 표시되지 않습니다.
+~ Command `ProCmdEnvAnnotElemDisp`  0
+!%CI주석이 표시되지 않습니다.
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node2`
+!FEDAL_COMP_01.PRT
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node2`
+~ Command `ProCmdMdlTreeFilter` 
+!%CI체크된 피쳐 유형들이 모델 트리에 표시됩니다.
+~ Activate `mdl_filter` `feat_btn` 1
+~ Activate `mdl_filter` `placement_btn` 1
+~ Activate `mdl_filter` `note_btn` 1
+~ Activate `mdl_filter` `supres_btn` 1
+~ Activate `mdl_filter` `apply`
+~ Activate `mdl_filter` `ok_btn`
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `node4`
+!Expanded FEDAL.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node40`
+!스케치 1
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node40`
+~ PopupOver `main_dlg_cur` `ActionMenu` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `HideFeat_PushBtn`
+!Undo: added rec_id 552 type 10600 
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node38`
+!스케치 2
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node38`
+~ PopupOver `main_dlg_cur` `ActionMenu` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `HideFeat_PushBtn`
+!Undo: added rec_id 553 type 10600 
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node21`
+!스케치 8
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node21`
+~ PopupOver `main_dlg_cur` `ActionMenu` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `HideFeat_PushBtn`
+!Undo: added rec_id 554 type 10600 
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node23`
+!스케치 7
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node23`
+~ PopupOver `main_dlg_cur` `ActionMenu` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `ActionMenu`
+~ Close `main_dlg_cur` `ActionMenu`
+~ Activate `main_dlg_cur` `HideFeat_PushBtn`
+!Undo: added rec_id 555 type 10600 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1012 134 0 1 1511 644 1920 1080 368904
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1012 134 0 0 1511 644 1920 1080 368949
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Activate `visual_dlg0` `CloseBtn`
+~ Command `PMechCmdAsmDrag` 
+~ Activate `newdrag` `SnapshotsChkBtn` 1
+~ Activate `newdrag` `AdvancedOptChkBtn` 1
+~ Select `newdrag` `snapshots` 1 `0`
+~ Select `newdrag` `snapshots` 1 `1`
+~ Select `newdrag` `snapshots` 1 `2`
+~ Select `newdrag` `snapshots` 1 `3`
+~ Select `newdrag` `snapshots` 1 `4`
+~ Select `newdrag` `snapshots` 1 `5`
+~ Select `newdrag` `snapshots` 6 `5` `0` `1` `2` `3` `4`
+~ RButtonArm `newdrag` `snapshots` `3`
+~ PopupOver `newdrag` `SnapshotPopupMenu` 1 `snapshots`
+~ Open `newdrag` `SnapshotPopupMenu`
+~ Close `newdrag` `SnapshotPopupMenu`
+~ Activate `newdrag` `deleteSnap`
+!%CE초기 스냅샷을 삭제할 수 없습니다.
+!%CE키 프레임 시퀀스: Kfs1은(는) 스냅샷이 없으므로 삭제합니다.
+~ Activate `newdrag` `PushButtonS`
+~ Activate `newdrag` `PushButtonX`
+!%CP바디 선택
+~ Wheel `main_dlg_cur` `proe_win` 9 993 414 393216 0 1511 644 1920 1080 410038
+~ Wheel `main_dlg_cur` `proe_win` 9 993 414 393216 0 1511 644 1920 1080 410086
+~ Wheel `main_dlg_cur` `proe_win` 9 1113 442 393216 0 1511 644 1920 1080 410366
+~ Wheel `main_dlg_cur` `proe_win` 9 1113 442 393216 0 1511 644 1920 1080 410388
+~ Wheel `main_dlg_cur` `proe_win` 9 1117 444 393216 0 1511 644 1920 1080 410439
+~ Wheel `main_dlg_cur` `proe_win` 9 1216 472 393216 0 1511 644 1920 1080 410704
+~ Wheel `main_dlg_cur` `proe_win` 9 1217 473 393216 0 1511 644 1920 1080 410724
+~ Wheel `main_dlg_cur` `proe_win` 9 1217 474 393216 0 1511 644 1920 1080 410748
+~ Wheel `main_dlg_cur` `proe_win` 9 1315 501 458752 0 1511 644 1920 1080 411143
+~ Wheel `main_dlg_cur` `proe_win` 9 1315 501 458752 0 1511 644 1920 1080 411161
+~ Wheel `main_dlg_cur` `proe_win` 9 1315 501 458752 0 1511 644 1920 1080 411185
+~ Wheel `main_dlg_cur` `proe_win` 9 1315 501 458752 0 1511 644 1920 1080 411201
+~ Wheel `main_dlg_cur` `proe_win` 9 1315 501 458752 0 1511 644 1920 1080 411232
+~ Wheel `main_dlg_cur` `proe_win` 9 1321 497 458752 0 1511 644 1920 1080 411575
+~ Wheel `main_dlg_cur` `proe_win` 9 1321 497 458752 0 1511 644 1920 1080 411611
+~ Wheel `main_dlg_cur` `proe_win` 9 1304 481 393216 0 1511 644 1920 1080 411866
+~ Wheel `main_dlg_cur` `proe_win` 9 1304 481 393216 0 1511 644 1920 1080 411881
+~ Wheel `main_dlg_cur` `proe_win` 9 1304 481 393216 0 1511 644 1920 1080 411896
+~ Wheel `main_dlg_cur` `proe_win` 9 1304 481 393216 0 1511 644 1920 1080 411921
+~ Wheel `main_dlg_cur` `proe_win` 9 1322 472 393216 0 1511 644 1920 1080 412154
+~ Wheel `main_dlg_cur` `proe_win` 9 1324 472 393216 0 1511 644 1920 1080 412175
+~ Wheel `main_dlg_cur` `proe_win` 9 1324 472 393216 0 1511 644 1920 1080 412196
+~ Wheel `main_dlg_cur` `proe_win` 9 1346 468 393216 0 1511 644 1920 1080 412487
+~ Wheel `main_dlg_cur` `proe_win` 9 1346 468 393216 0 1511 644 1920 1080 412506
+~ Wheel `main_dlg_cur` `proe_win` 9 1346 468 393216 0 1511 644 1920 1080 412530
+~ Wheel `main_dlg_cur` `proe_win` 9 1346 468 393216 0 1511 644 1920 1080 412572
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 412962
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 412984
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 413010
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 413029
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 413054
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 413330
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 413353
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 467 458752 0 1511 644 1920 1080 413367
+~ Wheel `main_dlg_cur` `proe_win` 9 999 389 458752 0 1511 644 1920 1080 414123
+~ Wheel `main_dlg_cur` `proe_win` 9 999 389 458752 0 1511 644 1920 1080 414156
+~ LButtonArm `main_dlg_cur` `proe_win` 9 608 339 0 1 1511 644 1920 1080 417628
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 608 339 0 0 1511 644 1920 1080 417690
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 0.640000 0.000000 0
+@ stack idx 0
+@SELECTION 1 1 52 69 -1 -1 3.1316433053 3.2948982042 4.7051017958 2.8932611529 5.8015719910
+!FEDAL_COMP_02.PRT
+!%CI끌기를 위해 바디 s이(가) 선택되었습니다.
+!%CI위치를 적용하려면 마우스 왼쪽 버튼을 누르십시오; 
+!%C_끌기를 중지하려면 마우스 가운데 버튼; 
+!%C_중단하고 끌기를 끝내려면 마우스 오른쪽 버튼;
+!%C_끌려면 마우스를 이동하십시오.
+>M mouseDragCB ProeWin0 609 339 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 610 339 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 611 339 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 614 339 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 617 339 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 622 339 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 628 339 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 635 340 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 643 341 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 652 342 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 659 343 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 664 344 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 674 344 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 691 346 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 694 346 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 710 348 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 719 349 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 727 350 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 733 350 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 739 351 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 745 351 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 750 351 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 756 352 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 763 352 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 769 352 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 775 352 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 778 352 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 784 353 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 791 354 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 803 354 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 814 355 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 821 355 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 829 356 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 838 357 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 845 357 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 854 358 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 863 358 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 870 359 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 880 360 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 890 360 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 901 361 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 911 362 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 918 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 934 363 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 946 364 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 956 364 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 966 364 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 976 366 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 984 366 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 990 367 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 995 368 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1000 368 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1003 369 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1006 369 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1009 369 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1011 369 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1012 369 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1013 369 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1015 370 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1016 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1017 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1018 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1019 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1021 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1023 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1024 371 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1027 371 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1031 372 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1033 372 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1038 373 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1042 373 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1046 375 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1051 375 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1054 375 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1058 376 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1061 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1062 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1065 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1067 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1068 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1069 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1070 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1071 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1072 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1073 377 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1075 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1076 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1078 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1081 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1083 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1086 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1088 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1091 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1094 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1096 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1097 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1099 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1101 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1102 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1104 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1106 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1107 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1110 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1111 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1114 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1116 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1120 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1123 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1127 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1128 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1131 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1135 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1137 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1139 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1141 377 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1141 376 80 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1140 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1139 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1138 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1137 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1136 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1135 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1134 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1133 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1132 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1131 376 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1129 375 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1128 375 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1125 375 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1122 374 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1121 374 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1116 374 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1115 374 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1112 373 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1109 373 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1108 373 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1105 372 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1104 372 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1102 372 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1100 372 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1096 371 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1091 370 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1084 369 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1079 368 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1072 368 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1071 368 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1065 368 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1061 367 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1055 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1054 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1053 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1054 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1056 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1058 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1064 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1065 367 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1074 369 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1080 369 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1085 369 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1089 370 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1091 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1099 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1103 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1104 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1105 370 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1106 370 40 0 1511 0 0 644 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1106 370 0 1 1511 644 1920 1080 419572
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1106 370 0 0 1511 644 1920 1080 419691
+!%CP바디 선택
+~ Activate `newdrag` `PushButtonS`
+!%CP바디 선택
+~ LButtonArm `main_dlg_cur` `proe_win` 9 592 341 0 1 1511 644 1920 1080 422835
+~ Move `main_dlg_cur` `proe_win` 9 592 341 0 1 1511 644 1920 1080 422835
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 592 341 0 0 1511 644 1920 1080 422901
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 0.640000 0.000000 0
+@ stack idx 0
+@SELECTION 1 1 49 69 -1 -1 0.4033239381 0.2504859648 6.3580042595 3.4098780374 7.0716531955
+!FEDAL_COMP_01.PRT
+!%CI끌기를 위해 바디 s이(가) 선택되었습니다.
+!%CI위치를 적용하려면 마우스 왼쪽 버튼을 누르십시오; 
+!%C_끌기를 중지하려면 마우스 가운데 버튼; 
+!%C_중단하고 끌기를 끝내려면 마우스 오른쪽 버튼;
+!%C_끌려면 마우스를 이동하십시오.
+>M mouseDragCB ProeWin0 593 341 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 594 341 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 596 341 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 597 341 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 599 340 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 600 340 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 608 340 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 615 340 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 624 340 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 633 341 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 645 341 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 659 343 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 674 344 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 690 345 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 707 346 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 722 347 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 739 348 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 760 350 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 781 352 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 803 353 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 825 355 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 847 356 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 865 357 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 885 358 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 894 359 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 922 359 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 941 360 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 955 360 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 970 360 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 973 360 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 993 361 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 996 361 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1012 362 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1020 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1028 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1036 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1042 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1049 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1054 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1058 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1060 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1065 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1066 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1067 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1068 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1067 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1066 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1065 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1064 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1063 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1062 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1061 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1060 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1059 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1058 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1057 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1056 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1055 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1054 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1052 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1051 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1049 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1048 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1047 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1046 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1047 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1048 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1049 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1048 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1047 362 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 1046 362 40 0 1511 0 0 644 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1046 362 0 1 1511 644 1920 1080 423913
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1046 362 0 0 1511 644 1920 1080 423988
+!%CP바디 선택
+~ Activate `newdrag` `PushButtonS`
+!%CP바디 선택
+~ LButtonArm `main_dlg_cur` `proe_win` 9 609 337 0 1 1511 644 1920 1080 425570
+~ Move `main_dlg_cur` `proe_win` 9 609 337 0 1 1511 644 1920 1080 425571
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 609 337 0 0 1511 644 1920 1080 425655
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 0.640000 0.000000 0
+@ stack idx 0
+@SELECTION 1 1 48 69 -1 -1 0.2979392654 0.6975035036 11.8893377882 0.7221012945 5.7795495583
+!FEDAL_AXIS.PRT
+!%CI끌기를 위해 바디 s이(가) 선택되었습니다.
+!%CI위치를 적용하려면 마우스 왼쪽 버튼을 누르십시오; 
+!%C_끌기를 중지하려면 마우스 가운데 버튼; 
+!%C_중단하고 끌기를 끝내려면 마우스 오른쪽 버튼;
+!%C_끌려면 마우스를 이동하십시오.
+>M mouseDragCB ProeWin0 612 337 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 615 337 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 618 337 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 627 338 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 632 339 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 648 340 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 660 340 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 676 342 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 690 342 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 705 342 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 720 343 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 735 344 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 750 344 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 763 344 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 777 345 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 790 345 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 803 345 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 806 345 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 823 347 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 833 347 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 840 348 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 845 348 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 848 348 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 854 348 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 858 349 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 861 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 862 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 863 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 864 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 865 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 866 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 867 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 868 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 869 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 870 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 872 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 874 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 876 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 877 349 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 877 350 80 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 878 350 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 879 350 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 880 350 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 881 350 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 883 350 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 885 350 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 889 351 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 891 351 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 895 351 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 899 351 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 903 352 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 906 352 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 910 353 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 913 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 915 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 917 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 918 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 917 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 916 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 915 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 914 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 913 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 912 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 911 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 910 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 909 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 908 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 907 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 906 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 905 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 904 353 40 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 902 352 c0 0 1511 0 0 644 1920 0 0 1080 13
+>M mouseDragCB ProeWin0 900 352 40 0 1511 0 0 644 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 900 352 0 1 1511 644 1920 1080 426624
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 900 352 0 0 1511 644 1920 1080 426699
+!%CP바디 선택
+~ Activate `newdrag` `PushButtonS`
+!%CP바디 선택
+~ Close `GET SELECT` `GET SELECT`
+~ Activate `newdrag` `CloseButton`
+~ Wheel `main_dlg_cur` `proe_win` 9 601 345 458752 0 1511 644 1920 1080 436924
+~ Wheel `main_dlg_cur` `proe_win` 9 602 345 458752 0 1511 644 1920 1080 436955
+~ Wheel `main_dlg_cur` `proe_win` 9 584 282 458752 0 1511 644 1920 1080 437365
+~ Wheel `main_dlg_cur` `proe_win` 9 584 282 458752 0 1511 644 1920 1080 437403
+~ Command `AnimCmdKeyframeSeq` 
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Activate `kfs` `cancel_btn`
+!%CE키 프레임 시퀀스: Kfs1은(는) 스냅샷이 없으므로 삭제합니다.
+~ Command `AnimCmdTimeDomain` 
+~ Activate `anim_time_domain` `OKButton`
+~ Command `AnimCmdKeyframeSeq` 
+~ Activate `kfs` `add_btn`
+~ Wheel `main_dlg_cur` `proe_win` 9 352 282 458752 0 1511 644 1920 1080 456674
+~ Wheel `main_dlg_cur` `proe_win` 9 354 282 458752 0 1511 644 1920 1080 456824
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `6`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `7`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `8`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `9`
+~ Activate `kfs` `add_btn`
+~ Wheel `main_dlg_cur` `proe_win` 9 1214 316 393216 0 1511 644 1920 1080 465985
+~ Wheel `main_dlg_cur` `proe_win` 9 1213 318 393216 0 1511 644 1920 1080 466035
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `8`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `7`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `6`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Wheel `main_dlg_cur` `proe_win` 9 1177 353 393216 0 1511 644 1920 1080 474992
+~ Wheel `main_dlg_cur` `proe_win` 9 1181 357 458752 512 1511 644 1920 1080 476120
+~ Activate `kfs` `ok_btn`
+~ Command `AnimCmdPbkMode`  1
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Enter `main_dlg_cur` `time_scale` 3 336 0 0
+~ Move `main_dlg_cur` `time_scale` 3 336 0 0
+~ Move `main_dlg_cur` `time_scale` 3 339 2 0
+~ Move `main_dlg_cur` `time_scale` 3 341 3 0
+~ Move `main_dlg_cur` `time_scale` 3 343 5 0
+~ Move `main_dlg_cur` `time_scale` 3 346 7 0
+~ Move `main_dlg_cur` `time_scale` 3 348 8 0
+~ Move `main_dlg_cur` `time_scale` 3 351 10 0
+~ Move `main_dlg_cur` `time_scale` 3 353 11 0
+~ Move `main_dlg_cur` `time_scale` 3 356 12 0
+~ Move `main_dlg_cur` `time_scale` 3 358 14 0
+~ Move `main_dlg_cur` `time_scale` 3 361 15 0
+~ Move `main_dlg_cur` `time_scale` 3 363 17 0
+~ Move `main_dlg_cur` `time_scale` 3 365 18 0
+~ Move `main_dlg_cur` `time_scale` 3 368 20 0
+~ Move `main_dlg_cur` `time_scale` 3 370 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 373 22 0
+~ Enter `main_dlg_cur` `time_scale` 3 256 21 0
+~ Move `main_dlg_cur` `time_scale` 3 256 21 0
+~ Move `main_dlg_cur` `time_scale` 3 256 20 0
+~ Move `main_dlg_cur` `time_scale` 3 255 19 0
+~ Move `main_dlg_cur` `time_scale` 3 255 18 0
+~ Move `main_dlg_cur` `time_scale` 3 254 16 0
+~ Move `main_dlg_cur` `time_scale` 3 254 15 0
+~ Move `main_dlg_cur` `time_scale` 3 254 14 0
+~ Move `main_dlg_cur` `time_scale` 3 253 13 0
+~ Move `main_dlg_cur` `time_scale` 3 252 12 0
+~ Move `main_dlg_cur` `time_scale` 3 252 11 0
+~ Move `main_dlg_cur` `time_scale` 3 252 9 0
+~ Move `main_dlg_cur` `time_scale` 3 251 9 0
+~ Move `main_dlg_cur` `time_scale` 3 250 7 0
+~ Move `main_dlg_cur` `time_scale` 3 250 6 0
+~ Move `main_dlg_cur` `time_scale` 3 249 5 0
+~ Move `main_dlg_cur` `time_scale` 3 249 4 0
+~ Move `main_dlg_cur` `time_scale` 3 249 2 0
+~ Move `main_dlg_cur` `time_scale` 3 248 1 0
+~ Exit `main_dlg_cur` `time_scale` 3 247 -1 0
+~ Command `AnimCmdCreateMode`  1
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ Command `AnimCmdMnuPlayback` 
+~ Activate `playback` `close_btn`
+~ Command `AnimCmdPbkMode`  1
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Enter `main_dlg_cur` `time_scale` 3 310 1 0
+~ Move `main_dlg_cur` `time_scale` 3 310 1 0
+~ Move `main_dlg_cur` `time_scale` 3 313 3 0
+~ Move `main_dlg_cur` `time_scale` 3 317 4 0
+~ Move `main_dlg_cur` `time_scale` 3 319 6 0
+~ Move `main_dlg_cur` `time_scale` 3 322 7 0
+~ Move `main_dlg_cur` `time_scale` 3 325 9 0
+~ Move `main_dlg_cur` `time_scale` 3 329 11 0
+~ Move `main_dlg_cur` `time_scale` 3 332 12 0
+~ Move `main_dlg_cur` `time_scale` 3 335 14 0
+~ Move `main_dlg_cur` `time_scale` 3 339 16 0
+~ Move `main_dlg_cur` `time_scale` 3 342 16 0
+~ Move `main_dlg_cur` `time_scale` 3 345 18 0
+~ Move `main_dlg_cur` `time_scale` 3 348 20 0
+~ Move `main_dlg_cur` `time_scale` 3 353 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 355 23 0
+~ Wheel `main_dlg_cur` `proe_win` 9 867 357 458752 0 1511 629 1920 1080 489431
+~ Wheel `main_dlg_cur` `proe_win` 9 861 365 458752 0 1511 629 1920 1080 489476
+~ Enter `main_dlg_cur` `time_scale` 3 177 21 0
+~ Move `main_dlg_cur` `time_scale` 3 177 21 0
+~ Move `main_dlg_cur` `time_scale` 3 176 21 0
+~ Move `main_dlg_cur` `time_scale` 3 175 21 0
+~ Move `main_dlg_cur` `time_scale` 3 175 20 0
+~ Move `main_dlg_cur` `time_scale` 3 174 20 0
+~ Move `main_dlg_cur` `time_scale` 3 173 20 0
+~ Move `main_dlg_cur` `time_scale` 3 172 20 0
+~ Move `main_dlg_cur` `time_scale` 3 172 19 0
+~ Move `main_dlg_cur` `time_scale` 3 171 19 0
+~ Move `main_dlg_cur` `time_scale` 3 170 19 0
+~ Move `main_dlg_cur` `time_scale` 3 170 18 0
+~ Move `main_dlg_cur` `time_scale` 3 169 18 0
+~ Move `main_dlg_cur` `time_scale` 3 168 18 0
+~ Move `main_dlg_cur` `time_scale` 3 168 17 0
+~ Move `main_dlg_cur` `time_scale` 3 167 17 0
+~ Move `main_dlg_cur` `time_scale` 3 166 17 0
+~ Move `main_dlg_cur` `time_scale` 3 165 17 0
+~ Move `main_dlg_cur` `time_scale` 3 165 16 0
+~ Move `main_dlg_cur` `time_scale` 3 164 16 0
+~ Move `main_dlg_cur` `time_scale` 3 164 15 0
+~ Move `main_dlg_cur` `time_scale` 3 164 14 0
+~ Move `main_dlg_cur` `time_scale` 3 164 13 0
+~ Move `main_dlg_cur` `time_scale` 3 164 12 0
+~ Move `main_dlg_cur` `time_scale` 3 164 11 0
+~ Move `main_dlg_cur` `time_scale` 3 164 10 0
+~ Move `main_dlg_cur` `time_scale` 3 164 9 0
+~ Move `main_dlg_cur` `time_scale` 3 163 9 0
+~ Move `main_dlg_cur` `time_scale` 3 163 8 0
+~ Move `main_dlg_cur` `time_scale` 3 162 8 0
+~ Move `main_dlg_cur` `time_scale` 3 161 8 0
+~ Move `main_dlg_cur` `time_scale` 3 161 7 0
+~ Move `main_dlg_cur` `time_scale` 3 160 7 0
+~ Move `main_dlg_cur` `time_scale` 3 160 6 0
+~ Move `main_dlg_cur` `time_scale` 3 159 6 0
+~ Move `main_dlg_cur` `time_scale` 3 159 5 0
+~ Move `main_dlg_cur` `time_scale` 3 158 5 0
+~ Move `main_dlg_cur` `time_scale` 3 158 4 0
+~ Move `main_dlg_cur` `time_scale` 3 157 4 0
+~ Move `main_dlg_cur` `time_scale` 3 157 3 0
+~ Move `main_dlg_cur` `time_scale` 3 156 3 0
+~ Move `main_dlg_cur` `time_scale` 3 156 2 0
+~ Move `main_dlg_cur` `time_scale` 3 155 2 0
+~ Move `main_dlg_cur` `time_scale` 3 155 1 0
+~ Move `main_dlg_cur` `time_scale` 3 154 1 0
+~ Move `main_dlg_cur` `time_scale` 3 153 1 0
+~ Move `main_dlg_cur` `time_scale` 3 153 0 0
+~ Move `main_dlg_cur` `time_scale` 3 152 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 152 -1 0
+~ Enter `main_dlg_cur` `time_scale` 3 693 0 0
+~ Move `main_dlg_cur` `time_scale` 3 693 0 0
+~ Move `main_dlg_cur` `time_scale` 3 693 1 0
+~ Move `main_dlg_cur` `time_scale` 3 692 1 0
+~ Move `main_dlg_cur` `time_scale` 3 692 2 0
+~ Move `main_dlg_cur` `time_scale` 3 692 3 0
+~ Move `main_dlg_cur` `time_scale` 3 692 4 0
+~ Move `main_dlg_cur` `time_scale` 3 691 4 0
+~ Move `main_dlg_cur` `time_scale` 3 691 5 0
+~ Move `main_dlg_cur` `time_scale` 3 691 6 0
+~ Move `main_dlg_cur` `time_scale` 3 690 6 0
+~ Move `main_dlg_cur` `time_scale` 3 689 6 0
+~ Move `main_dlg_cur` `time_scale` 3 688 6 0
+~ Move `main_dlg_cur` `time_scale` 3 687 6 0
+~ Move `main_dlg_cur` `time_scale` 3 686 6 0
+~ Move `main_dlg_cur` `time_scale` 3 685 6 0
+~ Move `main_dlg_cur` `time_scale` 3 684 5 0
+~ Move `main_dlg_cur` `time_scale` 3 683 4 0
+~ Move `main_dlg_cur` `time_scale` 3 681 4 0
+~ Move `main_dlg_cur` `time_scale` 3 680 3 0
+~ Move `main_dlg_cur` `time_scale` 3 679 3 0
+~ Move `main_dlg_cur` `time_scale` 3 677 2 0
+~ Move `main_dlg_cur` `time_scale` 3 676 1 0
+~ Move `main_dlg_cur` `time_scale` 3 674 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 673 -1 0
+~ Enter `main_dlg_cur` `time_scale` 3 566 0 0
+~ Move `main_dlg_cur` `time_scale` 3 566 0 0
+~ Move `main_dlg_cur` `time_scale` 3 568 1 0
+~ Move `main_dlg_cur` `time_scale` 3 571 3 0
+~ Move `main_dlg_cur` `time_scale` 3 572 4 0
+~ Move `main_dlg_cur` `time_scale` 3 576 6 0
+~ Move `main_dlg_cur` `time_scale` 3 577 7 0
+~ Move `main_dlg_cur` `time_scale` 3 579 9 0
+~ Move `main_dlg_cur` `time_scale` 3 581 10 0
+~ Move `main_dlg_cur` `time_scale` 3 584 12 0
+~ Move `main_dlg_cur` `time_scale` 3 586 14 0
+~ Move `main_dlg_cur` `time_scale` 3 588 15 0
+~ Move `main_dlg_cur` `time_scale` 3 590 16 0
+~ Move `main_dlg_cur` `time_scale` 3 593 18 0
+~ Move `main_dlg_cur` `time_scale` 3 595 20 0
+~ Move `main_dlg_cur` `time_scale` 3 597 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 599 23 0
+~ Wheel `main_dlg_cur` `proe_win` 9 942 322 393216 0 1511 629 1920 1080 497772
+~ Wheel `main_dlg_cur` `proe_win` 9 948 330 393216 0 1511 629 1920 1080 497796
+~ Wheel `main_dlg_cur` `proe_win` 9 948 330 393216 0 1511 629 1920 1080 497863
+~ Wheel `main_dlg_cur` `proe_win` 9 1037 349 393216 0 1511 629 1920 1080 498213
+~ Wheel `main_dlg_cur` `proe_win` 9 1036 351 458752 0 1511 629 1920 1080 498336
+~ Wheel `main_dlg_cur` `proe_win` 9 1031 352 458752 0 1511 629 1920 1080 498366
+~ Wheel `main_dlg_cur` `proe_win` 9 1024 350 458752 1024 1511 629 1920 1080 498405
+~ Enter `main_dlg_cur` `time_scale` 3 303 20 0
+~ Move `main_dlg_cur` `time_scale` 3 303 20 0
+~ Move `main_dlg_cur` `time_scale` 3 295 15 0
+~ Move `main_dlg_cur` `time_scale` 3 290 13 0
+~ Move `main_dlg_cur` `time_scale` 3 284 10 0
+~ Move `main_dlg_cur` `time_scale` 3 278 6 0
+~ Move `main_dlg_cur` `time_scale` 3 272 2 0
+~ Move `main_dlg_cur` `time_scale` 3 267 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 261 -4 0
+~ Command `AnimCmdCreateMode`  1
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_2`
+!Animation2 [비동기-스냅샷]
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_1`
+!Animation1 [비동기-분해]
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_2`
+!Animation2 [비동기-스냅샷]
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_4`
+!Animation3 [비동기-스냅샷]
+~ Command `AnimCmdKeyframeSeq` 
+~ Activate `kfs` `regen`
+~ Activate `kfs` `cancel_btn`
+!%CE키 프레임 시퀀스: Kfs2은(는) 스냅샷이 없으므로 삭제합니다.
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_2`
+!Animation2 [비동기-스냅샷]
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_4`
+!Animation3 [비동기-스냅샷]
+~ Command `AnimCmdKeyframeSeq` 
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `7`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `8`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `9`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `8`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `7`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `6`
+~ Activate `kfs` `add_btn`
+~ Activate `kfs` `regen`
+~ Activate `kfs` `ok_btn`
+~ Command `AnimCmdPbkMode`  1
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Enter `main_dlg_cur` `time_scale` 3 317 0 0
+~ Move `main_dlg_cur` `time_scale` 3 317 0 0
+~ Move `main_dlg_cur` `time_scale` 3 322 4 0
+~ Move `main_dlg_cur` `time_scale` 3 328 7 0
+~ Move `main_dlg_cur` `time_scale` 3 333 11 0
+~ Move `main_dlg_cur` `time_scale` 3 338 14 0
+~ Move `main_dlg_cur` `time_scale` 3 343 17 0
+~ Move `main_dlg_cur` `time_scale` 3 348 19 0
+~ Exit `main_dlg_cur` `time_scale` 3 354 23 0
+~ Wheel `main_dlg_cur` `proe_win` 9 851 373 393216 0 1511 629 1920 1080 549453
+~ Wheel `main_dlg_cur` `proe_win` 9 852 359 393216 0 1511 629 1920 1080 549500
+~ Wheel `main_dlg_cur` `proe_win` 9 852 359 393216 0 1511 629 1920 1080 549527
+~ Enter `main_dlg_cur` `time_scale` 3 303 21 0
+~ Move `main_dlg_cur` `time_scale` 3 303 21 0
+~ Move `main_dlg_cur` `time_scale` 3 302 21 0
+~ Move `main_dlg_cur` `time_scale` 3 301 20 0
+~ Move `main_dlg_cur` `time_scale` 3 300 19 0
+~ Move `main_dlg_cur` `time_scale` 3 299 18 0
+~ Move `main_dlg_cur` `time_scale` 3 298 17 0
+~ Move `main_dlg_cur` `time_scale` 3 296 16 0
+~ Move `main_dlg_cur` `time_scale` 3 295 15 0
+~ Move `main_dlg_cur` `time_scale` 3 294 15 0
+~ Move `main_dlg_cur` `time_scale` 3 292 13 0
+~ Move `main_dlg_cur` `time_scale` 3 291 12 0
+~ Move `main_dlg_cur` `time_scale` 3 289 11 0
+~ Move `main_dlg_cur` `time_scale` 3 288 10 0
+~ Move `main_dlg_cur` `time_scale` 3 286 8 0
+~ Move `main_dlg_cur` `time_scale` 3 285 8 0
+~ Move `main_dlg_cur` `time_scale` 3 283 6 0
+~ Move `main_dlg_cur` `time_scale` 3 282 6 0
+~ Move `main_dlg_cur` `time_scale` 3 280 4 0
+~ Move `main_dlg_cur` `time_scale` 3 279 3 0
+~ Move `main_dlg_cur` `time_scale` 3 277 2 0
+~ Move `main_dlg_cur` `time_scale` 3 276 1 0
+~ Move `main_dlg_cur` `time_scale` 3 274 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 273 -1 0
+~ Command `AnimCmdCreateMode`  1
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ RButtonArm `main_dlg_cur` `AnimationAssyTree` `node0:Anim_id_4`
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_2`
+!Animation2 [비동기-스냅샷]
+~ RButtonArm `main_dlg_cur` `AnimationAssyTree` `node0:Anim_id_2`
+~ PopupOver `main_dlg_cur` `PM_AnimationAssyTree` 1 `AnimationAssyTree`
+~ Open `main_dlg_cur` `PM_AnimationAssyTree`
+~ Close `main_dlg_cur` `PM_AnimationAssyTree`
+~ Activate `main_dlg_cur` `AnimDelete`
+!Command AnimCmdDummy was pushed from the software.
+!Current Animation initialiazed : Animation2 (Asynchronic Snapshot)
+!Current Animation initialiazed : Animation3 (Asynchronic Snapshot)
+~ Select `main_dlg_cur` `AnimationAssyTree` 1 `node0:Anim_id_1`
+!Animation1 [비동기-분해]
+~ RButtonArm `main_dlg_cur` `AnimationAssyTree` `node0:Anim_id_1`
+~ PopupOver `main_dlg_cur` `PM_AnimationAssyTree` 1 `AnimationAssyTree`
+~ Open `main_dlg_cur` `PM_AnimationAssyTree`
+~ Close `main_dlg_cur` `PM_AnimationAssyTree`
+~ Activate `main_dlg_cur` `AnimDelete`
+!Command AnimCmdDummy was pushed from the software.
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!%CW바디 재정의 결과로 일부 연결이 억제되었습니다.
+!Current Animation initialiazed : Animation3 (Asynchronic Snapshot)
+!Current Animation initialiazed : Animation3 (Asynchronic Snapshot)
+~ Wheel `main_dlg_cur` `proe_win` 9 831 310 393216 0 1511 644 1920 1080 561916
+~ Wheel `main_dlg_cur` `proe_win` 9 831 310 393216 0 1511 644 1920 1080 561954
+~ Wheel `main_dlg_cur` `proe_win` 9 896 322 458752 0 1511 644 1920 1080 562414
+~ Wheel `main_dlg_cur` `proe_win` 9 896 323 458752 0 1511 644 1920 1080 562446
+~ Wheel `main_dlg_cur` `proe_win` 9 895 323 458752 0 1511 644 1920 1080 562532
+~ Wheel `main_dlg_cur` `proe_win` 9 745 435 458752 0 1511 644 1920 1080 563136
+~ Wheel `main_dlg_cur` `proe_win` 9 753 417 458752 0 1511 644 1920 1080 563227
+~ Command `AnimCmdKeyframeSeq` 
+~ Activate `kfs` `cancel_btn`
+!%CE키 프레임 시퀀스: Kfs3은(는) 스냅샷이 없으므로 삭제합니다.
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 118 36 0
+!Mech 2.900000 0.545073 
+!Mech 3.000000 0.500000 
+!Mech 3.000000 0.500000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 118 36 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 118 36 0
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 122 27 0
+!Mech 3.350000 0.573026 
+!Mech 3.000000 0.600000 
+!Mech 3.000000 0.600000 
+~ Move `main_dlg_cur` `comp_timeline` 3 123 27 0
+!Mech 3.000000 0.600000 
+!Mech 3.000000 0.600000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 123 27 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 123 27 0
+~ Command `AnimCmdMnuKfs` 
+~ Activate `kfs_finder` `remove_btn`
+!%CI이전 명령으로 인해 애니메이션 실행 취소/다시 실행 스택이 지워집니다.
+~ Select `kfs_finder` `kfs_list` 1 `1`
+~ Activate `kfs_finder` `edit_btn`
+~ Activate `kfs` `regen`
+~ Activate `kfs` `regen`
+~ Select `kfs` `keyframe_list` 1 `1`
+~ Select `kfs` `keyframe_list` 1 `2`
+~ Select `kfs` `keyframe_list` 1 `3`
+~ Select `kfs` `keyframe_list` 1 `4`
+~ Select `kfs` `keyframe_list` 1 `5`
+~ Select `kfs` `keyframe_list` 1 `5`
+~ Select `kfs` `keyframe_list` 1 `6`
+~ Activate `kfs` `ok_btn`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1001 395 0 1 1511 644 1920 1080 584581
+~ Move `main_dlg_cur` `proe_win` 9 1001 395 0 1 1511 644 1920 1080 584589
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1001 395 0 0 1511 644 1920 1080 584639
+@ sel view 0
+ 2.567646 -0.850367 -0.674809 0.000000 1.732865 -2.183684
+ 1.085583 2.011306 1.596074 558.588629 425.701071 -1618.722947 1.953125 0.000000 0
+~ Activate `kfs_finder` `close_btn`
+!%CI애니메이션 실행 취소/다시 실행 스택이 지워졌습니다.
+~ Command `AnimCmdViewAtTime` 
+~ Activate `anim_view` `close`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 646 240 0 1 1511 644 1920 1080 593623
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 646 240 0 0 1511 644 1920 1080 593695
+@ sel view 0
+ -2.787705 0.000000 0.000000 0.000000 2.787705 0.000000
+ 0.000000 0.000000 -2.787705 672.731285 421.875000 -1635.313039 1.000000 0.000000 0
+~ Move `main_dlg_cur` `proe_win` 9 643 232 33554432 0 1511 644 1920 1080 594453
+>M Chain_oa_sel_CB ProeWin0 643 232 c0 20000 1511 0 0 644 1920 0 0 1080 13
+~ Command `ProCmdViewDefault` 
+~ Move `main_dlg_cur` `proe_win` 9 643 232 0 0 1511 644 1920 1080 594742
+>M Chain_oa_sel_CB ProeWin0 643 232 c0 0 1511 0 0 644 1920 0 0 1080 13
+~ Wheel `main_dlg_cur` `proe_win` 9 652 219 458752 0 1511 644 1920 1080 595812
+~ Wheel `main_dlg_cur` `proe_win` 9 651 225 458752 0 1511 644 1920 1080 596036
+~ Wheel `main_dlg_cur` `proe_win` 9 651 225 458752 0 1511 644 1920 1080 596070
+~ Wheel `main_dlg_cur` `proe_win` 9 518 294 393216 0 1511 644 1920 1080 596509
+~ Wheel `main_dlg_cur` `proe_win` 9 518 294 393216 0 1511 644 1920 1080 596558
+~ Wheel `main_dlg_cur` `proe_win` 9 537 369 458752 0 1511 644 1920 1080 596988
+~ Command `AnimCmdBodyDef` 
+~ Activate `body_finder` `close_btn`
+~ Command `AnimCmdTimeDomain` 
+~ Activate `anim_time_domain` `CancelButton`
+~ Command `AnimCmdStart` 
+~ Command `AnimCmdPbkMode`  1
+!%CI프레임을 타임 0.0000에 프로세싱합니다
+!%CI프레임을 타임 0.1000에 프로세싱합니다
+!%CI프레임을 타임 0.2000에 프로세싱합니다
+!%CI프레임을 타임 0.3000에 프로세싱합니다
+!%CI프레임을 타임 0.4000에 프로세싱합니다
+!%CI프레임을 타임 0.5000에 프로세싱합니다
+!%CI프레임을 타임 0.6000에 프로세싱합니다
+!%CI프레임을 타임 0.7000에 프로세싱합니다
+!%CI프레임을 타임 0.8000에 프로세싱합니다
+!%CI프레임을 타임 0.9000에 프로세싱합니다
+!%CI프레임을 타임 1.0000에 프로세싱합니다
+!%CI프레임을 타임 1.1000에 프로세싱합니다
+!%CI프레임을 타임 1.2000에 프로세싱합니다
+!%CI프레임을 타임 1.3000에 프로세싱합니다
+!%CI프레임을 타임 1.4000에 프로세싱합니다
+!%CI프레임을 타임 1.5000에 프로세싱합니다
+!%CI프레임을 타임 1.6000에 프로세싱합니다
+!%CI프레임을 타임 1.7000에 프로세싱합니다
+!%CI프레임을 타임 1.8000에 프로세싱합니다
+!%CI프레임을 타임 1.9000에 프로세싱합니다
+!%CI프레임을 타임 2.0000에 프로세싱합니다
+!%CI프레임을 타임 2.1000에 프로세싱합니다
+!%CI프레임을 타임 2.2000에 프로세싱합니다
+!%CI프레임을 타임 2.3000에 프로세싱합니다
+!%CI프레임을 타임 2.4000에 프로세싱합니다
+!%CI프레임을 타임 2.5000에 프로세싱합니다
+!%CI프레임을 타임 2.6000에 프로세싱합니다
+!%CI프레임을 타임 2.7000에 프로세싱합니다
+!%CI프레임을 타임 2.8000에 프로세싱합니다
+!%CI프레임을 타임 2.9000에 프로세싱합니다
+!%CI프레임을 타임 3.0000에 프로세싱합니다
+!%CI프레임을 타임 3.1000에 프로세싱합니다
+!%CI프레임을 타임 3.2000에 프로세싱합니다
+!%CI프레임을 타임 3.3000에 프로세싱합니다
+!%CI프레임을 타임 3.4000에 프로세싱합니다
+!%CI프레임을 타임 3.5000에 프로세싱합니다
+!%CI프레임을 타임 3.6000에 프로세싱합니다
+!%CI프레임을 타임 3.7000에 프로세싱합니다
+!%CI프레임을 타임 3.8000에 프로세싱합니다
+!%CI프레임을 타임 3.9000에 프로세싱합니다
+!%CI프레임을 타임 4.0000에 프로세싱합니다
+!%CI프레임을 타임 4.1000에 프로세싱합니다
+!%CI프레임을 타임 4.2000에 프로세싱합니다
+!%CI프레임을 타임 4.3000에 프로세싱합니다
+!%CI프레임을 타임 4.4000에 프로세싱합니다
+!%CI프레임을 타임 4.5000에 프로세싱합니다
+!%CI프레임을 타임 4.6000에 프로세싱합니다
+!%CI프레임을 타임 4.7000에 프로세싱합니다
+!%CI프레임을 타임 4.8000에 프로세싱합니다
+!%CI프레임을 타임 4.9000에 프로세싱합니다
+!%CI프레임을 타임 5.0000에 프로세싱합니다
+!%CI프레임을 타임 5.1000에 프로세싱합니다
+!%CI프레임을 타임 5.2000에 프로세싱합니다
+!%CI프레임을 타임 5.3000에 프로세싱합니다
+!%CI프레임을 타임 5.4000에 프로세싱합니다
+!%CI프레임을 타임 5.5000에 프로세싱합니다
+!%CI프레임을 타임 5.6000에 프로세싱합니다
+!%CI프레임을 타임 5.7000에 프로세싱합니다
+!%CI프레임을 타임 5.8000에 프로세싱합니다
+!%CI프레임을 타임 5.9000에 프로세싱합니다
+!%CI프레임을 타임 6.0000에 프로세싱합니다
+!%CI프레임을 타임 6.1000에 프로세싱합니다
+!%CI프레임을 타임 6.2000에 프로세싱합니다
+!%CI프레임을 타임 6.3000에 프로세싱합니다
+!%CI프레임을 타임 6.4000에 프로세싱합니다
+!%CI프레임을 타임 6.5000에 프로세싱합니다
+!%CI프레임을 타임 6.6000에 프로세싱합니다
+!%CI프레임을 타임 6.7000에 프로세싱합니다
+!%CI프레임을 타임 6.8000에 프로세싱합니다
+!%CI프레임을 타임 6.9000에 프로세싱합니다
+!%CI프레임을 타임 7.0000에 프로세싱합니다
+!%CI프레임을 타임 7.1000에 프로세싱합니다
+!%CI프레임을 타임 7.2000에 프로세싱합니다
+!%CI프레임을 타임 7.3000에 프로세싱합니다
+!%CI프레임을 타임 7.4000에 프로세싱합니다
+!%CI프레임을 타임 7.5000에 프로세싱합니다
+!%CI프레임을 타임 7.6000에 프로세싱합니다
+!%CI프레임을 타임 7.7000에 프로세싱합니다
+!%CI프레임을 타임 7.8000에 프로세싱합니다
+!%CI프레임을 타임 7.9000에 프로세싱합니다
+!%CI프레임을 타임 8.0000에 프로세싱합니다
+!%CI프레임을 타임 8.1000에 프로세싱합니다
+!%CI프레임을 타임 8.2000에 프로세싱합니다
+!%CI프레임을 타임 8.3000에 프로세싱합니다
+!%CI프레임을 타임 8.4000에 프로세싱합니다
+!%CI프레임을 타임 8.5000에 프로세싱합니다
+!%CI프레임을 타임 8.6000에 프로세싱합니다
+!%CI프레임을 타임 8.7000에 프로세싱합니다
+!%CI프레임을 타임 8.8000에 프로세싱합니다
+!%CI프레임을 타임 8.9000에 프로세싱합니다
+!%CI프레임을 타임 9.0000에 프로세싱합니다
+!%CI프레임을 타임 9.1000에 프로세싱합니다
+!%CI프레임을 타임 9.2000에 프로세싱합니다
+!%CI프레임을 타임 9.3000에 프로세싱합니다
+!%CI프레임을 타임 9.4000에 프로세싱합니다
+!%CI프레임을 타임 9.5000에 프로세싱합니다
+!%CI프레임을 타임 9.6000에 프로세싱합니다
+!%CI프레임을 타임 9.7000에 프로세싱합니다
+!%CI프레임을 타임 9.8000에 프로세싱합니다
+!%CI프레임을 타임 9.9000에 프로세싱합니다
+!%CI프레임을 타임 10.0000에 프로세싱합니다
+!Command AnimCmdDummy was pushed from the software.
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `stopBtn`
+~ Activate `main_dlg_cur` `playBtn`
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1018 1 0
+~ Move `main_dlg_cur` `time_scale` 3 1018 1 0
+~ Move `main_dlg_cur` `time_scale` 3 1018 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1018 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1017 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1017 8 0
+~ Move `main_dlg_cur` `time_scale` 3 1016 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1016 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1016 14 0
+~ Move `main_dlg_cur` `time_scale` 3 1016 16 0
+~ Move `main_dlg_cur` `time_scale` 3 1016 17 0
+~ Move `main_dlg_cur` `time_scale` 3 1016 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1016 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 1016 23 0
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+~ Wheel `main_dlg_cur` `proe_win` 9 1028 180 393216 0 1511 629 1920 1080 622004
+~ Wheel `main_dlg_cur` `proe_win` 9 1028 185 393216 0 1511 629 1920 1080 622058
+*ANIMATION_FRAME 17.000000 0 0 
+~ Wheel `main_dlg_cur` `proe_win` 9 1028 197 393216 0 1511 629 1920 1080 622120
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+~ Wheel `main_dlg_cur` `proe_win` 9 1098 294 393216 0 1511 629 1920 1080 622430
+*ANIMATION_FRAME 21.000000 0 0 
+~ Wheel `main_dlg_cur` `proe_win` 9 1101 304 393216 1024 1511 629 1920 1080 622455
+~ Wheel `main_dlg_cur` `proe_win` 9 1101 306 393216 0 1511 629 1920 1080 622479
+*ANIMATION_FRAME 22.000000 0 0 
+*ANIMATION_FRAME 23.000000 0 0 
+*ANIMATION_FRAME 24.000000 0 0 
+*ANIMATION_FRAME 25.000000 0 0 
+*ANIMATION_FRAME 26.000000 0 0 
+*ANIMATION_FRAME 27.000000 0 0 
+*ANIMATION_FRAME 28.000000 0 0 
+*ANIMATION_FRAME 29.000000 0 0 
+*ANIMATION_FRAME 30.000000 0 0 
+*ANIMATION_FRAME 31.000000 0 0 
+*ANIMATION_FRAME 32.000000 0 0 
+*ANIMATION_FRAME 33.000000 0 0 
+*ANIMATION_FRAME 34.000000 0 0 
+*ANIMATION_FRAME 35.000000 0 0 
+*ANIMATION_FRAME 36.000000 0 0 
+*ANIMATION_FRAME 37.000000 0 0 
+*ANIMATION_FRAME 38.000000 0 0 
+*ANIMATION_FRAME 39.000000 0 0 
+*ANIMATION_FRAME 40.000000 0 0 
+*ANIMATION_FRAME 41.000000 0 0 
+*ANIMATION_FRAME 42.000000 0 0 
+*ANIMATION_FRAME 43.000000 0 0 
+*ANIMATION_FRAME 44.000000 0 0 
+*ANIMATION_FRAME 45.000000 0 0 
+*ANIMATION_FRAME 46.000000 0 0 
+*ANIMATION_FRAME 47.000000 0 0 
+*ANIMATION_FRAME 48.000000 0 0 
+*ANIMATION_FRAME 49.000000 0 0 
+*ANIMATION_FRAME 50.000000 0 0 
+*ANIMATION_FRAME 51.000000 0 0 
+*ANIMATION_FRAME 52.000000 0 0 
+*ANIMATION_FRAME 53.000000 0 0 
+*ANIMATION_FRAME 54.000000 0 0 
+*ANIMATION_FRAME 55.000000 0 0 
+*ANIMATION_FRAME 56.000000 0 0 
+*ANIMATION_FRAME 57.000000 0 0 
+*ANIMATION_FRAME 58.000000 0 0 
+*ANIMATION_FRAME 59.000000 0 0 
+*ANIMATION_FRAME 60.000000 0 0 
+*ANIMATION_FRAME 61.000000 0 0 
+*ANIMATION_FRAME 62.000000 0 0 
+*ANIMATION_FRAME 63.000000 0 0 
+*ANIMATION_FRAME 64.000000 0 0 
+*ANIMATION_FRAME 65.000000 0 0 
+*ANIMATION_FRAME 66.000000 0 0 
+*ANIMATION_FRAME 67.000000 0 0 
+*ANIMATION_FRAME 68.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1310 21 0
+~ Move `main_dlg_cur` `time_scale` 3 1310 21 0
+~ Move `main_dlg_cur` `time_scale` 3 1312 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1314 18 0
+~ Move `main_dlg_cur` `time_scale` 3 1317 17 0
+~ Move `main_dlg_cur` `time_scale` 3 1319 15 0
+~ Move `main_dlg_cur` `time_scale` 3 1320 13 0
+~ Move `main_dlg_cur` `time_scale` 3 1323 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1325 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1327 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1329 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1331 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1334 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1335 2 0
+~ Move `main_dlg_cur` `time_scale` 3 1338 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 1340 -1 0
+*ANIMATION_FRAME 69.000000 0 0 
+*ANIMATION_FRAME 70.000000 0 0 
+*ANIMATION_FRAME 71.000000 0 0 
+*ANIMATION_FRAME 72.000000 0 0 
+*ANIMATION_FRAME 73.000000 0 0 
+*ANIMATION_FRAME 74.000000 0 0 
+*ANIMATION_FRAME 75.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1087 2 0
+~ Move `main_dlg_cur` `time_scale` 3 1087 2 0
+~ Move `main_dlg_cur` `time_scale` 3 1090 4 0
+~ Move `main_dlg_cur` `time_scale` 3 1092 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1094 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1096 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1098 13 0
+~ Move `main_dlg_cur` `time_scale` 3 1101 16 0
+~ Move `main_dlg_cur` `time_scale` 3 1102 19 0
+~ Move `main_dlg_cur` `time_scale` 3 1105 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 1107 24 0
+*ANIMATION_FRAME 76.000000 0 0 
+*ANIMATION_FRAME 77.000000 0 0 
+*ANIMATION_FRAME 78.000000 0 0 
+*ANIMATION_FRAME 79.000000 0 0 
+~ Wheel `main_dlg_cur` `proe_win` 9 1214 91 458752 0 1511 629 1920 1080 627947
+*ANIMATION_FRAME 80.000000 0 0 
+*ANIMATION_FRAME 81.000000 0 0 
+*ANIMATION_FRAME 82.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1333 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1333 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1335 19 0
+~ Move `main_dlg_cur` `time_scale` 3 1336 18 0
+~ Move `main_dlg_cur` `time_scale` 3 1338 17 0
+~ Move `main_dlg_cur` `time_scale` 3 1338 16 0
+~ Move `main_dlg_cur` `time_scale` 3 1340 14 0
+~ Move `main_dlg_cur` `time_scale` 3 1341 13 0
+~ Move `main_dlg_cur` `time_scale` 3 1342 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1343 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1344 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1346 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1346 8 0
+~ Move `main_dlg_cur` `time_scale` 3 1348 7 0
+~ Move `main_dlg_cur` `time_scale` 3 1349 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1351 4 0
+~ Move `main_dlg_cur` `time_scale` 3 1351 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1352 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1354 1 0
+~ Move `main_dlg_cur` `time_scale` 3 1355 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 1356 -2 0
+*ANIMATION_FRAME 83.000000 0 0 
+*ANIMATION_FRAME 84.000000 0 0 
+*ANIMATION_FRAME 85.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1325 0 0
+~ Move `main_dlg_cur` `time_scale` 3 1325 0 0
+~ Move `main_dlg_cur` `time_scale` 3 1323 2 0
+~ Move `main_dlg_cur` `time_scale` 3 1322 2 0
+~ Move `main_dlg_cur` `time_scale` 3 1320 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1318 4 0
+~ Move `main_dlg_cur` `time_scale` 3 1317 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1315 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1314 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1313 7 0
+~ Move `main_dlg_cur` `time_scale` 3 1310 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1308 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1307 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1305 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1304 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1302 13 0
+~ Move `main_dlg_cur` `time_scale` 3 1301 14 0
+~ Move `main_dlg_cur` `time_scale` 3 1300 15 0
+~ Move `main_dlg_cur` `time_scale` 3 1298 15 0
+*ANIMATION_FRAME 86.000000 0 0 
+~ Move `main_dlg_cur` `time_scale` 3 1288 21 0
+~ Move `main_dlg_cur` `time_scale` 3 1287 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 1285 22 0
+*ANIMATION_FRAME 87.000000 0 0 
+*ANIMATION_FRAME 88.000000 0 0 
+*ANIMATION_FRAME 89.000000 0 0 
+*ANIMATION_FRAME 90.000000 0 0 
+*ANIMATION_FRAME 91.000000 0 0 
+*ANIMATION_FRAME 92.000000 0 0 
+*ANIMATION_FRAME 93.000000 0 0 
+*ANIMATION_FRAME 94.000000 0 0 
+*ANIMATION_FRAME 95.000000 0 0 
+*ANIMATION_FRAME 96.000000 0 0 
+*ANIMATION_FRAME 97.000000 0 0 
+*ANIMATION_FRAME 98.000000 0 0 
+*ANIMATION_FRAME 99.000000 0 0 
+*ANIMATION_FRAME 100.000000 0 0 
+*ANIMATION_FRAME 0.000000 0 0 
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 459 21 0
+~ Move `main_dlg_cur` `time_scale` 3 459 21 0
+~ Move `main_dlg_cur` `time_scale` 3 457 20 0
+~ Move `main_dlg_cur` `time_scale` 3 456 19 0
+~ Move `main_dlg_cur` `time_scale` 3 454 18 0
+~ Move `main_dlg_cur` `time_scale` 3 452 18 0
+~ Move `main_dlg_cur` `time_scale` 3 451 17 0
+~ Move `main_dlg_cur` `time_scale` 3 449 15 0
+~ Move `main_dlg_cur` `time_scale` 3 447 15 0
+~ Move `main_dlg_cur` `time_scale` 3 446 14 0
+~ Move `main_dlg_cur` `time_scale` 3 444 13 0
+~ Move `main_dlg_cur` `time_scale` 3 442 13 0
+~ Move `main_dlg_cur` `time_scale` 3 440 12 0
+~ Move `main_dlg_cur` `time_scale` 3 439 10 0
+~ Move `main_dlg_cur` `time_scale` 3 437 10 0
+*ANIMATION_FRAME 7.000000 0 0 
+~ Move `main_dlg_cur` `time_scale` 3 424 3 0
+~ Move `main_dlg_cur` `time_scale` 3 420 2 0
+~ Move `main_dlg_cur` `time_scale` 3 419 1 0
+~ Move `main_dlg_cur` `time_scale` 3 417 1 0
+~ Move `main_dlg_cur` `time_scale` 3 415 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 414 -1 0
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+*ANIMATION_FRAME 17.000000 0 0 
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+*ANIMATION_FRAME 21.000000 0 0 
+~ Activate `main_dlg_cur` `stopBtn`
+!Command AnimCmdDummy was pushed from the software.
+~ Command `AnimCmdCreateMode`  1
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Activate `visual_dlg0` `CloseBtn`
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win:casc340798662`
+~ Enter `main_dlg_cur` `proe_win` 9 458 151 0 1537 1511 644 1920 1080 636957
+~ Move `main_dlg_cur` `proe_win` 9 458 151 0 1 1511 644 1920 1080 636957
+~ Command `AnimCmdViewAtTime` 
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `1073741828`
+~ Open `anim_view` `event_option`
+~ Close `anim_view` `event_option`
+~ Activate `anim_view` `apply`
+!%CI보기가 현재 애니메이션에 추가되었습니다.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Update `anim_view` `time_value` `3`
+~ Activate `anim_view` `apply`
+!%CI보기가 현재 애니메이션에 추가되었습니다.
+~ Activate `anim_view` `close`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 409 157 0 1 1511 644 1920 1080 661541
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 409 157 0 0 1511 644 1920 1080 661636
+@ sel view 0
+ 6.076818 0.000000 0.000000 0.000000 6.076818 0.000000
+ 0.000000 0.000000 6.076818 635.862776 421.875000 -1675.616425 1.000000 0.000000 0
+~ Command `AnimCmdPbkMode`  1
+!%CI프레임을 타임 0.0000에 프로세싱합니다
+!%CI프레임을 타임 0.1000에 프로세싱합니다
+!%CI프레임을 타임 0.2000에 프로세싱합니다
+!%CI프레임을 타임 0.3000에 프로세싱합니다
+!%CI프레임을 타임 0.4000에 프로세싱합니다
+!%CI프레임을 타임 0.5000에 프로세싱합니다
+!%CI프레임을 타임 0.6000에 프로세싱합니다
+!%CI프레임을 타임 0.7000에 프로세싱합니다
+!%CI프레임을 타임 0.8000에 프로세싱합니다
+!%CI프레임을 타임 0.9000에 프로세싱합니다
+!%CI프레임을 타임 1.0000에 프로세싱합니다
+!%CI프레임을 타임 1.1000에 프로세싱합니다
+!%CI프레임을 타임 1.2000에 프로세싱합니다
+!%CI프레임을 타임 1.3000에 프로세싱합니다
+!%CI프레임을 타임 1.4000에 프로세싱합니다
+!%CI프레임을 타임 1.5000에 프로세싱합니다
+!%CI프레임을 타임 1.6000에 프로세싱합니다
+!%CI프레임을 타임 1.7000에 프로세싱합니다
+!%CI프레임을 타임 1.8000에 프로세싱합니다
+!%CI프레임을 타임 1.9000에 프로세싱합니다
+!%CI프레임을 타임 2.0000에 프로세싱합니다
+!%CI프레임을 타임 2.1000에 프로세싱합니다
+!%CI프레임을 타임 2.2000에 프로세싱합니다
+!%CI프레임을 타임 2.3000에 프로세싱합니다
+!%CI프레임을 타임 2.4000에 프로세싱합니다
+!%CI프레임을 타임 2.5000에 프로세싱합니다
+!%CI프레임을 타임 2.6000에 프로세싱합니다
+!%CI프레임을 타임 2.7000에 프로세싱합니다
+!%CI프레임을 타임 2.8000에 프로세싱합니다
+!%CI프레임을 타임 2.9000에 프로세싱합니다
+!%CI프레임을 타임 3.0000에 프로세싱합니다
+!%CI프레임을 타임 3.1000에 프로세싱합니다
+!%CI프레임을 타임 3.2000에 프로세싱합니다
+!%CI프레임을 타임 3.3000에 프로세싱합니다
+!%CI프레임을 타임 3.4000에 프로세싱합니다
+!%CI프레임을 타임 3.5000에 프로세싱합니다
+!%CI프레임을 타임 3.6000에 프로세싱합니다
+!%CI프레임을 타임 3.7000에 프로세싱합니다
+!%CI프레임을 타임 3.8000에 프로세싱합니다
+!%CI프레임을 타임 3.9000에 프로세싱합니다
+!%CI프레임을 타임 4.0000에 프로세싱합니다
+!%CI프레임을 타임 4.1000에 프로세싱합니다
+!%CI프레임을 타임 4.2000에 프로세싱합니다
+!%CI프레임을 타임 4.3000에 프로세싱합니다
+!%CI프레임을 타임 4.4000에 프로세싱합니다
+!%CI프레임을 타임 4.5000에 프로세싱합니다
+!%CI프레임을 타임 4.6000에 프로세싱합니다
+!%CI프레임을 타임 4.7000에 프로세싱합니다
+!%CI프레임을 타임 4.8000에 프로세싱합니다
+!%CI프레임을 타임 4.9000에 프로세싱합니다
+!%CI프레임을 타임 5.0000에 프로세싱합니다
+!%CI프레임을 타임 5.1000에 프로세싱합니다
+!%CI프레임을 타임 5.2000에 프로세싱합니다
+!%CI프레임을 타임 5.3000에 프로세싱합니다
+!%CI프레임을 타임 5.4000에 프로세싱합니다
+!%CI프레임을 타임 5.5000에 프로세싱합니다
+!%CI프레임을 타임 5.6000에 프로세싱합니다
+!%CI프레임을 타임 5.7000에 프로세싱합니다
+!%CI프레임을 타임 5.8000에 프로세싱합니다
+!%CI프레임을 타임 5.9000에 프로세싱합니다
+!%CI프레임을 타임 6.0000에 프로세싱합니다
+!%CI프레임을 타임 6.1000에 프로세싱합니다
+!%CI프레임을 타임 6.2000에 프로세싱합니다
+!%CI프레임을 타임 6.3000에 프로세싱합니다
+!%CI프레임을 타임 6.4000에 프로세싱합니다
+!%CI프레임을 타임 6.5000에 프로세싱합니다
+!%CI프레임을 타임 6.6000에 프로세싱합니다
+!%CI프레임을 타임 6.7000에 프로세싱합니다
+!%CI프레임을 타임 6.8000에 프로세싱합니다
+!%CI프레임을 타임 6.9000에 프로세싱합니다
+!%CI프레임을 타임 7.0000에 프로세싱합니다
+!%CI프레임을 타임 7.1000에 프로세싱합니다
+!%CI프레임을 타임 7.2000에 프로세싱합니다
+!%CI프레임을 타임 7.3000에 프로세싱합니다
+!%CI프레임을 타임 7.4000에 프로세싱합니다
+!%CI프레임을 타임 7.5000에 프로세싱합니다
+!%CI프레임을 타임 7.6000에 프로세싱합니다
+!%CI프레임을 타임 7.7000에 프로세싱합니다
+!%CI프레임을 타임 7.8000에 프로세싱합니다
+!%CI프레임을 타임 7.9000에 프로세싱합니다
+!%CI프레임을 타임 8.0000에 프로세싱합니다
+!%CI프레임을 타임 8.1000에 프로세싱합니다
+!%CI프레임을 타임 8.2000에 프로세싱합니다
+!%CI프레임을 타임 8.3000에 프로세싱합니다
+!%CI프레임을 타임 8.4000에 프로세싱합니다
+!%CI프레임을 타임 8.5000에 프로세싱합니다
+!%CI프레임을 타임 8.6000에 프로세싱합니다
+!%CI프레임을 타임 8.7000에 프로세싱합니다
+!%CI프레임을 타임 8.8000에 프로세싱합니다
+!%CI프레임을 타임 8.9000에 프로세싱합니다
+!%CI프레임을 타임 9.0000에 프로세싱합니다
+!%CI프레임을 타임 9.1000에 프로세싱합니다
+!%CI프레임을 타임 9.2000에 프로세싱합니다
+!%CI프레임을 타임 9.3000에 프로세싱합니다
+!%CI프레임을 타임 9.4000에 프로세싱합니다
+!%CI프레임을 타임 9.5000에 프로세싱합니다
+!%CI프레임을 타임 9.6000에 프로세싱합니다
+!%CI프레임을 타임 9.7000에 프로세싱합니다
+!%CI프레임을 타임 9.8000에 프로세싱합니다
+!%CI프레임을 타임 9.9000에 프로세싱합니다
+!%CI프레임을 타임 10.0000에 프로세싱합니다
+!Command AnimCmdDummy was pushed from the software.
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Enter `main_dlg_cur` `time_scale` 3 192 0 0
+~ Move `main_dlg_cur` `time_scale` 3 192 0 0
+~ Move `main_dlg_cur` `time_scale` 3 193 1 0
+~ Move `main_dlg_cur` `time_scale` 3 194 1 0
+~ Move `main_dlg_cur` `time_scale` 3 194 3 0
+~ Move `main_dlg_cur` `time_scale` 3 196 3 0
+~ Move `main_dlg_cur` `time_scale` 3 196 5 0
+~ Move `main_dlg_cur` `time_scale` 3 197 6 0
+~ Move `main_dlg_cur` `time_scale` 3 198 7 0
+~ Move `main_dlg_cur` `time_scale` 3 200 8 0
+~ Move `main_dlg_cur` `time_scale` 3 200 9 0
+~ Move `main_dlg_cur` `time_scale` 3 201 10 0
+~ Move `main_dlg_cur` `time_scale` 3 202 11 0
+~ Move `main_dlg_cur` `time_scale` 3 203 12 0
+~ Move `main_dlg_cur` `time_scale` 3 203 14 0
+~ Move `main_dlg_cur` `time_scale` 3 204 14 0
+~ Move `main_dlg_cur` `time_scale` 3 205 16 0
+~ Move `main_dlg_cur` `time_scale` 3 206 17 0
+~ Move `main_dlg_cur` `time_scale` 3 207 18 0
+~ Move `main_dlg_cur` `time_scale` 3 208 19 0
+~ Move `main_dlg_cur` `time_scale` 3 209 20 0
+~ Move `main_dlg_cur` `time_scale` 3 210 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 210 22 0
+~ Enter `main_dlg_cur` `time_scale` 3 195 20 0
+~ Move `main_dlg_cur` `time_scale` 3 195 20 0
+~ Move `main_dlg_cur` `time_scale` 3 193 18 0
+~ Move `main_dlg_cur` `time_scale` 3 191 17 0
+~ Move `main_dlg_cur` `time_scale` 3 189 15 0
+~ Move `main_dlg_cur` `time_scale` 3 186 13 0
+~ Move `main_dlg_cur` `time_scale` 3 184 11 0
+~ Move `main_dlg_cur` `time_scale` 3 182 10 0
+~ Move `main_dlg_cur` `time_scale` 3 180 8 0
+~ Move `main_dlg_cur` `time_scale` 3 177 6 0
+~ Move `main_dlg_cur` `time_scale` 3 175 4 0
+~ Move `main_dlg_cur` `time_scale` 3 173 2 0
+~ Move `main_dlg_cur` `time_scale` 3 171 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 168 -1 0
+~ Command `AnimCmdCreateMode`  1
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ Command `AnimCmdStart` 
+~ Activate `confirm` `yes_btn`
+~ Command `AnimCmdPbkMode`  1
+!%CI프레임을 타임 0.0000에 프로세싱합니다
+!%CI프레임을 타임 0.1000에 프로세싱합니다
+!%CI프레임을 타임 0.2000에 프로세싱합니다
+!%CI프레임을 타임 0.3000에 프로세싱합니다
+!%CI프레임을 타임 0.4000에 프로세싱합니다
+!%CI프레임을 타임 0.5000에 프로세싱합니다
+!%CI프레임을 타임 0.6000에 프로세싱합니다
+!%CI프레임을 타임 0.7000에 프로세싱합니다
+!%CI프레임을 타임 0.8000에 프로세싱합니다
+!%CI프레임을 타임 0.9000에 프로세싱합니다
+!%CI프레임을 타임 1.0000에 프로세싱합니다
+!%CI프레임을 타임 1.1000에 프로세싱합니다
+!%CI프레임을 타임 1.2000에 프로세싱합니다
+!%CI프레임을 타임 1.3000에 프로세싱합니다
+!%CI프레임을 타임 1.4000에 프로세싱합니다
+!%CI프레임을 타임 1.5000에 프로세싱합니다
+!%CI프레임을 타임 1.6000에 프로세싱합니다
+!%CI프레임을 타임 1.7000에 프로세싱합니다
+!%CI프레임을 타임 1.8000에 프로세싱합니다
+!%CI프레임을 타임 1.9000에 프로세싱합니다
+!%CI프레임을 타임 2.0000에 프로세싱합니다
+!%CI프레임을 타임 2.1000에 프로세싱합니다
+!%CI프레임을 타임 2.2000에 프로세싱합니다
+!%CI프레임을 타임 2.3000에 프로세싱합니다
+!%CI프레임을 타임 2.4000에 프로세싱합니다
+!%CI프레임을 타임 2.5000에 프로세싱합니다
+!%CI프레임을 타임 2.6000에 프로세싱합니다
+!%CI프레임을 타임 2.7000에 프로세싱합니다
+!%CI프레임을 타임 2.8000에 프로세싱합니다
+!%CI프레임을 타임 2.9000에 프로세싱합니다
+!%CI프레임을 타임 3.0000에 프로세싱합니다
+!%CI프레임을 타임 3.1000에 프로세싱합니다
+!%CI프레임을 타임 3.2000에 프로세싱합니다
+!%CI프레임을 타임 3.3000에 프로세싱합니다
+!%CI프레임을 타임 3.4000에 프로세싱합니다
+!%CI프레임을 타임 3.5000에 프로세싱합니다
+!%CI프레임을 타임 3.6000에 프로세싱합니다
+!%CI프레임을 타임 3.7000에 프로세싱합니다
+!%CI프레임을 타임 3.8000에 프로세싱합니다
+!%CI프레임을 타임 3.9000에 프로세싱합니다
+!%CI프레임을 타임 4.0000에 프로세싱합니다
+!%CI프레임을 타임 4.1000에 프로세싱합니다
+!%CI프레임을 타임 4.2000에 프로세싱합니다
+!%CI프레임을 타임 4.3000에 프로세싱합니다
+!%CI프레임을 타임 4.4000에 프로세싱합니다
+!%CI프레임을 타임 4.5000에 프로세싱합니다
+!%CI프레임을 타임 4.6000에 프로세싱합니다
+!%CI프레임을 타임 4.7000에 프로세싱합니다
+!%CI프레임을 타임 4.8000에 프로세싱합니다
+!%CI프레임을 타임 4.9000에 프로세싱합니다
+!%CI프레임을 타임 5.0000에 프로세싱합니다
+!%CI프레임을 타임 5.1000에 프로세싱합니다
+!%CI프레임을 타임 5.2000에 프로세싱합니다
+!%CI프레임을 타임 5.3000에 프로세싱합니다
+!%CI프레임을 타임 5.4000에 프로세싱합니다
+!%CI프레임을 타임 5.5000에 프로세싱합니다
+!%CI프레임을 타임 5.6000에 프로세싱합니다
+!%CI프레임을 타임 5.7000에 프로세싱합니다
+!%CI프레임을 타임 5.8000에 프로세싱합니다
+!%CI프레임을 타임 5.9000에 프로세싱합니다
+!%CI프레임을 타임 6.0000에 프로세싱합니다
+!%CI프레임을 타임 6.1000에 프로세싱합니다
+!%CI프레임을 타임 6.2000에 프로세싱합니다
+!%CI프레임을 타임 6.3000에 프로세싱합니다
+!%CI프레임을 타임 6.4000에 프로세싱합니다
+!%CI프레임을 타임 6.5000에 프로세싱합니다
+!%CI프레임을 타임 6.6000에 프로세싱합니다
+!%CI프레임을 타임 6.7000에 프로세싱합니다
+!%CI프레임을 타임 6.8000에 프로세싱합니다
+!%CI프레임을 타임 6.9000에 프로세싱합니다
+!%CI프레임을 타임 7.0000에 프로세싱합니다
+!%CI프레임을 타임 7.1000에 프로세싱합니다
+!%CI프레임을 타임 7.2000에 프로세싱합니다
+!%CI프레임을 타임 7.3000에 프로세싱합니다
+!%CI프레임을 타임 7.4000에 프로세싱합니다
+!%CI프레임을 타임 7.5000에 프로세싱합니다
+!%CI프레임을 타임 7.6000에 프로세싱합니다
+!%CI프레임을 타임 7.7000에 프로세싱합니다
+!%CI프레임을 타임 7.8000에 프로세싱합니다
+!%CI프레임을 타임 7.9000에 프로세싱합니다
+!%CI프레임을 타임 8.0000에 프로세싱합니다
+!%CI프레임을 타임 8.1000에 프로세싱합니다
+!%CI프레임을 타임 8.2000에 프로세싱합니다
+!%CI프레임을 타임 8.3000에 프로세싱합니다
+!%CI프레임을 타임 8.4000에 프로세싱합니다
+!%CI프레임을 타임 8.5000에 프로세싱합니다
+!%CI프레임을 타임 8.6000에 프로세싱합니다
+!%CI프레임을 타임 8.7000에 프로세싱합니다
+!%CI프레임을 타임 8.8000에 프로세싱합니다
+!%CI프레임을 타임 8.9000에 프로세싱합니다
+!%CI프레임을 타임 9.0000에 프로세싱합니다
+!%CI프레임을 타임 9.1000에 프로세싱합니다
+!%CI프레임을 타임 9.2000에 프로세싱합니다
+!%CI프레임을 타임 9.3000에 프로세싱합니다
+!%CI프레임을 타임 9.4000에 프로세싱합니다
+!%CI프레임을 타임 9.5000에 프로세싱합니다
+!%CI프레임을 타임 9.6000에 프로세싱합니다
+!%CI프레임을 타임 9.7000에 프로세싱합니다
+!%CI프레임을 타임 9.8000에 프로세싱합니다
+!%CI프레임을 타임 9.9000에 프로세싱합니다
+!%CI프레임을 타임 10.0000에 프로세싱합니다
+!Command AnimCmdDummy was pushed from the software.
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `playBtn`
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1061 0 0
+~ Move `main_dlg_cur` `time_scale` 3 1061 0 0
+~ Move `main_dlg_cur` `time_scale` 3 1061 1 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 1 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 2 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 4 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 7 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 8 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1064 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1064 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1064 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1065 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1065 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1065 13 0
+~ Move `main_dlg_cur` `time_scale` 3 1065 14 0
+~ Move `main_dlg_cur` `time_scale` 3 1066 15 0
+~ Move `main_dlg_cur` `time_scale` 3 1066 16 0
+~ Move `main_dlg_cur` `time_scale` 3 1066 17 0
+~ Move `main_dlg_cur` `time_scale` 3 1066 18 0
+~ Move `main_dlg_cur` `time_scale` 3 1067 19 0
+~ Move `main_dlg_cur` `time_scale` 3 1067 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1067 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 1067 22 0
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+*ANIMATION_FRAME 17.000000 0 0 
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+*ANIMATION_FRAME 21.000000 0 0 
+*ANIMATION_FRAME 22.000000 0 0 
+*ANIMATION_FRAME 23.000000 0 0 
+*ANIMATION_FRAME 24.000000 0 0 
+*ANIMATION_FRAME 25.000000 0 0 
+*ANIMATION_FRAME 26.000000 0 0 
+*ANIMATION_FRAME 27.000000 0 0 
+*ANIMATION_FRAME 28.000000 0 0 
+*ANIMATION_FRAME 29.000000 0 0 
+*ANIMATION_FRAME 30.000000 0 0 
+*ANIMATION_FRAME 31.000000 0 0 
+*ANIMATION_FRAME 32.000000 0 0 
+*ANIMATION_FRAME 33.000000 0 0 
+*ANIMATION_FRAME 34.000000 0 0 
+*ANIMATION_FRAME 35.000000 0 0 
+*ANIMATION_FRAME 36.000000 0 0 
+*ANIMATION_FRAME 37.000000 0 0 
+*ANIMATION_FRAME 38.000000 0 0 
+*ANIMATION_FRAME 39.000000 0 0 
+*ANIMATION_FRAME 40.000000 0 0 
+*ANIMATION_FRAME 41.000000 0 0 
+*ANIMATION_FRAME 42.000000 0 0 
+*ANIMATION_FRAME 43.000000 0 0 
+*ANIMATION_FRAME 44.000000 0 0 
+*ANIMATION_FRAME 45.000000 0 0 
+*ANIMATION_FRAME 46.000000 0 0 
+*ANIMATION_FRAME 47.000000 0 0 
+*ANIMATION_FRAME 48.000000 0 0 
+*ANIMATION_FRAME 49.000000 0 0 
+*ANIMATION_FRAME 50.000000 0 0 
+*ANIMATION_FRAME 51.000000 0 0 
+*ANIMATION_FRAME 52.000000 0 0 
+*ANIMATION_FRAME 53.000000 0 0 
+*ANIMATION_FRAME 54.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 932 20 0
+~ Move `main_dlg_cur` `time_scale` 3 932 20 0
+~ Move `main_dlg_cur` `time_scale` 3 932 18 0
+~ Move `main_dlg_cur` `time_scale` 3 933 18 0
+~ Move `main_dlg_cur` `time_scale` 3 933 17 0
+~ Move `main_dlg_cur` `time_scale` 3 933 16 0
+~ Move `main_dlg_cur` `time_scale` 3 934 15 0
+~ Move `main_dlg_cur` `time_scale` 3 934 14 0
+~ Move `main_dlg_cur` `time_scale` 3 935 13 0
+~ Move `main_dlg_cur` `time_scale` 3 936 12 0
+~ Move `main_dlg_cur` `time_scale` 3 936 11 0
+~ Move `main_dlg_cur` `time_scale` 3 937 10 0
+~ Move `main_dlg_cur` `time_scale` 3 938 9 0
+~ Move `main_dlg_cur` `time_scale` 3 939 7 0
+~ Move `main_dlg_cur` `time_scale` 3 940 6 0
+~ Move `main_dlg_cur` `time_scale` 3 941 5 0
+~ Move `main_dlg_cur` `time_scale` 3 941 4 0
+~ Move `main_dlg_cur` `time_scale` 3 942 4 0
+~ Move `main_dlg_cur` `time_scale` 3 942 3 0
+~ Move `main_dlg_cur` `time_scale` 3 943 3 0
+~ Move `main_dlg_cur` `time_scale` 3 943 2 0
+~ Move `main_dlg_cur` `time_scale` 3 944 1 0
+~ Move `main_dlg_cur` `time_scale` 3 944 0 0
+~ Move `main_dlg_cur` `time_scale` 3 945 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 946 -1 0
+*ANIMATION_FRAME 55.000000 0 0 
+*ANIMATION_FRAME 56.000000 0 0 
+*ANIMATION_FRAME 57.000000 0 0 
+*ANIMATION_FRAME 58.000000 0 0 
+*ANIMATION_FRAME 59.000000 0 0 
+*ANIMATION_FRAME 60.000000 0 0 
+*ANIMATION_FRAME 61.000000 0 0 
+~ Activate `main_dlg_cur` `stopBtn`
+!Command AnimCmdDummy was pushed from the software.
+~ Enter `main_dlg_cur` `time_scale` 3 905 1 0
+~ Move `main_dlg_cur` `time_scale` 3 905 1 0
+~ Move `main_dlg_cur` `time_scale` 3 904 2 0
+~ Move `main_dlg_cur` `time_scale` 3 903 4 0
+~ Move `main_dlg_cur` `time_scale` 3 901 5 0
+~ Move `main_dlg_cur` `time_scale` 3 900 6 0
+~ Move `main_dlg_cur` `time_scale` 3 898 9 0
+~ Move `main_dlg_cur` `time_scale` 3 897 10 0
+~ Move `main_dlg_cur` `time_scale` 3 896 12 0
+~ Move `main_dlg_cur` `time_scale` 3 894 13 0
+~ Move `main_dlg_cur` `time_scale` 3 892 14 0
+~ Move `main_dlg_cur` `time_scale` 3 891 15 0
+~ Move `main_dlg_cur` `time_scale` 3 889 17 0
+~ Move `main_dlg_cur` `time_scale` 3 888 19 0
+~ Move `main_dlg_cur` `time_scale` 3 886 20 0
+~ Move `main_dlg_cur` `time_scale` 3 885 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 883 23 0
+~ Enter `main_dlg_cur` `time_scale` 3 326 21 0
+~ Move `main_dlg_cur` `time_scale` 3 326 21 0
+~ Move `main_dlg_cur` `time_scale` 3 324 21 0
+~ Move `main_dlg_cur` `time_scale` 3 322 20 0
+~ Move `main_dlg_cur` `time_scale` 3 320 19 0
+~ Move `main_dlg_cur` `time_scale` 3 319 18 0
+~ Move `main_dlg_cur` `time_scale` 3 317 18 0
+~ Move `main_dlg_cur` `time_scale` 3 315 18 0
+~ Move `main_dlg_cur` `time_scale` 3 313 17 0
+~ Move `main_dlg_cur` `time_scale` 3 312 16 0
+~ Move `main_dlg_cur` `time_scale` 3 309 16 0
+~ Move `main_dlg_cur` `time_scale` 3 308 14 0
+~ Move `main_dlg_cur` `time_scale` 3 307 14 0
+~ Move `main_dlg_cur` `time_scale` 3 305 13 0
+~ Move `main_dlg_cur` `time_scale` 3 304 13 0
+~ Move `main_dlg_cur` `time_scale` 3 302 12 0
+~ Move `main_dlg_cur` `time_scale` 3 300 11 0
+~ Move `main_dlg_cur` `time_scale` 3 299 11 0
+~ Move `main_dlg_cur` `time_scale` 3 298 11 0
+~ Move `main_dlg_cur` `time_scale` 3 296 10 0
+~ Move `main_dlg_cur` `time_scale` 3 295 9 0
+~ Move `main_dlg_cur` `time_scale` 3 294 9 0
+~ Move `main_dlg_cur` `time_scale` 3 292 9 0
+~ Move `main_dlg_cur` `time_scale` 3 291 8 0
+~ Move `main_dlg_cur` `time_scale` 3 290 7 0
+~ Move `main_dlg_cur` `time_scale` 3 288 7 0
+~ Move `main_dlg_cur` `time_scale` 3 287 6 0
+~ Move `main_dlg_cur` `time_scale` 3 286 6 0
+~ Move `main_dlg_cur` `time_scale` 3 284 5 0
+~ Move `main_dlg_cur` `time_scale` 3 283 5 0
+~ Move `main_dlg_cur` `time_scale` 3 282 4 0
+~ Move `main_dlg_cur` `time_scale` 3 280 3 0
+~ Move `main_dlg_cur` `time_scale` 3 279 3 0
+~ Move `main_dlg_cur` `time_scale` 3 278 3 0
+~ Move `main_dlg_cur` `time_scale` 3 276 2 0
+~ Move `main_dlg_cur` `time_scale` 3 276 1 0
+~ Move `main_dlg_cur` `time_scale` 3 274 1 0
+~ Move `main_dlg_cur` `time_scale` 3 272 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 271 -1 0
+~ Command `AnimCmdCreateMode`  1
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ Command `AnimCmdViewAtTime` 
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `1073741828`
+~ Update `anim_view` `time_value` `6`
+~ Activate `anim_view` `apply`
+!%CI보기가 현재 애니메이션에 추가되었습니다.
+~ Activate `anim_view` `close`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1184 207 0 1 1511 644 1920 1080 688942
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1184 207 0 0 1511 644 1920 1080 689031
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Command `AnimCmdMnuPlayback` 
+~ Activate `playback` `close_btn`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 974 151 0 1 1511 644 1920 1080 692573
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 974 151 0 0 1511 644 1920 1080 692639
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Command `AnimCmdTimeDomain` 
+~ Enter `main_dlg_cur` `proe_win` 9 1302 142 0 1537 1511 644 1920 1080 694229
+~ Move `main_dlg_cur` `proe_win` 9 1302 142 0 1 1511 644 1920 1080 694229
+~ Move `main_dlg_cur` `proe_win` 9 1297 142 0 513 1511 644 1920 1080 694231
+~ Move `main_dlg_cur` `proe_win` 9 1292 142 0 513 1511 644 1920 1080 694232
+~ Move `main_dlg_cur` `proe_win` 9 1286 142 0 513 1511 644 1920 1080 694232
+~ Move `main_dlg_cur` `proe_win` 9 1282 142 0 513 1511 644 1920 1080 694234
+~ Move `main_dlg_cur` `proe_win` 9 1278 141 0 1537 1511 644 1920 1080 694234
+~ Move `main_dlg_cur` `proe_win` 9 1273 141 0 513 1511 644 1920 1080 694236
+~ Move `main_dlg_cur` `proe_win` 9 1268 141 0 513 1511 644 1920 1080 694236
+~ Move `main_dlg_cur` `proe_win` 9 1263 140 0 1537 1511 644 1920 1080 694237
+~ Move `main_dlg_cur` `proe_win` 9 1259 140 0 513 1511 644 1920 1080 694238
+~ Move `main_dlg_cur` `proe_win` 9 1253 140 0 513 1511 644 1920 1080 694239
+~ Move `main_dlg_cur` `proe_win` 9 1248 140 0 513 1511 644 1920 1080 694241
+~ Move `main_dlg_cur` `proe_win` 9 1240 139 0 1537 1511 644 1920 1080 694242
+~ Move `main_dlg_cur` `proe_win` 9 1236 139 0 513 1511 644 1920 1080 694243
+~ Move `main_dlg_cur` `proe_win` 9 1231 139 0 513 1511 644 1920 1080 694244
+~ Move `main_dlg_cur` `proe_win` 9 1227 139 0 513 1511 644 1920 1080 694245
+~ Move `main_dlg_cur` `proe_win` 9 1222 139 0 513 1511 644 1920 1080 694246
+~ Move `main_dlg_cur` `proe_win` 9 1218 138 0 1537 1511 644 1920 1080 694247
+~ Move `main_dlg_cur` `proe_win` 9 1213 138 0 513 1511 644 1920 1080 694248
+~ Move `main_dlg_cur` `proe_win` 9 1206 138 0 513 1511 644 1920 1080 694250
+~ Move `main_dlg_cur` `proe_win` 9 1202 138 0 513 1511 644 1920 1080 694251
+~ Move `main_dlg_cur` `proe_win` 9 1198 138 0 513 1511 644 1920 1080 694253
+~ Move `main_dlg_cur` `proe_win` 9 1194 138 0 513 1511 644 1920 1080 694253
+~ Move `main_dlg_cur` `proe_win` 9 1187 138 0 513 1511 644 1920 1080 694255
+~ Move `main_dlg_cur` `proe_win` 9 1184 137 0 1537 1511 644 1920 1080 694257
+~ Move `main_dlg_cur` `proe_win` 9 1180 137 0 513 1511 644 1920 1080 694258
+~ Move `main_dlg_cur` `proe_win` 9 1174 137 0 513 1511 644 1920 1080 694259
+~ Move `main_dlg_cur` `proe_win` 9 1171 137 0 513 1511 644 1920 1080 694261
+~ Move `main_dlg_cur` `proe_win` 9 1165 137 0 513 1511 644 1920 1080 694262
+~ Move `main_dlg_cur` `proe_win` 9 1163 137 0 513 1511 644 1920 1080 694263
+~ Move `main_dlg_cur` `proe_win` 9 1158 137 0 513 1511 644 1920 1080 694265
+~ Move `main_dlg_cur` `proe_win` 9 1155 137 0 513 1511 644 1920 1080 694266
+~ Move `main_dlg_cur` `proe_win` 9 1150 137 0 513 1511 644 1920 1080 694268
+~ Move `main_dlg_cur` `proe_win` 9 1148 137 0 513 1511 644 1920 1080 694270
+~ Move `main_dlg_cur` `proe_win` 9 1144 137 0 513 1511 644 1920 1080 694271
+~ Move `main_dlg_cur` `proe_win` 9 1141 137 0 513 1511 644 1920 1080 694273
+~ Move `main_dlg_cur` `proe_win` 9 1138 137 0 513 1511 644 1920 1080 694275
+~ Move `main_dlg_cur` `proe_win` 9 1136 137 0 513 1511 644 1920 1080 694277
+~ Move `main_dlg_cur` `proe_win` 9 1133 137 0 513 1511 644 1920 1080 694278
+~ Move `main_dlg_cur` `proe_win` 9 1132 137 0 513 1511 644 1920 1080 694280
+~ Move `main_dlg_cur` `proe_win` 9 1130 137 0 513 1511 644 1920 1080 694281
+~ Move `main_dlg_cur` `proe_win` 9 1129 137 0 513 1511 644 1920 1080 694283
+~ Move `main_dlg_cur` `proe_win` 9 1128 137 0 513 1511 644 1920 1080 694285
+~ Move `main_dlg_cur` `proe_win` 9 1127 137 0 513 1511 644 1920 1080 694287
+~ Move `main_dlg_cur` `proe_win` 9 1126 137 0 513 1511 644 1920 1080 694288
+~ Move `main_dlg_cur` `proe_win` 9 1125 137 0 513 1511 644 1920 1080 694290
+~ Update `anim_time_domain` `DurationTextEntry` `6`
+~ Activate `anim_time_domain` `apply_btn`
+~ Activate `anim_time_domain` `OKButton`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1200 260 0 1 1511 644 1920 1080 699336
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1200 260 0 0 1511 644 1920 1080 699428
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Command `AnimCmdStart` 
+~ Activate `confirm` `yes_btn`
+~ Command `AnimCmdPbkMode`  1
+!%CI프레임을 타임 0.0000에 프로세싱합니다
+!%CI프레임을 타임 0.1000에 프로세싱합니다
+!%CI프레임을 타임 0.2000에 프로세싱합니다
+!%CI프레임을 타임 0.3000에 프로세싱합니다
+!%CI프레임을 타임 0.4000에 프로세싱합니다
+!%CI프레임을 타임 0.5000에 프로세싱합니다
+!%CI프레임을 타임 0.6000에 프로세싱합니다
+!%CI프레임을 타임 0.7000에 프로세싱합니다
+!%CI프레임을 타임 0.8000에 프로세싱합니다
+!%CI프레임을 타임 0.9000에 프로세싱합니다
+!%CI프레임을 타임 1.0000에 프로세싱합니다
+!%CI프레임을 타임 1.1000에 프로세싱합니다
+!%CI프레임을 타임 1.2000에 프로세싱합니다
+!%CI프레임을 타임 1.3000에 프로세싱합니다
+!%CI프레임을 타임 1.4000에 프로세싱합니다
+!%CI프레임을 타임 1.5000에 프로세싱합니다
+!%CI프레임을 타임 1.6000에 프로세싱합니다
+!%CI프레임을 타임 1.7000에 프로세싱합니다
+!%CI프레임을 타임 1.8000에 프로세싱합니다
+!%CI프레임을 타임 1.9000에 프로세싱합니다
+!%CI프레임을 타임 2.0000에 프로세싱합니다
+!%CI프레임을 타임 2.1000에 프로세싱합니다
+!%CI프레임을 타임 2.2000에 프로세싱합니다
+!%CI프레임을 타임 2.3000에 프로세싱합니다
+!%CI프레임을 타임 2.4000에 프로세싱합니다
+!%CI프레임을 타임 2.5000에 프로세싱합니다
+!%CI프레임을 타임 2.6000에 프로세싱합니다
+!%CI프레임을 타임 2.7000에 프로세싱합니다
+!%CI프레임을 타임 2.8000에 프로세싱합니다
+!%CI프레임을 타임 2.9000에 프로세싱합니다
+!%CI프레임을 타임 3.0000에 프로세싱합니다
+!%CI프레임을 타임 3.1000에 프로세싱합니다
+!%CI프레임을 타임 3.2000에 프로세싱합니다
+!%CI프레임을 타임 3.3000에 프로세싱합니다
+!%CI프레임을 타임 3.4000에 프로세싱합니다
+!%CI프레임을 타임 3.5000에 프로세싱합니다
+!%CI프레임을 타임 3.6000에 프로세싱합니다
+!%CI프레임을 타임 3.7000에 프로세싱합니다
+!%CI프레임을 타임 3.8000에 프로세싱합니다
+!%CI프레임을 타임 3.9000에 프로세싱합니다
+!%CI프레임을 타임 4.0000에 프로세싱합니다
+!%CI프레임을 타임 4.1000에 프로세싱합니다
+!%CI프레임을 타임 4.2000에 프로세싱합니다
+!%CI프레임을 타임 4.3000에 프로세싱합니다
+!%CI프레임을 타임 4.4000에 프로세싱합니다
+!%CI프레임을 타임 4.5000에 프로세싱합니다
+!%CI프레임을 타임 4.6000에 프로세싱합니다
+!%CI프레임을 타임 4.7000에 프로세싱합니다
+!%CI프레임을 타임 4.8000에 프로세싱합니다
+!%CI프레임을 타임 4.9000에 프로세싱합니다
+!%CI프레임을 타임 5.0000에 프로세싱합니다
+!%CI프레임을 타임 5.1000에 프로세싱합니다
+!%CI프레임을 타임 5.2000에 프로세싱합니다
+!%CI프레임을 타임 5.3000에 프로세싱합니다
+!%CI프레임을 타임 5.4000에 프로세싱합니다
+!%CI프레임을 타임 5.5000에 프로세싱합니다
+!%CI프레임을 타임 5.6000에 프로세싱합니다
+!%CI프레임을 타임 5.7000에 프로세싱합니다
+!%CI프레임을 타임 5.8000에 프로세싱합니다
+!%CI프레임을 타임 5.9000에 프로세싱합니다
+!%CI프레임을 타임 6.0000에 프로세싱합니다
+!Command AnimCmdDummy was pushed from the software.
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `playBtn`
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+*ANIMATION_FRAME 17.000000 0 0 
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+*ANIMATION_FRAME 21.000000 0 0 
+*ANIMATION_FRAME 22.000000 0 0 
+*ANIMATION_FRAME 23.000000 0 0 
+*ANIMATION_FRAME 24.000000 0 0 
+*ANIMATION_FRAME 25.000000 0 0 
+*ANIMATION_FRAME 26.000000 0 0 
+*ANIMATION_FRAME 27.000000 0 0 
+*ANIMATION_FRAME 28.000000 0 0 
+*ANIMATION_FRAME 29.000000 0 0 
+*ANIMATION_FRAME 30.000000 0 0 
+*ANIMATION_FRAME 31.000000 0 0 
+*ANIMATION_FRAME 32.000000 0 0 
+*ANIMATION_FRAME 33.000000 0 0 
+*ANIMATION_FRAME 34.000000 0 0 
+*ANIMATION_FRAME 35.000000 0 0 
+*ANIMATION_FRAME 36.000000 0 0 
+*ANIMATION_FRAME 37.000000 0 0 
+*ANIMATION_FRAME 38.000000 0 0 
+*ANIMATION_FRAME 39.000000 0 0 
+*ANIMATION_FRAME 40.000000 0 0 
+*ANIMATION_FRAME 41.000000 0 0 
+*ANIMATION_FRAME 42.000000 0 0 
+*ANIMATION_FRAME 43.000000 0 0 
+*ANIMATION_FRAME 44.000000 0 0 
+*ANIMATION_FRAME 45.000000 0 0 
+*ANIMATION_FRAME 46.000000 0 0 
+*ANIMATION_FRAME 47.000000 0 0 
+*ANIMATION_FRAME 48.000000 0 0 
+*ANIMATION_FRAME 49.000000 0 0 
+*ANIMATION_FRAME 50.000000 0 0 
+*ANIMATION_FRAME 51.000000 0 0 
+*ANIMATION_FRAME 52.000000 0 0 
+*ANIMATION_FRAME 53.000000 0 0 
+*ANIMATION_FRAME 54.000000 0 0 
+*ANIMATION_FRAME 55.000000 0 0 
+*ANIMATION_FRAME 56.000000 0 0 
+*ANIMATION_FRAME 57.000000 0 0 
+*ANIMATION_FRAME 58.000000 0 0 
+*ANIMATION_FRAME 59.000000 0 0 
+*ANIMATION_FRAME 60.000000 0 0 
+*ANIMATION_FRAME 0.000000 0 0 
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+*ANIMATION_FRAME 17.000000 0 0 
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+*ANIMATION_FRAME 21.000000 0 0 
+*ANIMATION_FRAME 22.000000 0 0 
+*ANIMATION_FRAME 23.000000 0 0 
+*ANIMATION_FRAME 24.000000 0 0 
+*ANIMATION_FRAME 25.000000 0 0 
+*ANIMATION_FRAME 26.000000 0 0 
+*ANIMATION_FRAME 27.000000 0 0 
+*ANIMATION_FRAME 28.000000 0 0 
+*ANIMATION_FRAME 29.000000 0 0 
+*ANIMATION_FRAME 30.000000 0 0 
+*ANIMATION_FRAME 31.000000 0 0 
+*ANIMATION_FRAME 32.000000 0 0 
+*ANIMATION_FRAME 33.000000 0 0 
+*ANIMATION_FRAME 34.000000 0 0 
+*ANIMATION_FRAME 35.000000 0 0 
+*ANIMATION_FRAME 36.000000 0 0 
+*ANIMATION_FRAME 37.000000 0 0 
+*ANIMATION_FRAME 38.000000 0 0 
+*ANIMATION_FRAME 39.000000 0 0 
+*ANIMATION_FRAME 40.000000 0 0 
+*ANIMATION_FRAME 41.000000 0 0 
+*ANIMATION_FRAME 42.000000 0 0 
+*ANIMATION_FRAME 43.000000 0 0 
+*ANIMATION_FRAME 44.000000 0 0 
+*ANIMATION_FRAME 45.000000 0 0 
+*ANIMATION_FRAME 46.000000 0 0 
+*ANIMATION_FRAME 47.000000 0 0 
+*ANIMATION_FRAME 48.000000 0 0 
+*ANIMATION_FRAME 49.000000 0 0 
+*ANIMATION_FRAME 50.000000 0 0 
+*ANIMATION_FRAME 51.000000 0 0 
+*ANIMATION_FRAME 52.000000 0 0 
+*ANIMATION_FRAME 53.000000 0 0 
+*ANIMATION_FRAME 54.000000 0 0 
+*ANIMATION_FRAME 55.000000 0 0 
+*ANIMATION_FRAME 56.000000 0 0 
+*ANIMATION_FRAME 57.000000 0 0 
+*ANIMATION_FRAME 58.000000 0 0 
+*ANIMATION_FRAME 59.000000 0 0 
+*ANIMATION_FRAME 60.000000 0 0 
+*ANIMATION_FRAME 0.000000 0 0 
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+~ Activate `main_dlg_cur` `stopBtn`
+!Command AnimCmdDummy was pushed from the software.
+~ Command `AnimCmdCapture` 
+~ Open `capture` `OutputTypeMenu`
+~ Close `capture` `OutputTypeMenu`
+~ Select `capture` `OutputTypeMenu` 1 `AVI`
+~ Activate `capture` `BrowsePB`
+~ Activate `file_saveas` `SAB_.|`
+~ Activate `file_saveas` `SAB_..|`
+~ RButtonArm `file_saveas` `ph_list.Filelist` ``
+~ Select `file_saveas` `ph_list.Filelist` 1 `애니메이션`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `애니메이션`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Update `file_saveas` `Inputname` `fedal`
+~ Activate `file_saveas` `Inputname`
+~ Activate `capture` `OK`
+!%CI프레임 60의 0 생성중입니다
+!%CI프레임 60의 1 생성중입니다
+!%CI프레임 60의 2 생성중입니다
+!%CI프레임 60의 3 생성중입니다
+!%CI프레임 60의 4 생성중입니다
+!%CI프레임 60의 5 생성중입니다
+!%CI프레임 60의 6 생성중입니다
+!%CI프레임 60의 7 생성중입니다
+!%CI프레임 60의 8 생성중입니다
+!%CI프레임 60의 9 생성중입니다
+!%CI프레임 60의 10 생성중입니다
+!%CI프레임 60의 11 생성중입니다
+!%CI프레임 60의 12 생성중입니다
+!%CI프레임 60의 13 생성중입니다
+!%CI프레임 60의 14 생성중입니다
+!%CI프레임 60의 15 생성중입니다
+!%CI프레임 60의 16 생성중입니다
+!%CI프레임 60의 17 생성중입니다
+!%CI프레임 60의 18 생성중입니다
+!%CI프레임 60의 19 생성중입니다
+!%CI프레임 60의 20 생성중입니다
+!%CI프레임 60의 21 생성중입니다
+!%CI프레임 60의 22 생성중입니다
+!%CI프레임 60의 23 생성중입니다
+!%CI프레임 60의 24 생성중입니다
+!%CI프레임 60의 25 생성중입니다
+!%CI프레임 60의 26 생성중입니다
+!%CI프레임 60의 27 생성중입니다
+!%CI프레임 60의 28 생성중입니다
+!%CI프레임 60의 29 생성중입니다
+!%CI프레임 60의 30 생성중입니다
+!%CI프레임 60의 31 생성중입니다
+!%CI프레임 60의 32 생성중입니다
+!%CI프레임 60의 33 생성중입니다
+!%CI프레임 60의 34 생성중입니다
+!%CI프레임 60의 35 생성중입니다
+!%CI프레임 60의 36 생성중입니다
+!%CI프레임 60의 37 생성중입니다
+!%CI프레임 60의 38 생성중입니다
+!%CI프레임 60의 39 생성중입니다
+!%CI프레임 60의 40 생성중입니다
+!%CI프레임 60의 41 생성중입니다
+!%CI프레임 60의 42 생성중입니다
+!%CI프레임 60의 43 생성중입니다
+!%CI프레임 60의 44 생성중입니다
+!%CI프레임 60의 45 생성중입니다
+!%CI프레임 60의 46 생성중입니다
+!%CI프레임 60의 47 생성중입니다
+!%CI프레임 60의 48 생성중입니다
+!%CI프레임 60의 49 생성중입니다
+!%CI프레임 60의 50 생성중입니다
+!%CI프레임 60의 51 생성중입니다
+!%CI프레임 60의 52 생성중입니다
+!%CI프레임 60의 53 생성중입니다
+!%CI프레임 60의 54 생성중입니다
+!%CI프레임 60의 55 생성중입니다
+!%CI프레임 60의 56 생성중입니다
+!%CI프레임 60의 57 생성중입니다
+!%CI프레임 60의 58 생성중입니다
+!%CI프레임 60의 59 생성중입니다
+!%CI프레임 60의 60 생성중입니다
+~ Enter `main_dlg_cur` `time_scale` 3 823 19 0
+~ Move `main_dlg_cur` `time_scale` 3 823 19 0
+~ Move `main_dlg_cur` `time_scale` 3 824 16 0
+~ Move `main_dlg_cur` `time_scale` 3 825 11 0
+~ Move `main_dlg_cur` `time_scale` 3 826 8 0
+~ Move `main_dlg_cur` `time_scale` 3 828 4 0
+~ Move `main_dlg_cur` `time_scale` 3 829 1 0
+~ Exit `main_dlg_cur` `time_scale` 3 830 -4 0
+~ Command `ProCmdUtilAppAsmExit` 
+~ Activate `pmsaveresults` `save_exit_btn`
+!%CIAnimation3이(가) 저장되었습니다.
+< 0 0.986074 1511 0 0 832 1920 0 0 1080 13
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Activate `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Resize `main_dlg_cur` `main_dlg_cur` 4 0.000000 0.000000 45.983318 26.987952
+~ Activate `main_dlg_cur` `page_Applications_control_btn` 1
+~ Command `ProCmdUtilAppAnim`  1
+!Design Animation Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-03 at 15:43:38
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Activate `warningbox` `accept_btn`
+!Current Animation initialiazed : Animation3 (Asynchronic Snapshot)
+< 0 0.763259 1511 0 0 644 1920 0 0 1080 13
+~ Command `AnimCmdTimeDomain` 
+~ Update `anim_time_domain` `DurationTextEntry` `15`
+~ Activate `anim_time_domain` `apply_btn`
+~ Activate `anim_time_domain` `OKButton`
+~ Command `AnimCmdMnuKfs` 
+~ Activate `kfs_finder` `edit_btn`
+~ Select `kfs` `keyframe_list` 1 `1`
+~ Update `kfs` `value_inpt` `2`
+~ Select `kfs` `keyframe_list` 1 `2`
+~ Select `kfs` `keyframe_list` 1 `3`
+~ Select `kfs` `keyframe_list` 1 `1`
+~ Select `kfs` `keyframe_list` 1 `2`
+~ Select `kfs` `keyframe_list` 1 `1`
+~ Update `kfs` `value_inpt` `2`
+~ Select `kfs` `keyframe_list` 1 `2`
+~ Select `kfs` `keyframe_list` 1 `1`
+~ Activate `kfs` `add_btn`
+! Message Dialog: Error
+!               : 다른 키프레임이 이미 이 시간에 정의되어 있습니다.
+~ Activate `UI Message Dialog` `ok`
+~ Select `kfs` `keyframe_list` 1 `4`
+~ Select `kfs` `keyframe_list` 1 `6`
+~ Select `kfs` `keyframe_list` 6 `1` `2` `3` `4` `5` `6`
+~ Select `kfs` `keyframe_list` 7 `0` `1` `2` `3` `4` `5` `6`
+~ Activate `kfs` `remove_btn`
+~ Enter `main_dlg_cur` `proe_win` 9 1299 257 0 1537 1511 644 1920 1080 826523
+~ Move `main_dlg_cur` `proe_win` 9 1299 257 0 1 1511 644 1920 1080 826523
+~ Move `main_dlg_cur` `proe_win` 9 1297 257 0 513 1511 644 1920 1080 826527
+~ Move `main_dlg_cur` `proe_win` 9 1296 257 0 513 1511 644 1920 1080 826530
+~ Move `main_dlg_cur` `proe_win` 9 1296 258 0 1025 1511 644 1920 1080 826559
+~ Update `kfs` `value_inpt` `0`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `7`
+~ Update `kfs` `value_inpt` `2`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `8`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `9`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `8`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `7`
+~ Activate `kfs` `add_btn`
+~ Open `kfs` `snap_optn`
+~ Close `kfs` `snap_optn`
+~ Select `kfs` `snap_optn` 1 `6`
+~ Activate `kfs` `add_btn`
+~ Activate `kfs` `ok_btn`
+!%CI이전 명령으로 인해 애니메이션 실행 취소/다시 실행 스택이 지워집니다.
+~ Activate `kfs_finder` `close_btn`
+!%CI애니메이션 실행 취소/다시 실행 스택이 지워졌습니다.
+~ Command `AnimCmdViewAtTime` 
+~ Activate `anim_view` `close`
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 334 14 0
+!Mech 4.000000 3.081761 
+!Mech 4.000000 3.100000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 334 14 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 334 14 0
+~ Command `AnimCmdMnuKfs` 
+~ Activate `kfs_finder` `close_btn`
+~ Command `AnimCmdViewAtTime` 
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Open `anim_view` `event_option`
+~ Close `anim_view` `event_option`
+~ Update `anim_view` `time_value` `7.5`
+~ Activate `anim_view` `apply`
+!%CI보기가 현재 애니메이션에 추가되었습니다.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `1073741828`
+~ Update `anim_view` `time_value` `15`
+~ Activate `anim_view` `apply`
+!%CI보기가 현재 애니메이션에 추가되었습니다.
+~ Activate `anim_view` `close`
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 626 15 0
+!Mech 3.950000 6.142558 
+!Mech 4.000000 6.100000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 626 15 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 626 15 0
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 323 13 0
+!Mech 4.050000 2.966457 
+!Mech 4.000000 3.000000 
+!Mech 4.000000 3.000000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 323 13 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 323 13 0
+~ RButtonArm `main_dlg_cur` `comp_timeline` 3 326 14 0
+~ PopupOver `main_dlg_cur` `pop_common_mnu` 1 `comp_timeline`
+~ Open `main_dlg_cur` `pop_common_mnu`
+~ RButtonDisarm `main_dlg_cur` `comp_timeline` 3 326 14 0
+~ Close `main_dlg_cur` `pop_common_mnu`
+~ Activate `main_dlg_cur` `del_inst`
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 748 14 0
+!Mech 4.000000 7.421384 
+!Mech 4.000000 7.400000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 748 14 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 748 14 0
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 754 13 0
+!Mech 4.050000 7.484277 
+!Mech 4.000000 7.500000 
+!Mech 4.000000 7.500000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 754 13 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 754 13 0
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 613 13 0
+!Mech 4.050000 6.006289 
+!Mech 4.000000 6.000000 
+!Mech 4.000000 6.000000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 613 13 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 613 13 0
+~ RButtonArm `main_dlg_cur` `comp_timeline` 3 613 13 0
+~ PopupOver `main_dlg_cur` `pop_common_mnu` 1 `comp_timeline`
+~ Open `main_dlg_cur` `pop_common_mnu`
+~ RButtonDisarm `main_dlg_cur` `comp_timeline` 3 613 13 0
+~ Close `main_dlg_cur` `pop_common_mnu`
+~ Activate `main_dlg_cur` `del_inst`
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 752 13 0
+!Mech 4.050000 7.463312 
+!Mech 4.000000 7.500000 
+!Mech 4.000000 7.500000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 752 13 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 752 13 0
+~ RButtonArm `main_dlg_cur` `comp_timeline` 3 752 13 0
+~ PopupOver `main_dlg_cur` `pop_common_mnu` 1 `comp_timeline`
+~ Open `main_dlg_cur` `pop_common_mnu`
+~ RButtonDisarm `main_dlg_cur` `comp_timeline` 3 752 13 0
+~ Close `main_dlg_cur` `pop_common_mnu`
+~ Activate `main_dlg_cur` `edit_def`
+~ Update `anim_view` `time_value` `6`
+~ Activate `anim_view` `apply`
+!%CI이전 명령으로 인해 애니메이션 실행 취소/다시 실행 스택이 지워집니다.
+!%CI애니메이션 실행 취소/다시 실행 스택이 지워졌습니다.
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 1476 14 0
+!Mech 4.000000 15.052411 
+!Mech 4.000000 15.000000 
+~ Move `main_dlg_cur` `comp_timeline` 3 1477 14 0
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 1477 14 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 1477 14 0
+~ LButtonArm `main_dlg_cur` `comp_timeline` 3 1467 15 0
+!Mech 3.950000 14.958071 
+!Mech 4.000000 15.000000 
+!Mech 4.000000 15.000000 
+~ LButtonDisarm `main_dlg_cur` `comp_timeline` 3 1467 15 0
+~ LButtonActivate `main_dlg_cur` `comp_timeline` 3 1467 15 0
+~ RButtonArm `main_dlg_cur` `comp_timeline` 3 1472 15 0
+~ PopupOver `main_dlg_cur` `pop_common_mnu` 1 `comp_timeline`
+~ Open `main_dlg_cur` `pop_common_mnu`
+~ RButtonDisarm `main_dlg_cur` `comp_timeline` 3 1472 15 0
+~ Close `main_dlg_cur` `pop_common_mnu`
+~ Activate `main_dlg_cur` `edit_def`
+~ Update `anim_view` `time_value` `12`
+~ Activate `anim_view` `apply`
+!%CI이전 명령으로 인해 애니메이션 실행 취소/다시 실행 스택이 지워집니다.
+!%CI애니메이션 실행 취소/다시 실행 스택이 지워졌습니다.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1255 188 0 1 1511 644 1920 1080 906533
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1255 188 0 0 1511 644 1920 1080 906599
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Command `AnimCmdStart` 
+~ Command `AnimCmdPbkMode`  1
+!%CI프레임을 타임 0.0000에 프로세싱합니다
+!%CI프레임을 타임 0.1000에 프로세싱합니다
+!%CI프레임을 타임 0.2000에 프로세싱합니다
+!%CI프레임을 타임 0.3000에 프로세싱합니다
+!%CI프레임을 타임 0.4000에 프로세싱합니다
+!%CI프레임을 타임 0.5000에 프로세싱합니다
+!%CI프레임을 타임 0.6000에 프로세싱합니다
+!%CI프레임을 타임 0.7000에 프로세싱합니다
+!%CI프레임을 타임 0.8000에 프로세싱합니다
+!%CI프레임을 타임 0.9000에 프로세싱합니다
+!%CI프레임을 타임 1.0000에 프로세싱합니다
+!%CI프레임을 타임 1.1000에 프로세싱합니다
+!%CI프레임을 타임 1.2000에 프로세싱합니다
+!%CI프레임을 타임 1.3000에 프로세싱합니다
+!%CI프레임을 타임 1.4000에 프로세싱합니다
+!%CI프레임을 타임 1.5000에 프로세싱합니다
+!%CI프레임을 타임 1.6000에 프로세싱합니다
+!%CI프레임을 타임 1.7000에 프로세싱합니다
+!%CI프레임을 타임 1.8000에 프로세싱합니다
+!%CI프레임을 타임 1.9000에 프로세싱합니다
+!%CI프레임을 타임 2.0000에 프로세싱합니다
+!%CI프레임을 타임 2.1000에 프로세싱합니다
+!%CI프레임을 타임 2.2000에 프로세싱합니다
+!%CI프레임을 타임 2.3000에 프로세싱합니다
+!%CI프레임을 타임 2.4000에 프로세싱합니다
+!%CI프레임을 타임 2.5000에 프로세싱합니다
+!%CI프레임을 타임 2.6000에 프로세싱합니다
+!%CI프레임을 타임 2.7000에 프로세싱합니다
+!%CI프레임을 타임 2.8000에 프로세싱합니다
+!%CI프레임을 타임 2.9000에 프로세싱합니다
+!%CI프레임을 타임 3.0000에 프로세싱합니다
+!%CI프레임을 타임 3.1000에 프로세싱합니다
+!%CI프레임을 타임 3.2000에 프로세싱합니다
+!%CI프레임을 타임 3.3000에 프로세싱합니다
+!%CI프레임을 타임 3.4000에 프로세싱합니다
+!%CI프레임을 타임 3.5000에 프로세싱합니다
+!%CI프레임을 타임 3.6000에 프로세싱합니다
+!%CI프레임을 타임 3.7000에 프로세싱합니다
+!%CI프레임을 타임 3.8000에 프로세싱합니다
+!%CI프레임을 타임 3.9000에 프로세싱합니다
+!%CI프레임을 타임 4.0000에 프로세싱합니다
+!%CI프레임을 타임 4.1000에 프로세싱합니다
+!%CI프레임을 타임 4.2000에 프로세싱합니다
+!%CI프레임을 타임 4.3000에 프로세싱합니다
+!%CI프레임을 타임 4.4000에 프로세싱합니다
+!%CI프레임을 타임 4.5000에 프로세싱합니다
+!%CI프레임을 타임 4.6000에 프로세싱합니다
+!%CI프레임을 타임 4.7000에 프로세싱합니다
+!%CI프레임을 타임 4.8000에 프로세싱합니다
+!%CI프레임을 타임 4.9000에 프로세싱합니다
+!%CI프레임을 타임 5.0000에 프로세싱합니다
+!%CI프레임을 타임 5.1000에 프로세싱합니다
+!%CI프레임을 타임 5.2000에 프로세싱합니다
+!%CI프레임을 타임 5.3000에 프로세싱합니다
+!%CI프레임을 타임 5.4000에 프로세싱합니다
+!%CI프레임을 타임 5.5000에 프로세싱합니다
+!%CI프레임을 타임 5.6000에 프로세싱합니다
+!%CI프레임을 타임 5.7000에 프로세싱합니다
+!%CI프레임을 타임 5.8000에 프로세싱합니다
+!%CI프레임을 타임 5.9000에 프로세싱합니다
+!%CI프레임을 타임 6.0000에 프로세싱합니다
+!%CI프레임을 타임 6.1000에 프로세싱합니다
+!%CI프레임을 타임 6.2000에 프로세싱합니다
+!%CI프레임을 타임 6.3000에 프로세싱합니다
+!%CI프레임을 타임 6.4000에 프로세싱합니다
+!%CI프레임을 타임 6.5000에 프로세싱합니다
+!%CI프레임을 타임 6.6000에 프로세싱합니다
+!%CI프레임을 타임 6.7000에 프로세싱합니다
+!%CI프레임을 타임 6.8000에 프로세싱합니다
+!%CI프레임을 타임 6.9000에 프로세싱합니다
+!%CI프레임을 타임 7.0000에 프로세싱합니다
+!%CI프레임을 타임 7.1000에 프로세싱합니다
+!%CI프레임을 타임 7.2000에 프로세싱합니다
+!%CI프레임을 타임 7.3000에 프로세싱합니다
+!%CI프레임을 타임 7.4000에 프로세싱합니다
+!%CI프레임을 타임 7.5000에 프로세싱합니다
+!%CI프레임을 타임 7.6000에 프로세싱합니다
+!%CI프레임을 타임 7.7000에 프로세싱합니다
+!%CI프레임을 타임 7.8000에 프로세싱합니다
+!%CI프레임을 타임 7.9000에 프로세싱합니다
+!%CI프레임을 타임 8.0000에 프로세싱합니다
+!%CI프레임을 타임 8.1000에 프로세싱합니다
+!%CI프레임을 타임 8.2000에 프로세싱합니다
+!%CI프레임을 타임 8.3000에 프로세싱합니다
+!%CI프레임을 타임 8.4000에 프로세싱합니다
+!%CI프레임을 타임 8.5000에 프로세싱합니다
+!%CI프레임을 타임 8.6000에 프로세싱합니다
+!%CI프레임을 타임 8.7000에 프로세싱합니다
+!%CI프레임을 타임 8.8000에 프로세싱합니다
+!%CI프레임을 타임 8.9000에 프로세싱합니다
+!%CI프레임을 타임 9.0000에 프로세싱합니다
+!%CI프레임을 타임 9.1000에 프로세싱합니다
+!%CI프레임을 타임 9.2000에 프로세싱합니다
+!%CI프레임을 타임 9.3000에 프로세싱합니다
+!%CI프레임을 타임 9.4000에 프로세싱합니다
+!%CI프레임을 타임 9.5000에 프로세싱합니다
+!%CI프레임을 타임 9.6000에 프로세싱합니다
+!%CI프레임을 타임 9.7000에 프로세싱합니다
+!%CI프레임을 타임 9.8000에 프로세싱합니다
+!%CI프레임을 타임 9.9000에 프로세싱합니다
+!%CI프레임을 타임 10.0000에 프로세싱합니다
+!%CI프레임을 타임 10.1000에 프로세싱합니다
+!%CI프레임을 타임 10.2000에 프로세싱합니다
+!%CI프레임을 타임 10.3000에 프로세싱합니다
+!%CI프레임을 타임 10.4000에 프로세싱합니다
+!%CI프레임을 타임 10.5000에 프로세싱합니다
+!%CI프레임을 타임 10.6000에 프로세싱합니다
+!%CI프레임을 타임 10.7000에 프로세싱합니다
+!%CI프레임을 타임 10.8000에 프로세싱합니다
+!%CI프레임을 타임 10.9000에 프로세싱합니다
+!%CI프레임을 타임 11.0000에 프로세싱합니다
+!%CI프레임을 타임 11.1000에 프로세싱합니다
+!%CI프레임을 타임 11.2000에 프로세싱합니다
+!%CI프레임을 타임 11.3000에 프로세싱합니다
+!%CI프레임을 타임 11.4000에 프로세싱합니다
+!%CI프레임을 타임 11.5000에 프로세싱합니다
+!%CI프레임을 타임 11.6000에 프로세싱합니다
+!%CI프레임을 타임 11.7000에 프로세싱합니다
+!%CI프레임을 타임 11.8000에 프로세싱합니다
+!%CI프레임을 타임 11.9000에 프로세싱합니다
+!%CI프레임을 타임 12.0000에 프로세싱합니다
+!%CI프레임을 타임 12.1000에 프로세싱합니다
+!%CI프레임을 타임 12.2000에 프로세싱합니다
+!%CI프레임을 타임 12.3000에 프로세싱합니다
+!%CI프레임을 타임 12.4000에 프로세싱합니다
+!%CI프레임을 타임 12.5000에 프로세싱합니다
+!%CI프레임을 타임 12.6000에 프로세싱합니다
+!%CI프레임을 타임 12.7000에 프로세싱합니다
+!%CI프레임을 타임 12.8000에 프로세싱합니다
+!%CI프레임을 타임 12.9000에 프로세싱합니다
+!%CI프레임을 타임 13.0000에 프로세싱합니다
+!%CI프레임을 타임 13.1000에 프로세싱합니다
+!%CI프레임을 타임 13.2000에 프로세싱합니다
+!%CI프레임을 타임 13.3000에 프로세싱합니다
+!%CI프레임을 타임 13.4000에 프로세싱합니다
+!%CI프레임을 타임 13.5000에 프로세싱합니다
+!%CI프레임을 타임 13.6000에 프로세싱합니다
+!%CI프레임을 타임 13.7000에 프로세싱합니다
+!%CI프레임을 타임 13.8000에 프로세싱합니다
+!%CI프레임을 타임 13.9000에 프로세싱합니다
+!%CI프레임을 타임 14.0000에 프로세싱합니다
+!%CI프레임을 타임 14.1000에 프로세싱합니다
+!%CI프레임을 타임 14.2000에 프로세싱합니다
+!%CI프레임을 타임 14.3000에 프로세싱합니다
+!%CI프레임을 타임 14.4000에 프로세싱합니다
+!%CI프레임을 타임 14.5000에 프로세싱합니다
+!%CI프레임을 타임 14.6000에 프로세싱합니다
+!%CI프레임을 타임 14.7000에 프로세싱합니다
+!%CI프레임을 타임 14.8000에 프로세싱합니다
+!%CI프레임을 타임 14.9000에 프로세싱합니다
+!%CI프레임을 타임 15.0000에 프로세싱합니다
+!Command AnimCmdDummy was pushed from the software.
+< 0 0.745481 1511 0 0 629 1920 0 0 1080 13
+~ Enter `main_dlg_cur` `time_scale` 3 357 0 0
+~ Move `main_dlg_cur` `time_scale` 3 357 0 0
+~ Move `main_dlg_cur` `time_scale` 3 359 0 0
+~ Move `main_dlg_cur` `time_scale` 3 359 1 0
+~ Move `main_dlg_cur` `time_scale` 3 360 1 0
+~ Move `main_dlg_cur` `time_scale` 3 361 2 0
+~ Move `main_dlg_cur` `time_scale` 3 362 2 0
+~ Move `main_dlg_cur` `time_scale` 3 362 3 0
+~ Move `main_dlg_cur` `time_scale` 3 363 3 0
+~ Move `main_dlg_cur` `time_scale` 3 364 3 0
+~ Move `main_dlg_cur` `time_scale` 3 364 4 0
+~ Move `main_dlg_cur` `time_scale` 3 365 4 0
+~ Move `main_dlg_cur` `time_scale` 3 366 4 0
+~ Move `main_dlg_cur` `time_scale` 3 366 5 0
+~ Move `main_dlg_cur` `time_scale` 3 367 5 0
+~ Move `main_dlg_cur` `time_scale` 3 368 5 0
+~ Move `main_dlg_cur` `time_scale` 3 368 6 0
+~ Move `main_dlg_cur` `time_scale` 3 369 6 0
+~ Move `main_dlg_cur` `time_scale` 3 370 6 0
+~ Move `main_dlg_cur` `time_scale` 3 371 6 0
+~ Move `main_dlg_cur` `time_scale` 3 371 7 0
+~ Move `main_dlg_cur` `time_scale` 3 372 7 0
+~ Move `main_dlg_cur` `time_scale` 3 372 8 0
+~ Move `main_dlg_cur` `time_scale` 3 373 8 0
+~ Move `main_dlg_cur` `time_scale` 3 374 8 0
+~ Move `main_dlg_cur` `time_scale` 3 375 9 0
+~ Move `main_dlg_cur` `time_scale` 3 376 9 0
+~ Move `main_dlg_cur` `time_scale` 3 376 10 0
+~ Move `main_dlg_cur` `time_scale` 3 377 10 0
+~ Move `main_dlg_cur` `time_scale` 3 378 10 0
+~ Move `main_dlg_cur` `time_scale` 3 378 11 0
+~ Move `main_dlg_cur` `time_scale` 3 379 11 0
+~ Move `main_dlg_cur` `time_scale` 3 380 11 0
+~ Move `main_dlg_cur` `time_scale` 3 380 12 0
+~ Move `main_dlg_cur` `time_scale` 3 381 12 0
+~ Move `main_dlg_cur` `time_scale` 3 381 13 0
+~ Move `main_dlg_cur` `time_scale` 3 382 13 0
+~ Move `main_dlg_cur` `time_scale` 3 383 13 0
+~ Move `main_dlg_cur` `time_scale` 3 384 13 0
+~ Move `main_dlg_cur` `time_scale` 3 384 14 0
+~ Move `main_dlg_cur` `time_scale` 3 385 14 0
+~ Move `main_dlg_cur` `time_scale` 3 385 15 0
+~ Move `main_dlg_cur` `time_scale` 3 386 15 0
+~ Move `main_dlg_cur` `time_scale` 3 387 15 0
+~ Move `main_dlg_cur` `time_scale` 3 387 16 0
+~ Move `main_dlg_cur` `time_scale` 3 388 16 0
+~ Move `main_dlg_cur` `time_scale` 3 388 17 0
+~ Move `main_dlg_cur` `time_scale` 3 389 17 0
+~ Move `main_dlg_cur` `time_scale` 3 390 17 0
+~ Move `main_dlg_cur` `time_scale` 3 391 17 0
+~ Move `main_dlg_cur` `time_scale` 3 391 18 0
+~ Move `main_dlg_cur` `time_scale` 3 392 18 0
+~ Move `main_dlg_cur` `time_scale` 3 392 19 0
+~ Move `main_dlg_cur` `time_scale` 3 393 19 0
+~ Move `main_dlg_cur` `time_scale` 3 393 20 0
+~ Move `main_dlg_cur` `time_scale` 3 394 20 0
+~ Move `main_dlg_cur` `time_scale` 3 395 20 0
+~ Move `main_dlg_cur` `time_scale` 3 395 21 0
+~ Move `main_dlg_cur` `time_scale` 3 396 21 0
+~ Move `main_dlg_cur` `time_scale` 3 397 21 0
+~ Exit `main_dlg_cur` `time_scale` 3 397 22 0
+~ Enter `main_dlg_cur` `time_scale` 3 531 21 0
+~ Move `main_dlg_cur` `time_scale` 3 531 21 0
+~ Move `main_dlg_cur` `time_scale` 3 532 20 0
+~ Move `main_dlg_cur` `time_scale` 3 532 19 0
+~ Move `main_dlg_cur` `time_scale` 3 534 18 0
+~ Move `main_dlg_cur` `time_scale` 3 534 17 0
+~ Move `main_dlg_cur` `time_scale` 3 535 17 0
+~ Move `main_dlg_cur` `time_scale` 3 536 16 0
+~ Move `main_dlg_cur` `time_scale` 3 537 15 0
+~ Move `main_dlg_cur` `time_scale` 3 538 14 0
+~ Move `main_dlg_cur` `time_scale` 3 539 14 0
+~ Move `main_dlg_cur` `time_scale` 3 540 13 0
+~ Move `main_dlg_cur` `time_scale` 3 541 12 0
+~ Move `main_dlg_cur` `time_scale` 3 542 11 0
+~ Move `main_dlg_cur` `time_scale` 3 544 10 0
+~ Move `main_dlg_cur` `time_scale` 3 546 9 0
+~ Move `main_dlg_cur` `time_scale` 3 546 8 0
+~ Move `main_dlg_cur` `time_scale` 3 547 8 0
+~ Move `main_dlg_cur` `time_scale` 3 549 8 0
+~ Move `main_dlg_cur` `time_scale` 3 549 7 0
+~ Move `main_dlg_cur` `time_scale` 3 551 7 0
+~ Move `main_dlg_cur` `time_scale` 3 552 6 0
+~ Move `main_dlg_cur` `time_scale` 3 552 5 0
+~ Move `main_dlg_cur` `time_scale` 3 554 5 0
+~ Move `main_dlg_cur` `time_scale` 3 555 4 0
+~ Move `main_dlg_cur` `time_scale` 3 556 3 0
+~ Move `main_dlg_cur` `time_scale` 3 558 3 0
+~ Move `main_dlg_cur` `time_scale` 3 559 2 0
+~ Move `main_dlg_cur` `time_scale` 3 561 1 0
+~ Move `main_dlg_cur` `time_scale` 3 562 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 564 -1 0
+~ Activate `main_dlg_cur` `playBtn`
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+*ANIMATION_FRAME 17.000000 0 0 
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+*ANIMATION_FRAME 21.000000 0 0 
+*ANIMATION_FRAME 22.000000 0 0 
+*ANIMATION_FRAME 23.000000 0 0 
+*ANIMATION_FRAME 24.000000 0 0 
+*ANIMATION_FRAME 25.000000 0 0 
+*ANIMATION_FRAME 26.000000 0 0 
+*ANIMATION_FRAME 27.000000 0 0 
+*ANIMATION_FRAME 28.000000 0 0 
+*ANIMATION_FRAME 29.000000 0 0 
+*ANIMATION_FRAME 30.000000 0 0 
+*ANIMATION_FRAME 31.000000 0 0 
+*ANIMATION_FRAME 32.000000 0 0 
+*ANIMATION_FRAME 33.000000 0 0 
+*ANIMATION_FRAME 34.000000 0 0 
+*ANIMATION_FRAME 35.000000 0 0 
+*ANIMATION_FRAME 36.000000 0 0 
+*ANIMATION_FRAME 37.000000 0 0 
+*ANIMATION_FRAME 38.000000 0 0 
+*ANIMATION_FRAME 39.000000 0 0 
+*ANIMATION_FRAME 40.000000 0 0 
+*ANIMATION_FRAME 41.000000 0 0 
+*ANIMATION_FRAME 42.000000 0 0 
+*ANIMATION_FRAME 43.000000 0 0 
+*ANIMATION_FRAME 44.000000 0 0 
+*ANIMATION_FRAME 45.000000 0 0 
+*ANIMATION_FRAME 46.000000 0 0 
+*ANIMATION_FRAME 47.000000 0 0 
+*ANIMATION_FRAME 48.000000 0 0 
+*ANIMATION_FRAME 49.000000 0 0 
+*ANIMATION_FRAME 50.000000 0 0 
+*ANIMATION_FRAME 51.000000 0 0 
+*ANIMATION_FRAME 52.000000 0 0 
+*ANIMATION_FRAME 53.000000 0 0 
+*ANIMATION_FRAME 54.000000 0 0 
+*ANIMATION_FRAME 55.000000 0 0 
+*ANIMATION_FRAME 56.000000 0 0 
+*ANIMATION_FRAME 57.000000 0 0 
+*ANIMATION_FRAME 58.000000 0 0 
+*ANIMATION_FRAME 59.000000 0 0 
+*ANIMATION_FRAME 60.000000 0 0 
+*ANIMATION_FRAME 61.000000 0 0 
+*ANIMATION_FRAME 62.000000 0 0 
+*ANIMATION_FRAME 63.000000 0 0 
+*ANIMATION_FRAME 64.000000 0 0 
+*ANIMATION_FRAME 65.000000 0 0 
+*ANIMATION_FRAME 66.000000 0 0 
+*ANIMATION_FRAME 67.000000 0 0 
+*ANIMATION_FRAME 68.000000 0 0 
+*ANIMATION_FRAME 69.000000 0 0 
+*ANIMATION_FRAME 70.000000 0 0 
+*ANIMATION_FRAME 71.000000 0 0 
+*ANIMATION_FRAME 72.000000 0 0 
+*ANIMATION_FRAME 73.000000 0 0 
+*ANIMATION_FRAME 74.000000 0 0 
+*ANIMATION_FRAME 75.000000 0 0 
+*ANIMATION_FRAME 76.000000 0 0 
+*ANIMATION_FRAME 77.000000 0 0 
+*ANIMATION_FRAME 78.000000 0 0 
+*ANIMATION_FRAME 79.000000 0 0 
+*ANIMATION_FRAME 80.000000 0 0 
+*ANIMATION_FRAME 81.000000 0 0 
+*ANIMATION_FRAME 82.000000 0 0 
+*ANIMATION_FRAME 83.000000 0 0 
+*ANIMATION_FRAME 84.000000 0 0 
+*ANIMATION_FRAME 85.000000 0 0 
+*ANIMATION_FRAME 86.000000 0 0 
+*ANIMATION_FRAME 87.000000 0 0 
+*ANIMATION_FRAME 88.000000 0 0 
+*ANIMATION_FRAME 89.000000 0 0 
+*ANIMATION_FRAME 90.000000 0 0 
+*ANIMATION_FRAME 91.000000 0 0 
+*ANIMATION_FRAME 92.000000 0 0 
+*ANIMATION_FRAME 93.000000 0 0 
+*ANIMATION_FRAME 94.000000 0 0 
+*ANIMATION_FRAME 95.000000 0 0 
+*ANIMATION_FRAME 96.000000 0 0 
+*ANIMATION_FRAME 97.000000 0 0 
+*ANIMATION_FRAME 98.000000 0 0 
+*ANIMATION_FRAME 99.000000 0 0 
+*ANIMATION_FRAME 100.000000 0 0 
+*ANIMATION_FRAME 101.000000 0 0 
+*ANIMATION_FRAME 102.000000 0 0 
+*ANIMATION_FRAME 103.000000 0 0 
+*ANIMATION_FRAME 104.000000 0 0 
+*ANIMATION_FRAME 105.000000 0 0 
+*ANIMATION_FRAME 106.000000 0 0 
+*ANIMATION_FRAME 107.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1062 1 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 1 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 2 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 4 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 7 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 8 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1062 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 13 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 14 0
+~ Move `main_dlg_cur` `time_scale` 3 1063 16 0
+*ANIMATION_FRAME 108.000000 0 0 
+~ Exit `main_dlg_cur` `time_scale` 3 1063 22 0
+*ANIMATION_FRAME 109.000000 0 0 
+*ANIMATION_FRAME 110.000000 0 0 
+*ANIMATION_FRAME 111.000000 0 0 
+*ANIMATION_FRAME 112.000000 0 0 
+*ANIMATION_FRAME 113.000000 0 0 
+*ANIMATION_FRAME 114.000000 0 0 
+*ANIMATION_FRAME 115.000000 0 0 
+*ANIMATION_FRAME 116.000000 0 0 
+*ANIMATION_FRAME 117.000000 0 0 
+*ANIMATION_FRAME 118.000000 0 0 
+*ANIMATION_FRAME 119.000000 0 0 
+*ANIMATION_FRAME 120.000000 0 0 
+*ANIMATION_FRAME 121.000000 0 0 
+*ANIMATION_FRAME 122.000000 0 0 
+*ANIMATION_FRAME 123.000000 0 0 
+*ANIMATION_FRAME 124.000000 0 0 
+*ANIMATION_FRAME 125.000000 0 0 
+*ANIMATION_FRAME 126.000000 0 0 
+*ANIMATION_FRAME 127.000000 0 0 
+*ANIMATION_FRAME 128.000000 0 0 
+~ Enter `main_dlg_cur` `time_scale` 3 1120 21 0
+~ Move `main_dlg_cur` `time_scale` 3 1120 21 0
+~ Move `main_dlg_cur` `time_scale` 3 1119 21 0
+~ Move `main_dlg_cur` `time_scale` 3 1118 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1117 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1116 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1115 20 0
+~ Move `main_dlg_cur` `time_scale` 3 1115 19 0
+~ Move `main_dlg_cur` `time_scale` 3 1114 19 0
+~ Move `main_dlg_cur` `time_scale` 3 1113 19 0
+~ Move `main_dlg_cur` `time_scale` 3 1112 19 0
+~ Move `main_dlg_cur` `time_scale` 3 1112 18 0
+~ Move `main_dlg_cur` `time_scale` 3 1111 18 0
+~ Move `main_dlg_cur` `time_scale` 3 1111 17 0
+~ Move `main_dlg_cur` `time_scale` 3 1110 17 0
+~ Move `main_dlg_cur` `time_scale` 3 1110 16 0
+~ Move `main_dlg_cur` `time_scale` 3 1109 16 0
+~ Move `main_dlg_cur` `time_scale` 3 1109 15 0
+~ Move `main_dlg_cur` `time_scale` 3 1108 15 0
+~ Move `main_dlg_cur` `time_scale` 3 1108 14 0
+~ Move `main_dlg_cur` `time_scale` 3 1108 13 0
+~ Move `main_dlg_cur` `time_scale` 3 1108 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1109 12 0
+~ Move `main_dlg_cur` `time_scale` 3 1109 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1110 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1111 11 0
+~ Move `main_dlg_cur` `time_scale` 3 1111 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1113 10 0
+~ Move `main_dlg_cur` `time_scale` 3 1113 9 0
+~ Move `main_dlg_cur` `time_scale` 3 1113 8 0
+~ Move `main_dlg_cur` `time_scale` 3 1114 8 0
+~ Move `main_dlg_cur` `time_scale` 3 1115 8 0
+~ Move `main_dlg_cur` `time_scale` 3 1116 7 0
+~ Move `main_dlg_cur` `time_scale` 3 1117 7 0
+~ Move `main_dlg_cur` `time_scale` 3 1117 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1118 6 0
+~ Move `main_dlg_cur` `time_scale` 3 1119 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1121 5 0
+~ Move `main_dlg_cur` `time_scale` 3 1122 4 0
+~ Move `main_dlg_cur` `time_scale` 3 1123 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1124 3 0
+~ Move `main_dlg_cur` `time_scale` 3 1125 2 0
+*ANIMATION_FRAME 129.000000 0 0 
+~ Exit `main_dlg_cur` `time_scale` 3 1133 -1 0
+*ANIMATION_FRAME 130.000000 0 0 
+*ANIMATION_FRAME 131.000000 0 0 
+*ANIMATION_FRAME 132.000000 0 0 
+*ANIMATION_FRAME 133.000000 0 0 
+*ANIMATION_FRAME 134.000000 0 0 
+*ANIMATION_FRAME 135.000000 0 0 
+*ANIMATION_FRAME 136.000000 0 0 
+*ANIMATION_FRAME 137.000000 0 0 
+*ANIMATION_FRAME 138.000000 0 0 
+*ANIMATION_FRAME 139.000000 0 0 
+*ANIMATION_FRAME 140.000000 0 0 
+*ANIMATION_FRAME 141.000000 0 0 
+*ANIMATION_FRAME 142.000000 0 0 
+*ANIMATION_FRAME 143.000000 0 0 
+*ANIMATION_FRAME 144.000000 0 0 
+*ANIMATION_FRAME 145.000000 0 0 
+*ANIMATION_FRAME 146.000000 0 0 
+*ANIMATION_FRAME 147.000000 0 0 
+*ANIMATION_FRAME 148.000000 0 0 
+*ANIMATION_FRAME 149.000000 0 0 
+*ANIMATION_FRAME 150.000000 0 0 
+*ANIMATION_FRAME 0.000000 0 0 
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+~ Activate `main_dlg_cur` `stopBtn`
+!Command AnimCmdDummy was pushed from the software.
+~ Command `AnimCmdCapture` 
+~ Activate `capture` `BrowsePB`
+~ Activate `file_saveas` `SAB_..|`
+~ Activate `file_saveas` `SAB_D:\\project`
+~ Select `file_saveas` `ph_list.Filelist` 1 `team`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `team`
+~ Select `file_saveas` `ph_list.Filelist` 1 `애니메이션`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `애니메이션`
+~ Update `file_saveas` `Inputname` `fedal`
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_451`
+~ Activate `file_saveas` `OK`
+~ Activate `capture` `OK`
+!%CI프레임 150의 0 생성중입니다
+!%CI프레임 150의 1 생성중입니다
+!%CI프레임 150의 2 생성중입니다
+!%CI프레임 150의 3 생성중입니다
+!%CI프레임 150의 4 생성중입니다
+!%CI프레임 150의 5 생성중입니다
+!%CI프레임 150의 6 생성중입니다
+!%CI프레임 150의 7 생성중입니다
+!%CI프레임 150의 8 생성중입니다
+!%CI프레임 150의 9 생성중입니다
+!%CI프레임 150의 10 생성중입니다
+!%CI프레임 150의 11 생성중입니다
+!%CI프레임 150의 12 생성중입니다
+!%CI프레임 150의 13 생성중입니다
+!%CI프레임 150의 14 생성중입니다
+!%CI프레임 150의 15 생성중입니다
+!%CI프레임 150의 16 생성중입니다
+!%CI프레임 150의 17 생성중입니다
+!%CI프레임 150의 18 생성중입니다
+!%CI프레임 150의 19 생성중입니다
+!%CI프레임 150의 20 생성중입니다
+!%CI프레임 150의 21 생성중입니다
+!%CI프레임 150의 22 생성중입니다
+!%CI프레임 150의 23 생성중입니다
+!%CI프레임 150의 24 생성중입니다
+!%CI프레임 150의 25 생성중입니다
+!%CI프레임 150의 26 생성중입니다
+!%CI프레임 150의 27 생성중입니다
+!%CI프레임 150의 28 생성중입니다
+!%CI프레임 150의 29 생성중입니다
+!%CI프레임 150의 30 생성중입니다
+!%CI프레임 150의 31 생성중입니다
+!%CI프레임 150의 32 생성중입니다
+!%CI프레임 150의 33 생성중입니다
+!%CI프레임 150의 34 생성중입니다
+!%CI프레임 150의 35 생성중입니다
+!%CI프레임 150의 36 생성중입니다
+!%CI프레임 150의 37 생성중입니다
+!%CI프레임 150의 38 생성중입니다
+!%CI프레임 150의 39 생성중입니다
+!%CI프레임 150의 40 생성중입니다
+!%CI프레임 150의 41 생성중입니다
+!%CI프레임 150의 42 생성중입니다
+!%CI프레임 150의 43 생성중입니다
+!%CI프레임 150의 44 생성중입니다
+!%CI프레임 150의 45 생성중입니다
+!%CI프레임 150의 46 생성중입니다
+!%CI프레임 150의 47 생성중입니다
+!%CI프레임 150의 48 생성중입니다
+!%CI프레임 150의 49 생성중입니다
+!%CI프레임 150의 50 생성중입니다
+!%CI프레임 150의 51 생성중입니다
+!%CI프레임 150의 52 생성중입니다
+!%CI프레임 150의 53 생성중입니다
+!%CI프레임 150의 54 생성중입니다
+!%CI프레임 150의 55 생성중입니다
+!%CI프레임 150의 56 생성중입니다
+!%CI프레임 150의 57 생성중입니다
+!%CI프레임 150의 58 생성중입니다
+!%CI프레임 150의 59 생성중입니다
+!%CI프레임 150의 60 생성중입니다
+!%CI프레임 150의 61 생성중입니다
+!%CI프레임 150의 62 생성중입니다
+!%CI프레임 150의 63 생성중입니다
+!%CI프레임 150의 64 생성중입니다
+!%CI프레임 150의 65 생성중입니다
+!%CI프레임 150의 66 생성중입니다
+!%CI프레임 150의 67 생성중입니다
+!%CI프레임 150의 68 생성중입니다
+!%CI프레임 150의 69 생성중입니다
+!%CI프레임 150의 70 생성중입니다
+!%CI프레임 150의 71 생성중입니다
+!%CI프레임 150의 72 생성중입니다
+!%CI프레임 150의 73 생성중입니다
+!%CI프레임 150의 74 생성중입니다
+!%CI프레임 150의 75 생성중입니다
+!%CI프레임 150의 76 생성중입니다
+!%CI프레임 150의 77 생성중입니다
+!%CI프레임 150의 78 생성중입니다
+!%CI프레임 150의 79 생성중입니다
+!%CI프레임 150의 80 생성중입니다
+!%CI프레임 150의 81 생성중입니다
+!%CI프레임 150의 82 생성중입니다
+!%CI프레임 150의 83 생성중입니다
+!%CI프레임 150의 84 생성중입니다
+!%CI프레임 150의 85 생성중입니다
+!%CI프레임 150의 86 생성중입니다
+!%CI프레임 150의 87 생성중입니다
+!%CI프레임 150의 88 생성중입니다
+!%CI프레임 150의 89 생성중입니다
+!%CI프레임 150의 90 생성중입니다
+!%CI프레임 150의 91 생성중입니다
+!%CI프레임 150의 92 생성중입니다
+!%CI프레임 150의 93 생성중입니다
+!%CI프레임 150의 94 생성중입니다
+!%CI프레임 150의 95 생성중입니다
+!%CI프레임 150의 96 생성중입니다
+!%CI프레임 150의 97 생성중입니다
+!%CI프레임 150의 98 생성중입니다
+!%CI프레임 150의 99 생성중입니다
+!%CI프레임 150의 100 생성중입니다
+!%CI프레임 150의 101 생성중입니다
+!%CI프레임 150의 102 생성중입니다
+!%CI프레임 150의 103 생성중입니다
+!%CI프레임 150의 104 생성중입니다
+!%CI프레임 150의 105 생성중입니다
+!%CI프레임 150의 106 생성중입니다
+!%CI프레임 150의 107 생성중입니다
+!%CI프레임 150의 108 생성중입니다
+!%CI프레임 150의 109 생성중입니다
+!%CI프레임 150의 110 생성중입니다
+!%CI프레임 150의 111 생성중입니다
+!%CI프레임 150의 112 생성중입니다
+!%CI프레임 150의 113 생성중입니다
+!%CI프레임 150의 114 생성중입니다
+!%CI프레임 150의 115 생성중입니다
+!%CI프레임 150의 116 생성중입니다
+!%CI프레임 150의 117 생성중입니다
+!%CI프레임 150의 118 생성중입니다
+!%CI프레임 150의 119 생성중입니다
+!%CI프레임 150의 120 생성중입니다
+!%CI프레임 150의 121 생성중입니다
+!%CI프레임 150의 122 생성중입니다
+!%CI프레임 150의 123 생성중입니다
+!%CI프레임 150의 124 생성중입니다
+!%CI프레임 150의 125 생성중입니다
+!%CI프레임 150의 126 생성중입니다
+!%CI프레임 150의 127 생성중입니다
+!%CI프레임 150의 128 생성중입니다
+!%CI프레임 150의 129 생성중입니다
+!%CI프레임 150의 130 생성중입니다
+!%CI프레임 150의 131 생성중입니다
+!%CI프레임 150의 132 생성중입니다
+!%CI프레임 150의 133 생성중입니다
+!%CI프레임 150의 134 생성중입니다
+!%CI프레임 150의 135 생성중입니다
+!%CI프레임 150의 136 생성중입니다
+!%CI프레임 150의 137 생성중입니다
+!%CI프레임 150의 138 생성중입니다
+!%CI프레임 150의 139 생성중입니다
+!%CI프레임 150의 140 생성중입니다
+!%CI프레임 150의 141 생성중입니다
+!%CI프레임 150의 142 생성중입니다
+!%CI프레임 150의 143 생성중입니다
+!%CI프레임 150의 144 생성중입니다
+!%CI프레임 150의 145 생성중입니다
+!%CI프레임 150의 146 생성중입니다
+!%CI프레임 150의 147 생성중입니다
+!%CI프레임 150의 148 생성중입니다
+!%CI프레임 150의 149 생성중입니다
+!%CI프레임 150의 150 생성중입니다
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Enter `main_dlg_cur` `time_scale` 3 787 0 0
+~ Move `main_dlg_cur` `time_scale` 3 787 0 0
+~ Move `main_dlg_cur` `time_scale` 3 789 2 0
+~ Move `main_dlg_cur` `time_scale` 3 789 3 0
+~ Move `main_dlg_cur` `time_scale` 3 790 5 0
+~ Move `main_dlg_cur` `time_scale` 3 791 6 0
+~ Move `main_dlg_cur` `time_scale` 3 792 8 0
+~ Move `main_dlg_cur` `time_scale` 3 792 9 0
+~ Move `main_dlg_cur` `time_scale` 3 794 11 0
+~ Move `main_dlg_cur` `time_scale` 3 794 13 0
+~ Move `main_dlg_cur` `time_scale` 3 795 14 0
+~ Move `main_dlg_cur` `time_scale` 3 797 18 0
+~ Move `main_dlg_cur` `time_scale` 3 798 19 0
+~ Exit `main_dlg_cur` `time_scale` 3 799 23 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1190 235 0 1 1511 629 1920 1080 998464
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1190 235 0 0 1511 629 1920 1080 998544
+@ sel view 0
+ 5.597120 -1.853684 -1.470993 -0.000000 3.777410 -4.760135
+ 2.366424 4.384375 3.479225 627.715256 430.215315 -1618.157681 1.000000 0.000000 0
+~ Enter `main_dlg_cur` `time_scale` 3 974 19 0
+~ Move `main_dlg_cur` `time_scale` 3 974 19 0
+~ Move `main_dlg_cur` `time_scale` 3 969 13 0
+~ Move `main_dlg_cur` `time_scale` 3 961 8 0
+~ Move `main_dlg_cur` `time_scale` 3 955 2 0
+~ Exit `main_dlg_cur` `time_scale` 3 949 -3 0
+~ Command `ProCmdUtilAppAsmExit` 
+~ Activate `pmsaveresults` `no_save_exit_btn`
+< 0 0.986074 1511 0 0 832 1920 0 0 1080 13
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CI기준 창은 닫을 수 없습니다.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : PTC Creo Parametric이(가) 종료되며 저장되지 않은 작업 내용은 모두 손실됩니다.
+!               : 종료하시겠습니까?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
