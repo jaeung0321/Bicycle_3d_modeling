@@ -1,0 +1,1852 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2020 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 9808
+!	Application: Creo_Parametric
+!	Start date&time: 2020/07/04  18:48:04
+!	language: korean
+!	machine type: i486_nt
+!	datecode: M100
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: D:\project\team\prt\traceback.log
+!end Exit Logger data.
+< 0 1.216000 1756 0 0 1026 1920 0 0 1080 13
+!mem_use INCREASE Blocks 651776, AppSize 62683704, SysSize 75195960
+< 0 0.995556 1625 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1511 0 0 840 1920 0 0 1080 13
+!%CIPTC Creo Parametric 3.0에 오신 것을 환영합니다.
+< 0 0.992000 1511 0 0 837 1920 0 0 1080 13
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1224 48 0 1 1511 837 1920 1080 19929
+** 0.972278 0.941458 0 1 1
+0.972278 0.794355 L 0 0.992000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1224 48 0 0 1511 837 1920 1080 20008
+~ Move `main_dlg_cur` `main_dlg_cur` 2 0.700649 0.518999
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+!mem_use INCREASE Blocks 683729, AppSize 88944490, SysSize 102780856
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `Current Dir`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Select `file_open` `Ph_list.Filelist` 1 `final`
+~ Activate `file_open` `Ph_list.Filelist` 1 `final`
+~ Select `file_open` `Ph_list.Filelist` 1 `final_frame.asm`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!04-Jul-20 18:48:36  Start D:\project\team\prt\final\final_frame.asm.1
+!04-Jul-20 18:48:36  Start D:\project\team\prt\final\cp_frame.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_frame.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fork.prt.1
+!sket_eps       20.71153318
+!mem_use INCREASE Blocks 170119, AppSize 148426342, SysSize 156967128
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fork.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fork_stack.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_lower_stack.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_lower_stack.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_bearings.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_bearings.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_crown-race.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_crown-race.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fork_stack.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fork_stack_up.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_adjustable_race.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_adjustable_race.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_washer.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_washer.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_locknut.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_locknut.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fork_stack_up.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_bibi.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_bibi.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_crank.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_crank.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fedal_total.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fedal.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fedal.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fedal_axis.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fedal_axis.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fedal_comp_01.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fedal_comp_01.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_fedal_comp_02.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fedal_comp_02.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_fedal_total.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_wheel.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_wheel.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_break_low_right.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_break_low_right.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_crank_gear_right.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_sp_large.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_sp_large.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_crank_r.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_crank_r.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_crank_gear_right.asm.1
+@ trail error  : Creating feature 1107296256 in model CP_CRANK_GEAR_RIGHT - error 0
+!mem_use INCREASE Blocks 568820, AppSize 193189440, SysSize 205217872
+ 0 
+@ trail error  : Creating feature 1107296292 in model CP_CRANK_GEAR_RIGHT - error 0
+ 0 
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_sp_small.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_sp_small.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_tire_.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_tire_.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_chainlink_inner.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_chainlink_inner.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_chainlink_outer.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_chainlink_outer.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_chainlink_outer_last.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_chainlink_outer_last.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_stem.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_stem.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_break_low_left2.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_break_low_left2.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_saddle_mp.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0001.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0001.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0002.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0002.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0004.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0004.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0003.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0003.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0005.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0005.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_saddle_mp.asm.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0008.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0008.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0009.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0009.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0007.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0007.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_prt0006.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_prt0006.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_stem3-.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_stem3-.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_stem2.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_stem2.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_handle.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_handle.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_break_right.prt.1
+!04-Jul-20 18:48:37  End   D:\project\team\prt\final\cp_break_right.prt.1
+!04-Jul-20 18:48:37  Start D:\project\team\prt\final\cp_break_lever.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_break_lever.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_break_wire.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_break_wire.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle.asm.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle4.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle4.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle3.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle3.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle2.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle2.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle.asm.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle_back.asm.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle_back5.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle_back5.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle_back3.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle_back3.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle_back6.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle_back6.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle_back2.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle_back2.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_hub_axle_back4.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle_back4.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_hub_axle_back.asm.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_qr_lever_front.asm.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_qr2_front.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_qr2_front.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_qr1.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_qr1.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_qr3.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_qr3.prt.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_qr4.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_qr4.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_qr_lever_front.asm.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_qr_lever_back.asm.1
+!04-Jul-20 18:48:38  Start D:\project\team\prt\final\cp_qr2_back.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_qr2_back.prt.1
+!04-Jul-20 18:48:38  End   D:\project\team\prt\final\cp_qr_lever_back.asm.1
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-04 at 18:48:38
+!ProgressBarDlg: Regen Started
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-04 at 18:48:38
+!ProgressBarDlg: Regen Completed
+!%CI부품 'CP_SP_LARGE'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!%CI부품 'CP_CRANK_R'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!%CI부품 'CP_FEDAL_TOTAL'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!%CI부품 'CP_HUB_AXLE'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!04-Jul-20 18:48:49  End   D:\project\team\prt\final\final_frame.asm.1
+< 0 0.986074 1511 0 0 832 1920 0 0 1080 13
+!mem_use INCREASE Blocks 1964902, AppSize 238579849, SysSize 272835112
+~ Wheel `main_dlg_cur` `proe_win` 9 1098 290 458752 512 1511 832 1920 1080 47296
+~ Wheel `main_dlg_cur` `proe_win` 9 1098 290 458752 0 1511 832 1920 1080 47342
+~ Wheel `main_dlg_cur` `proe_win` 9 1096 291 458752 1536 1511 832 1920 1080 47377
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win|.mcs29658718_mp|select_a\
+ll_check` 0
+!%CI축들이 표시되지 않습니다.
+!%CI기준점들이 표시되지 않습니다.
+!%CI좌표계가 표시되지 않습니다.
+!%CI기준면들이 표시되지 않습니다.
+~ Wheel `main_dlg_cur` `proe_win` 9 386 118 393216 0 1511 832 1920 1080 49711
+~ Wheel `main_dlg_cur` `proe_win` 9 354 118 393216 0 1511 832 1920 1080 49741
+~ Wheel `main_dlg_cur` `proe_win` 9 304 117 393216 0 1511 832 1920 1080 49775
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdSaveAsModule` 
+~ Activate `file_saveas` `file_saveas`
+~ Activate `file_saveas` `Cancel`
+!%CE아무런 객체도 복사되지 않았습니다.
+~ Wheel `main_dlg_cur` `proe_win` 9 493 294 393216 512 1511 832 1920 1080 75885
+~ Wheel `main_dlg_cur` `proe_win` 9 493 294 393216 0 1511 832 1920 1080 75918
+~ Wheel `main_dlg_cur` `proe_win` 9 493 294 393216 0 1511 832 1920 1080 75934
+~ Wheel `main_dlg_cur` `proe_win` 9 380 242 458752 512 1511 832 1920 1080 76320
+~ Wheel `main_dlg_cur` `proe_win` 9 387 243 458752 0 1511 832 1920 1080 76353
+~ Wheel `main_dlg_cur` `proe_win` 9 396 245 458752 512 1511 832 1920 1080 76386
+~ Wheel `main_dlg_cur` `proe_win` 9 455 251 458752 0 1511 832 1920 1080 76680
+~ Wheel `main_dlg_cur` `proe_win` 9 455 251 458752 0 1511 832 1920 1080 76710
+~ Wheel `main_dlg_cur` `proe_win` 9 584 283 393216 0 1511 832 1920 1080 77782
+~ Wheel `main_dlg_cur` `proe_win` 9 584 283 393216 0 1511 832 1920 1080 77824
+~ Wheel `main_dlg_cur` `proe_win` 9 606 379 458752 0 1511 832 1920 1080 78269
+~ Wheel `main_dlg_cur` `proe_win` 9 606 379 458752 0 1511 832 1920 1080 78304
+~ Select `main_dlg_cur` `appl_casc`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdSaveAsCSA` 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1501 488 0 1 1511 832 1920 1080 84502
+~ Move `main_dlg_cur` `proe_win` 9 1502 488 0 513 1511 832 1920 1080 84506
+~ Move `main_dlg_cur` `proe_win` 9 1504 488 0 513 1511 832 1920 1080 84516
+~ Move `main_dlg_cur` `proe_win` 9 1505 488 0 513 1511 832 1920 1080 84520
+~ Move `main_dlg_cur` `proe_win` 9 1506 488 0 513 1511 832 1920 1080 84528
+~ Move `main_dlg_cur` `proe_win` 9 1507 488 0 513 1511 832 1920 1080 84536
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1507 488 0 0 1511 832 1920 1080 84537
+@ sel view 0
+ 0.201723 0.000331 0.265590 0.119881 0.297491 -0.091423
+ -0.236995 0.150763 0.179817 525.691994 296.271403 -1624.240765 1.562500 0.000000 0
+~ Activate `file_saveas` `file_saveas`
+~ Select `file_saveas` `ph_list.Filelist` 0
+~ Activate `file_saveas` `Cancel`
+!%CE아무런 객체도 복사되지 않았습니다.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Activate `file_saveas` `Cancel`
+!%CE아무런 객체도 복사되지 않았습니다.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelBackup` 
+~ Activate `file_saveas` `Cancel`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdSaveAsCSA` 
+~ Activate `file_saveas` `SAB_.|`
+~ RButtonArm `file_saveas` `ph_list.Filelist` ``
+~ PopupOver `file_saveas` `listPopup` 1 `ph_list.Filelist`
+~ Open `file_saveas` `listPopup`
+~ Close `file_saveas` `listPopup`
+~ Activate `file_saveas` `newdirectory_pb0`
+~ Update `getnewdir` `new_dir_input` `ani_prt`
+~ Activate `getnewdir` `new_dir_input`
+~ Update `file_saveas` `Inputname` `frame`
+~ Activate `file_saveas` `OK`
+!%CP복사할 부품들 또는 하위-어셈블리들을 선택하십시오.
+!CP_FRAME.PRT
+!CP_STEM3-.PRT
+!Model cp_frame.prt hilighted in preview
+!Model stem3-.prt hilighted in preview
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node172`
+!mem_use INCREASE Blocks 2082688, AppSize 291984350, SysSize 326798816
+!Collapsed CP_FORK_STACK.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node166`
+!Collapsed CP_FORK_STACK_UP.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node159`
+!Collapsed CP_FEDAL_TOTAL.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node153`
+!Collapsed CP_CRANK_GEAR_RIGHT.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node148`
+!Collapsed CP_FEDAL_TOTAL.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node38`
+!Collapsed CP_SADDLE_MP.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node18`
+!Collapsed CP_HUB_AXLE.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node11`
+!Collapsed CP_HUB_AXLE_BACK.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node6`
+!Collapsed CP_QR_LEVER_FRONT.ASM
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node1`
+!Collapsed CP_QR_LEVER_BACK.ASM
+~ Activate `assyrename` `PrefChkBtn` 1
+~ Activate `assyrename` `SuffChkBtn` 0
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `cp_a`
+~ Input `assyrename` `Input_prefix` `CP_An`
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `CP_Ai`
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `CP_A_`
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `CP_`
+~ Input `assyrename` `Input_prefix` `CP`
+~ Input `assyrename` `Input_prefix` `C`
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `Ca`
+~ Input `assyrename` `Input_prefix` `C`
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `CA`
+~ Input `assyrename` `Input_prefix` `C`
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `Ca`
+~ Input `assyrename` `Input_prefix` `C`
+~ Input `assyrename` `Input_prefix` `C_`
+~ Input `assyrename` `Input_prefix` `C`
+~ Input `assyrename` `Input_prefix` `Cp`
+~ Input `assyrename` `Input_prefix` `CP_`
+~ Input `assyrename` `Input_prefix` `CP_a`
+~ Input `assyrename` `Input_prefix` `CP_An`
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `CP_Ai`
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `CP_`
+~ Input `assyrename` `Input_prefix` `CP`
+~ Input `assyrename` `Input_prefix` `C`
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `Ca`
+~ Input `assyrename` `Input_prefix` `C`
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` ``
+!%CE부적합한 접미어 값.
+~ Input `assyrename` `Input_prefix` `C2`
+~ Update `assyrename` `Input_prefix` `C2`
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node1`
+!CP_QR_LEVER_BACK.ASM
+!Model cp_frame.prt unhilighted in preview
+!Model stem3-.prt unhilighted in preview
+!Model cp_qr_lever_back.asm hilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 132 `node1` `node6` `node11` `node18` `node26` `node27` `node28` `node29`\
+ `node30` `node31` `node32` `node33` `node34` `node35` `node36` `node37`\
+ `node38` `node45` `node46` `node47` `node48` `node49` `node50` `node51`\
+ `node52` `node53` `node54` `node55` `node56` `node57` `node58` `node59`\
+ `node60` `node61` `node62` `node63` `node64` `node65` `node66` `node67`\
+ `node68` `node69` `node70` `node71` `node72` `node73` `node74` `node75`\
+ `node76` `node77` `node78` `node79` `node80` `node81` `node82` `node83`\
+ `node84` `node85` `node86` `node87` `node88` `node89` `node90` `node91`\
+ `node92` `node93` `node94` `node95` `node96` `node97` `node98` `node99`\
+ `node100` `node101` `node102` `node103` `node104` `node105` `node106`\
+ `node107` `node108` `node109` `node110` `node111` `node112` `node113`\
+ `node114` `node115` `node116` `node117` `node118` `node119` `node120`\
+ `node121` `node122` `node123` `node124` `node125` `node126` `node127`\
+ `node128` `node129` `node130` `node131` `node132` `node133` `node134`\
+ `node135` `node136` `node137` `node138` `node139` `node140` `node141`\
+ `node142` `node143` `node144` `node145` `node146` `node147` `node148`\
+ `node153` `node156` `node157` `node158` `node159` `node164` `node165`\
+ `node166` `node172` `node176` `node177` \
+ 1
+!CP_FRAME.PRT
+!CP_FORK.PRT
+!CP_FORK_STACK.ASM
+!CP_FORK_STACK_UP.ASM
+!CP_BIBI.PRT
+!CP_CRANK.PRT
+!CP_FEDAL_TOTAL.ASM
+!CP_WHEEL.PRT
+!CP_BREAK_LOW_RIGHT.PRT
+!CP_BREAK_LOW_RIGHT.PRT
+!CP_CRANK_GEAR_RIGHT.ASM
+!CP_FEDAL_TOTAL.ASM
+!CP_SP_SMALL.PRT
+!CP_TIRE_.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER_LAST.PRT
+!CP_STEM.PRT
+!CP_BREAK_LOW_LEFT2.PRT
+!CP_BREAK_LOW_LEFT2.PRT
+!CP_WHEEL.PRT
+!CP_TIRE_.PRT
+!CP_SADDLE_MP.ASM
+!CP_PRT0008.PRT
+!CP_PRT0009.PRT
+!CP_PRT0007.PRT
+!CP_PRT0006.PRT
+!CP_STEM3-.PRT
+!CP_STEM2.PRT
+!CP_HANDLE.PRT
+!CP_BREAK_RIGHT.PRT
+!CP_BREAK_LEVER.PRT
+!CP_BREAK_LEVER.PRT
+!CP_BREAK_WIRE.PRT
+!CP_BREAK_WIRE.PRT
+!CP_HUB_AXLE.ASM
+!CP_HUB_AXLE_BACK.ASM
+!CP_QR_LEVER_FRONT.ASM
+!Model cp_frame.prt hilighted in preview
+!Model fork.prt hilighted in preview
+!Model fork_stack.asm hilighted in preview
+!Model fork_stack_up.asm hilighted in preview
+!Model bibi.prt hilighted in preview
+!Model crank.prt hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model crank_gear_right.asm hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model sp_small.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer_last.prt hilighted in preview
+!Model stem.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model saddle_mp.asm hilighted in preview
+!Model prt0008.prt hilighted in preview
+!Model prt0009.prt hilighted in preview
+!Model prt0007.prt hilighted in preview
+!Model prt0006.prt hilighted in preview
+!Model stem3-.prt hilighted in preview
+!Model stem2.prt hilighted in preview
+!Model handle.prt hilighted in preview
+!Model break_right.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model cp_hub_axle.asm hilighted in preview
+!Model hub_axle_back.asm hilighted in preview
+!Model cp_qr_lever_front.asm hilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 133 `node1` `node6` `node11` `node18` `node26` `node27` `node28` `node29`\
+ `node30` `node31` `node32` `node33` `node34` `node35` `node36` `node37`\
+ `node38` `node45` `node46` `node47` `node48` `node49` `node50` `node51`\
+ `node52` `node53` `node54` `node55` `node56` `node57` `node58` `node59`\
+ `node60` `node61` `node62` `node63` `node64` `node65` `node66` `node67`\
+ `node68` `node69` `node70` `node71` `node72` `node73` `node74` `node75`\
+ `node76` `node77` `node78` `node79` `node80` `node81` `node82` `node83`\
+ `node84` `node85` `node86` `node87` `node88` `node89` `node90` `node91`\
+ `node92` `node93` `node94` `node95` `node96` `node97` `node98` `node99`\
+ `node100` `node101` `node102` `node103` `node104` `node105` `node106`\
+ `node107` `node108` `node109` `node110` `node111` `node112` `node113`\
+ `node114` `node115` `node116` `node117` `node118` `node119` `node120`\
+ `node121` `node122` `node123` `node124` `node125` `node126` `node127`\
+ `node128` `node129` `node130` `node131` `node132` `node133` `node134`\
+ `node135` `node136` `node137` `node138` `node139` `node140` `node141`\
+ `node142` `node143` `node144` `node145` `node146` `node147` `node148`\
+ `node153` `node156` `node157` `node158` `node159` `node164` `node165`\
+ `node166` `node172` `node176` `node177` `node0` \
+ 1
+!FINAL_FRAME.ASM
+!Model _ipgl_final_frame.asm.1 hilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 132 `node1` `node6` `node11` `node18` `node26` `node27` `node28` `node29`\
+ `node30` `node31` `node32` `node33` `node34` `node35` `node36` `node37`\
+ `node38` `node45` `node46` `node47` `node48` `node49` `node50` `node51`\
+ `node52` `node53` `node54` `node55` `node56` `node57` `node58` `node59`\
+ `node60` `node61` `node62` `node63` `node64` `node65` `node66` `node67`\
+ `node68` `node69` `node70` `node71` `node72` `node73` `node74` `node75`\
+ `node76` `node77` `node78` `node79` `node80` `node81` `node82` `node83`\
+ `node84` `node85` `node86` `node87` `node88` `node89` `node90` `node91`\
+ `node92` `node93` `node94` `node95` `node96` `node97` `node98` `node99`\
+ `node100` `node101` `node102` `node103` `node104` `node105` `node106`\
+ `node107` `node108` `node109` `node110` `node111` `node112` `node113`\
+ `node114` `node115` `node116` `node117` `node118` `node119` `node120`\
+ `node121` `node122` `node123` `node124` `node125` `node126` `node127`\
+ `node128` `node129` `node130` `node131` `node132` `node133` `node134`\
+ `node135` `node136` `node137` `node138` `node139` `node140` `node141`\
+ `node142` `node143` `node144` `node145` `node146` `node147` `node148`\
+ `node153` `node156` `node157` `node158` `node159` `node164` `node165`\
+ `node166` `node172` `node176` `node177` \
+ 1
+!Model _ipgl_final_frame.asm.1 unhilighted in preview
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_frame.prt hilighted in preview
+!Model fork.prt hilighted in preview
+!Model fork_stack.asm hilighted in preview
+!Model fork_stack_up.asm hilighted in preview
+!Model bibi.prt hilighted in preview
+!Model crank.prt hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model crank_gear_right.asm hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model sp_small.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer_last.prt hilighted in preview
+!Model stem.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model saddle_mp.asm hilighted in preview
+!Model prt0008.prt hilighted in preview
+!Model prt0009.prt hilighted in preview
+!Model prt0007.prt hilighted in preview
+!Model prt0006.prt hilighted in preview
+!Model stem3-.prt hilighted in preview
+!Model stem2.prt hilighted in preview
+!Model handle.prt hilighted in preview
+!Model break_right.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model cp_hub_axle.asm hilighted in preview
+!Model hub_axle_back.asm hilighted in preview
+!Model cp_qr_lever_front.asm hilighted in preview
+!Model cp_qr_lever_back.asm hilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node0`
+!FINAL_FRAME.ASM
+!Model cp_frame.prt unhilighted in preview
+!Model fork.prt unhilighted in preview
+!Model fork_stack.asm unhilighted in preview
+!Model fork_stack_up.asm unhilighted in preview
+!Model bibi.prt unhilighted in preview
+!Model crank.prt unhilighted in preview
+!Model cp_fedal_total.asm unhilighted in preview
+!Model wheel.prt unhilighted in preview
+!Model break_low_right.prt unhilighted in preview
+!Model break_low_right.prt unhilighted in preview
+!Model crank_gear_right.asm unhilighted in preview
+!Model cp_fedal_total.asm unhilighted in preview
+!Model sp_small.prt unhilighted in preview
+!Model tire_.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer_last.prt unhilighted in preview
+!Model stem.prt unhilighted in preview
+!Model break_low_left2.prt unhilighted in preview
+!Model break_low_left2.prt unhilighted in preview
+!Model wheel.prt unhilighted in preview
+!Model tire_.prt unhilighted in preview
+!Model saddle_mp.asm unhilighted in preview
+!Model prt0008.prt unhilighted in preview
+!Model prt0009.prt unhilighted in preview
+!Model prt0007.prt unhilighted in preview
+!Model prt0006.prt unhilighted in preview
+!Model stem3-.prt unhilighted in preview
+!Model stem2.prt unhilighted in preview
+!Model handle.prt unhilighted in preview
+!Model break_right.prt unhilighted in preview
+!Model break_lever.prt unhilighted in preview
+!Model break_lever.prt unhilighted in preview
+!Model break_wire.prt unhilighted in preview
+!Model break_wire.prt unhilighted in preview
+!Model cp_hub_axle.asm unhilighted in preview
+!Model hub_axle_back.asm unhilighted in preview
+!Model cp_qr_lever_front.asm unhilighted in preview
+!Model cp_qr_lever_back.asm unhilighted in preview
+!Model _ipgl_final_frame.asm.1 hilighted in preview
+~ Activate `assyrename` `GenNamesBtn`
+!Model _ipgl_final_frame.asm.1 hilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node38`
+!Expanded CP_SADDLE_MP.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node8`
+!CP_PRT0001.PRT
+!Model _ipgl_final_frame.asm.1 unhilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 6 `node8` `node7` `node5` `node4` `node3` `node2` \
+ 1
+!CP_PRT0002.PRT
+!CP_PRT0004.PRT
+!CP_PRT0003.PRT
+!CP_PRT0002.PRT
+!CP_PRT0005.PRT
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_prt0001<generic>.prt hilighted in preview
+!Model cp_prt0002.prt hilighted in preview
+!Model cp_prt0004.prt hilighted in preview
+!Model cp_prt0003.prt hilighted in preview
+!Model cp_prt0002.prt hilighted in preview
+!Model cp_prt0005.prt hilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node18`
+!Expanded CP_HUB_AXLE.ASM
+~ Activate `assyrename` `SelAllPush`
+!CP_FRAME.PRT
+!CP_FORK.PRT
+!CP_FORK_STACK.ASM
+!CP_FORK_STACK_UP.ASM
+!CP_BIBI.PRT
+!CP_CRANK.PRT
+!CP_FEDAL_TOTAL.ASM
+!CP_WHEEL.PRT
+!CP_BREAK_LOW_RIGHT.PRT
+!CP_BREAK_LOW_RIGHT.PRT
+!CP_CRANK_GEAR_RIGHT.ASM
+!CP_FEDAL_TOTAL.ASM
+!CP_SP_SMALL.PRT
+!CP_TIRE_.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER.PRT
+!CP_CHAINLINK_INNER.PRT
+!CP_CHAINLINK_OUTER_LAST.PRT
+!CP_STEM.PRT
+!CP_BREAK_LOW_LEFT2.PRT
+!CP_BREAK_LOW_LEFT2.PRT
+!CP_WHEEL.PRT
+!CP_TIRE_.PRT
+!CP_SADDLE_MP.ASM
+!CP_PRT0008.PRT
+!CP_PRT0009.PRT
+!CP_PRT0007.PRT
+!CP_PRT0006.PRT
+!CP_STEM3-.PRT
+!CP_STEM2.PRT
+!CP_HANDLE.PRT
+!CP_BREAK_RIGHT.PRT
+!CP_BREAK_LEVER.PRT
+!CP_BREAK_LEVER.PRT
+!CP_BREAK_WIRE.PRT
+!CP_BREAK_WIRE.PRT
+!CP_HUB_AXLE.ASM
+!CP_HUB_AXLE4.PRT
+!CP_HUB_AXLE3.PRT
+!CP_HUB_AXLE3.PRT
+!CP_HUB_AXLE.PRT
+!CP_HUB_AXLE.PRT
+!CP_HUB_AXLE2.PRT
+!CP_HUB_AXLE2.PRT
+!CP_HUB_AXLE_BACK.ASM
+!CP_QR_LEVER_FRONT.ASM
+!CP_QR_LEVER_BACK.ASM
+!Model cp_frame.prt hilighted in preview
+!Model fork.prt hilighted in preview
+!Model fork_stack.asm hilighted in preview
+!Model fork_stack_up.asm hilighted in preview
+!Model bibi.prt hilighted in preview
+!Model crank.prt hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model crank_gear_right.asm hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model sp_small.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer_last.prt hilighted in preview
+!Model stem.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model saddle_mp.asm hilighted in preview
+!Model prt0008.prt hilighted in preview
+!Model prt0009.prt hilighted in preview
+!Model prt0007.prt hilighted in preview
+!Model prt0006.prt hilighted in preview
+!Model stem3-.prt hilighted in preview
+!Model stem2.prt hilighted in preview
+!Model handle.prt hilighted in preview
+!Model break_right.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model cp_hub_axle.asm hilighted in preview
+!Model hub_axle_back.asm hilighted in preview
+!Model cp_qr_lever_front.asm hilighted in preview
+!Model cp_qr_lever_back.asm hilighted in preview
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_frame.prt hilighted in preview
+!Model fork.prt hilighted in preview
+!Model fork_stack.asm hilighted in preview
+!Model fork_stack_up.asm hilighted in preview
+!Model bibi.prt hilighted in preview
+!Model crank.prt hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model break_low_right.prt hilighted in preview
+!Model crank_gear_right.asm hilighted in preview
+!Model cp_fedal_total.asm hilighted in preview
+!Model sp_small.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer.prt hilighted in preview
+!Model chainlink_inner.prt hilighted in preview
+!Model chainlink_outer_last.prt hilighted in preview
+!Model stem.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model break_low_left2.prt hilighted in preview
+!Model wheel.prt hilighted in preview
+!Model tire_.prt hilighted in preview
+!Model saddle_mp.asm hilighted in preview
+!Model cp_prt0001<generic>.prt hilighted in preview
+!Model cp_prt0002.prt hilighted in preview
+!Model cp_prt0004.prt hilighted in preview
+!Model cp_prt0003.prt hilighted in preview
+!Model cp_prt0002.prt hilighted in preview
+!Model cp_prt0005.prt hilighted in preview
+!Model prt0008.prt hilighted in preview
+!Model prt0009.prt hilighted in preview
+!Model prt0007.prt hilighted in preview
+!Model prt0006.prt hilighted in preview
+!Model stem3-.prt hilighted in preview
+!Model stem2.prt hilighted in preview
+!Model handle.prt hilighted in preview
+!Model break_right.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_lever.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model break_wire.prt hilighted in preview
+!Model cp_hub_axle.asm hilighted in preview
+!Model cp_hub_axle4.prt hilighted in preview
+!Model cp_hub_axle3.prt hilighted in preview
+!Model cp_hub_axle3.prt hilighted in preview
+!Model cp_hub_axle.prt hilighted in preview
+!Model cp_hub_axle.prt hilighted in preview
+!Model cp_hub_axle2.prt hilighted in preview
+!Model cp_hub_axle2.prt hilighted in preview
+!Model hub_axle_back.asm hilighted in preview
+!Model cp_qr_lever_front.asm hilighted in preview
+!Model cp_qr_lever_back.asm hilighted in preview
+~ Collapse `assyrename` `PHGenEdtTool.AssyTree` `node18`
+!Collapsed CP_HUB_AXLE.ASM
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node11`
+!Expanded CP_HUB_AXLE_BACK.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node15`
+!CP_HUB_AXLE_BACK5.PRT
+!Model cp_frame.prt unhilighted in preview
+!Model fork.prt unhilighted in preview
+!Model fork_stack.asm unhilighted in preview
+!Model fork_stack_up.asm unhilighted in preview
+!Model bibi.prt unhilighted in preview
+!Model crank.prt unhilighted in preview
+!Model cp_fedal_total.asm unhilighted in preview
+!Model wheel.prt unhilighted in preview
+!Model break_low_right.prt unhilighted in preview
+!Model break_low_right.prt unhilighted in preview
+!Model crank_gear_right.asm unhilighted in preview
+!Model cp_fedal_total.asm unhilighted in preview
+!Model sp_small.prt unhilighted in preview
+!Model tire_.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer.prt unhilighted in preview
+!Model chainlink_inner.prt unhilighted in preview
+!Model chainlink_outer_last.prt unhilighted in preview
+!Model stem.prt unhilighted in preview
+!Model break_low_left2.prt unhilighted in preview
+!Model break_low_left2.prt unhilighted in preview
+!Model wheel.prt unhilighted in preview
+!Model tire_.prt unhilighted in preview
+!Model saddle_mp.asm unhilighted in preview
+!Model cp_prt0001<generic>.prt unhilighted in preview
+!Model cp_prt0002.prt unhilighted in preview
+!Model cp_prt0004.prt unhilighted in preview
+!Model cp_prt0003.prt unhilighted in preview
+!Model cp_prt0002.prt unhilighted in preview
+!Model cp_prt0005.prt unhilighted in preview
+!Model prt0008.prt unhilighted in preview
+!Model prt0009.prt unhilighted in preview
+!Model prt0007.prt unhilighted in preview
+!Model prt0006.prt unhilighted in preview
+!Model stem3-.prt unhilighted in preview
+!Model stem2.prt unhilighted in preview
+!Model handle.prt unhilighted in preview
+!Model break_right.prt unhilighted in preview
+!Model break_lever.prt unhilighted in preview
+!Model break_lever.prt unhilighted in preview
+!Model break_wire.prt unhilighted in preview
+!Model break_wire.prt unhilighted in preview
+!Model cp_hub_axle.asm unhilighted in preview
+!Model cp_hub_axle4.prt unhilighted in preview
+!Model cp_hub_axle3.prt unhilighted in preview
+!Model cp_hub_axle3.prt unhilighted in preview
+!Model cp_hub_axle.prt unhilighted in preview
+!Model cp_hub_axle.prt unhilighted in preview
+!Model cp_hub_axle2.prt unhilighted in preview
+!Model cp_hub_axle2.prt unhilighted in preview
+!Model hub_axle_back.asm unhilighted in preview
+!Model cp_qr_lever_front.asm unhilighted in preview
+!Model cp_qr_lever_back.asm unhilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 6 `node15` `node14` `node13` `node12` `node10` `node9` \
+ 1
+!CP_HUB_AXLE_BACK3.PRT
+!CP_HUB_AXLE_BACK6.PRT
+!CP_HUB_AXLE2.PRT
+!CP_HUB_AXLE_BACK2.PRT
+!CP_HUB_AXLE_BACK4.PRT
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_hub_axle_back5.prt hilighted in preview
+!Model cp_hub_axle_back3.prt hilighted in preview
+!Model cp_hub_axle_back6.prt hilighted in preview
+!Model cp_hub_axle2.prt hilighted in preview
+!Model cp_hub_axle_back2.prt hilighted in preview
+!Model cp_hub_axle_back4.prt hilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node6`
+!Expanded CP_QR_LEVER_FRONT.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node20`
+!CP_QR2_FRONT.PRT
+!Model cp_hub_axle_back5.prt unhilighted in preview
+!Model cp_hub_axle_back3.prt unhilighted in preview
+!Model cp_hub_axle_back6.prt unhilighted in preview
+!Model cp_hub_axle2.prt unhilighted in preview
+!Model cp_hub_axle_back2.prt unhilighted in preview
+!Model cp_hub_axle_back4.prt unhilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 4 `node20` `node19` `node17` `node16` \
+ 1
+!CP_QR1.PRT
+!CP_QR3.PRT
+!CP_QR4.PRT
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_qr2_front.prt hilighted in preview
+!Model cp_qr1.prt hilighted in preview
+!Model cp_qr3.prt hilighted in preview
+!Model cp_qr4.prt hilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node1`
+!Expanded CP_QR_LEVER_BACK.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node24`
+!CP_QR2_BACK.PRT
+!Model cp_qr2_front.prt unhilighted in preview
+!Model cp_qr1.prt unhilighted in preview
+!Model cp_qr3.prt unhilighted in preview
+!Model cp_qr4.prt unhilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 4 `node24` `node23` `node22` `node21` \
+ 1
+!CP_QR1.PRT
+!CP_QR3.PRT
+!CP_QR4.PRT
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_qr2_back.prt hilighted in preview
+!Model cp_qr1.prt hilighted in preview
+!Model cp_qr3.prt hilighted in preview
+!Model cp_qr4.prt hilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node148`
+!Expanded CP_FEDAL_TOTAL.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node41`
+!CP_FEDAL.PRT
+!Model cp_qr2_back.prt unhilighted in preview
+!Model cp_qr1.prt unhilighted in preview
+!Model cp_qr3.prt unhilighted in preview
+!Model cp_qr4.prt unhilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 4 `node41` `node40` `node39` `node25` \
+ 1
+!CP_FEDAL_AXIS.PRT
+!CP_FEDAL_COMP_01.PRT
+!CP_FEDAL_COMP_02.PRT
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_fedal.prt hilighted in preview
+!Model cp_fedal_axis.prt hilighted in preview
+!Model cp_fedal_comp_01.prt hilighted in preview
+!Model cp_fedal_comp_02.prt hilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node153`
+!Expanded CP_CRANK_GEAR_RIGHT.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node43`
+!CP_SP_LARGE.PRT
+!Model cp_fedal.prt unhilighted in preview
+!Model cp_fedal_axis.prt unhilighted in preview
+!Model cp_fedal_comp_01.prt unhilighted in preview
+!Model cp_fedal_comp_02.prt unhilighted in preview
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 2 `node43` `node42` \
+ 1
+!CP_CRANK_R.PRT
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_sp_large.prt hilighted in preview
+!Model cp_crank_r.prt hilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node159`
+!Expanded CP_FEDAL_TOTAL.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node151`
+!CP_FEDAL.PRT
+!Model cp_sp_large.prt unhilighted in preview
+!Model cp_crank_r.prt unhilighted in preview
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node166`
+!Expanded CP_FORK_STACK_UP.ASM
+~ Expand `assyrename` `PHGenEdtTool.AssyTree` `node172`
+!Expanded CP_FORK_STACK.ASM
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 1 `node161`
+!CP_LOWER_STACK.PRT
+~ Select `assyrename` `PHGenEdtTool.AssyTree` 5 `node161` `node160` `node155` `node154` `node152` \
+ 1
+!CP_BEARINGS.PRT
+!CP_ADJUSTABLE_RACE.PRT
+!CP_WASHER.PRT
+!CP_LOCKNUT.PRT
+~ Activate `assyrename` `GenNamesBtn`
+!Model cp_lower_stack.prt hilighted in preview
+!Model cp_bearings.prt hilighted in preview
+!Model cp_adjustable_race.prt hilighted in preview
+!Model cp_washer.prt hilighted in preview
+!Model cp_locknut.prt hilighted in preview
+~ Activate `assyrename` `OkBtn`
+~ Activate `storage_conflicts` `OK_PushButton`
+!mem_use DECREASE Blocks 2017219, AppSize 256079007, SysSize 288867896
+!%CIFRAME이(가) 저장되었습니다.
+!%CIFINAL_FRAME가 FRAME으로 복사되었습니다.
+~ Wheel `main_dlg_cur` `proe_win` 9 395 332 393216 0 1511 832 1920 1080 295229
+~ Wheel `main_dlg_cur` `proe_win` 9 395 332 393216 0 1511 832 1920 1080 295257
+~ Wheel `main_dlg_cur` `proe_win` 9 395 332 393216 0 1511 832 1920 1080 295290
+~ Wheel `main_dlg_cur` `proe_win` 9 395 333 458752 0 1511 832 1920 1080 295537
+~ Wheel `main_dlg_cur` `proe_win` 9 395 333 458752 0 1511 832 1920 1080 295544
+~ Wheel `main_dlg_cur` `proe_win` 9 395 334 458752 0 1511 832 1920 1080 295591
+~ Wheel `main_dlg_cur` `proe_win` 9 395 335 393216 0 1511 832 1920 1080 295917
+~ Wheel `main_dlg_cur` `proe_win` 9 395 335 393216 0 1511 832 1920 1080 295940
+~ Wheel `main_dlg_cur` `proe_win` 9 395 335 393216 0 1511 832 1920 1080 296013
+~ Wheel `main_dlg_cur` `proe_win` 9 450 307 458752 0 1511 832 1920 1080 296378
+~ Wheel `main_dlg_cur` `proe_win` 9 450 307 458752 0 1511 832 1920 1080 296416
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node31`
+!CP_FRAME.PRT
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `SAB_.|`
+~ Select `file_open` `Ph_list.Filelist` 1 `ani_prt`
+~ Activate `file_open` `Ph_list.Filelist` 1 `ani_prt`
+~ Select `file_open` `Ph_list.Filelist` 1 `frame.asm`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 0.975000 975 0 0 900 1920 0 0 1080 13
+< 2 0.995556 1552 0 0 840 1920 0 0 1080 13
+!04-Jul-20 18:53:09  Start D:\project\team\prt\ani_prt\frame.asm.1
+!04-Jul-20 18:53:09  Start D:\project\team\prt\ani_prt\c2cp_frame.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_frame.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fork.prt.1
+!sket_eps       21.89385951
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fork.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fork_stack.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_lower_stack.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_lower_stack.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_bearings.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_bearings.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fork_stack.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fork_stack_up.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_adjustable_race.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_adjustable_race.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_washer.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_washer.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_locknut.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_locknut.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fork_stack_up.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_bibi.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_bibi.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_crank.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_crank.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fedal_total.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fedal.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fedal.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fedal_axis.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fedal_axis.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fedal_comp_01.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fedal_comp_01.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_fedal_comp_02.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fedal_comp_02.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_fedal_total.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_wheel.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_wheel.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_break_low_right.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_break_low_right.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_crank_gear_right.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_sp_large.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_sp_large.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_crank_r.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_crank_r.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_crank_gear_right.asm.1
+@ trail error  : Creating feature 1107296256 in model C2CP_CRANK_GEAR_RIGHT - error 0
+!mem_use INCREASE Blocks 1756749, AppSize 332861467, SysSize 355190696
+ 0 
+@ trail error  : Creating feature 1107296292 in model C2CP_CRANK_GEAR_RIGHT - error 0
+ 0 
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_sp_small.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_sp_small.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_tire_.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_tire_.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_chainlink_inner.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_chainlink_inner.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_chainlink_outer.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_chainlink_outer.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_chainlink_outer_last.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_chainlink_outer_last.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_stem.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_stem.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_break_low_left2.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_break_low_left2.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_saddle_mp.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0001.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0001.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0002.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0002.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0004.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0004.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0003.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0003.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0005.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0005.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_saddle_mp.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0008.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0008.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0009.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0009.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0007.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0007.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_prt0006.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_prt0006.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_stem3-.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_stem3-.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_stem2.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_stem2.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_handle.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_handle.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_break_right.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_break_right.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_break_lever.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_break_lever.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_break_wire.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_break_wire.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle4.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_hub_axle4.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle3.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_hub_axle3.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_hub_axle.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle2.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_hub_axle2.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_hub_axle.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle_back.asm.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle_back5.prt.1
+!04-Jul-20 18:53:10  End   D:\project\team\prt\ani_prt\c2cp_hub_axle_back5.prt.1
+!04-Jul-20 18:53:10  Start D:\project\team\prt\ani_prt\c2cp_hub_axle_back3.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_hub_axle_back3.prt.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_hub_axle_back6.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_hub_axle_back6.prt.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_hub_axle_back2.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_hub_axle_back2.prt.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_hub_axle_back4.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_hub_axle_back4.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_hub_axle_back.asm.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_qr_lever_front.asm.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_qr2_front.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_qr2_front.prt.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_qr1.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_qr1.prt.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_qr3.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_qr3.prt.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_qr4.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_qr4.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_qr_lever_front.asm.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_qr_lever_back.asm.1
+!04-Jul-20 18:53:11  Start D:\project\team\prt\ani_prt\c2cp_qr2_back.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_qr2_back.prt.1
+!04-Jul-20 18:53:11  End   D:\project\team\prt\ani_prt\c2cp_qr_lever_back.asm.1
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-04 at 18:53:11
+!ProgressBarDlg: Regen Started
+< 2 0.995556 1488 0 0 840 1920 0 0 1080 13
+!mem_use INCREASE Blocks 881494, AppSize 399926535, SysSize 417141880
+< 2 0.992000 1488 0 0 837 1920 0 0 1080 13
+!sket_eps       22.83553089
+!Mechanism Design Command Script File
+!	Version: 	P_20_71:spg
+!	Platform:	i486_nt
+!	Created: 	2020-07-04 at 18:53:11
+!ProgressBarDlg: Regen Completed
+!%CI부품 'C2CP_SP_LARGE'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!%CI부품 'C2CP_CRANK_R'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!%CI부품 'C2CP_FEDAL_TOTAL'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!%CI부품 'C2CP_HUB_AXLE'은(는) 마지막 재생성 이후로 변경되지 않았습니다.
+!04-Jul-20 18:53:22  End   D:\project\team\prt\ani_prt\frame.asm.1
+< 2 0.986074 1488 0 0 832 1920 0 0 1080 13
+? -128.1392647819629929 473.8471027892152847 0.0000000000001137 
+0.0000000000000000 0.0000000000000000 0.0000000000000000 
+& 0.6716666666666666 0.0000000000000000 0.0000000000000000 
+0.0000000000000000 0.6716666666666666 0.0000000000000000 
+0.0000000000000000 0.0000000000000000 0.6716666666666666 
+164.1666666666666288 138.5156249999999432 0.0000000000000000 
+; 0.6048448837640784 0.3594502951043801 -0.7106040753709426 
+0.0009913000949510 0.8919932886029708 0.4520475532633325 
+0.7963426925065311 -0.2741230716967256 0.5391612538517675 
+0.0000000000000000 0.0000000000000000 0.0000000000000000 
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+~ Move `main_dlg_cur` `main_dlg_cur` 2 -0.181650 0.648749
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+!%CI기준 창은 닫을 수 없습니다.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
